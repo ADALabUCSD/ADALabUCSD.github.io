@@ -12,7 +12,7 @@ Applying ML to structured data often involves performing relational operations a
 
 In this project, we mitigate the above overhead by leveraging a popular formal algebra to represent the computations of many ML algorithms: linear algebra (LA). We introduce a new logical data type to represent multi-table data and devise a framework of algebraic rewrite rules to convert a large set of LA operations over denormalized data into operations over the base tables. This enables us to automatically factorize several popular ML algorithms, thus unifying and generalizing prior works. Experiments with real-world multi-table datasets show that our approach also yields significant runtimes speed-ups in multiple ML system environments.
 
-We have protoyped Morpheus in the popular R environment. Version in Python and TensorFlow, as well as Apache SystemML are in the works. This project sets the stage for a holistic unification of relational algebra-based feature and data engineering with LA-based ML to help accelerate ML workloads over structured data.
+We have protoyped Morpheus in the popular R environment. Versions in Python and TensorFlow, as well as Apache SystemML are in the works. This project sets the stage for a holistic unification of relational algebra-based feature and data engineering with LA-based ML to help accelerate ML workloads over structured data.
 
 === Downloads (Paper, Code, Data, etc.)
 
@@ -30,3 +30,4 @@ VLDB 2017 |
 
 - Lingjiao Chen: lchen1 \[at\] wisc \[dot\] edu (for Morpheus in R)
 - Side Li: s7li \[at\] eng \[dot\] ucsd \[dot\] edu (for Morpheus in Python and others)
+

@@ -260,7 +260,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+  Page generated |, by <a href="http://jemdoc.jaboc.net/" target=_blank>jemdoc</a>.
 
   [sourcelink]
   (<a href="|">source</a>)
@@ -641,7 +641,7 @@ def replacelinks(b):
       # remove any mailto before labelling.
       linkname = re.sub('^mailto:', '', link)
 
-    b = b[:m.start()] + r'<a href=\"%s\">%s<\/a>' % (link, linkname) + b[m.end():]
+    b = b[:m.start()] + r'<a href=\"%s\" target=_blank>%s<\/a>' % (link, linkname) + b[m.end():]
 
     m = r.search(b, m.start())
 
@@ -1456,7 +1456,7 @@ def procfile(f):
 
           out(f.outf, '<table class="imgtable"><tr><td>\n')
           if g[6]:
-            out(f.outf, '<a href="%s">' % g[6])
+            out(f.outf, '<a href="%s" target=_blank>' % g[6])
           out(f.outf, '<img src="%s"' % g[2])
           out(f.outf, ' alt="%s"' % g[3])
           if g[4]:

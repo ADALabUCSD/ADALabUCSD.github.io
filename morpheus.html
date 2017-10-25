@@ -47,34 +47,34 @@
 <td align="left"><h2>Project Morpheus</h2>
 </td></tr></table>
 <h3>Overview</h3>
-<p>Applying ML to structured data often involves performing relational operations as part of feature and data engineering. For instance, joins before ML are ubiquitous, since many datasets in the real world are multi-table, while almost all ML toolkits expect single-table inputs. This forces data scientists to join those tables and <i>materialize</i> a single table, which leads to data redundancy and runtime waste. In recent work (<a href="orion.html">Project Orion</a>), we introduced the paradigm of “factorized” ML to mitigate this issue for a few specific ML algorithms by showing how to push ML through joins. But that approach requires a manual rewrite of ML implementations. Such a piecemeal approach creates a massive development overhead when extending factorized ML to other ML algorithms.</p>
+<p>Applying ML to structured data often involves performing relational operations as part of feature and data engineering. For instance, joins before ML are ubiquitous, since many datasets in the real world are multi-table, while almost all ML toolkits expect single-table inputs. This forces data scientists to join those tables and <i>materialize</i> a single table, which leads to data redundancy and runtime waste. In recent work (<a href="orion.html" target=_blank>Project Orion</a>), we introduced the paradigm of “factorized” ML to mitigate this issue for a few specific ML algorithms by showing how to push ML through joins. But that approach requires a manual rewrite of ML implementations. Such a piecemeal approach creates a massive development overhead when extending factorized ML to other ML algorithms.</p>
 <p>In this project, we mitigate the above overhead by leveraging a popular formal algebra to represent the computations of many ML algorithms: linear algebra (LA). We introduce a new logical data type to represent multi-table data and devise a framework of algebraic rewrite rules to convert a large set of LA operations over denormalized data into operations over the base tables. This enables us to automatically factorize several popular ML algorithms, thus unifying and generalizing prior works. Experiments with real-world multi-table datasets show that our approach also yields significant runtimes speed-ups in multiple ML system environments.</p>
-<p>We have protoyped Morpheus in the popular R environment. Version in Python and TensorFlow, as well as Apache SystemML are in the works. This project sets the stage for a holistic unification of relational algebra-based feature and data engineering with LA-based ML to help accelerate ML workloads over structured data.</p>
+<p>We have protoyped Morpheus in the popular R environment. Versions in Python and TensorFlow, as well as Apache SystemML are in the works. This project sets the stage for a holistic unification of relational algebra-based feature and data engineering with LA-based ML to help accelerate ML workloads over structured data.</p>
 <h3>Downloads (Paper, Code, Data, etc.)</h3>
 <ul>
 <li><p>Towards Linear Algebra over Normalized Data<br />
 Lingjiao Chen, Arun Kumar, Jeffrey Naughton, and Jignesh Patel<br />
 VLDB 2017 |
-<a href="papers/2017_Morpheus_VLDB.pdf">Paper PDF</a> |
-<a href="papers/TR_2017_Morpheus.pdf">TechReport</a></p>
+<a href="papers/2017_Morpheus_VLDB.pdf" target=_blank>Paper PDF</a> |
+<a href="papers/TR_2017_Morpheus.pdf" target=_blank>TechReport</a></p>
 </li>
 </ul>
 <ul>
-<li><p><a href="https://github.com/lchen001/Morpheus">Morpheus Code on GitHub</a> (R library for normalized matrix and factorized LA; example factorized ML algorithms)</p>
+<li><p><a href="https://github.com/lchen001/Morpheus" target=_blank>Morpheus Code on GitHub</a> (R library for normalized matrix and factorized LA; example factorized ML algorithms)</p>
 </li>
-<li><p><a href="https://github.com/lchen001/Morpheus/blob/master/Data.zip">Real-world datasets</a> (Based on the <a href="hamlet.html">Project Hamlet</a> datasets)</p>
+<li><p><a href="https://github.com/lchen001/Morpheus/blob/master/Data.zip" target=_blank>Real-world datasets</a> (Based on the <a href="hamlet.html" target=_blank>Project Hamlet</a> datasets)</p>
 </li>
 </ul>
 <h3>Student Contacts</h3>
 <ul>
 <li><p>Lingjiao Chen: lchen1 [at] wisc [dot] edu (for Morpheus in R)</p>
 </li>
-<li><p>Side Li: s7li [at] eng [dot] ucsd [dot] edu (for Morpheus in Python and others</p>
+<li><p>Side Li: s7li [at] eng [dot] ucsd [dot] edu (for Morpheus in Python and others)</p>
 </li>
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2017-10-24 19:09:38 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2017-10-25 13:19:23 PDT, by <a href="http://jemdoc.jaboc.net/" target=_blank>jemdoc</a>.
 </div>
 </div>
 </td>

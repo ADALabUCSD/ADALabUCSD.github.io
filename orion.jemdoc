@@ -12,7 +12,7 @@ While almost all ML toolkits assume that the input data for ML is a single table
 
 In this project, we introduce the paradigm of learning /over/ joins to avoid the need to materialize joins before ML. In particular, we introduce a novel technique we call “factorized learning” that decomposes ML computations and pushes them down through joins to the base tables, inspired by how RDBMSs push relational operations through joins. Focusing on a large class of ML models known as generalized linear models (GLMs) solved using gradient descent methods, we show factorized learning works, including at scale. We also analyze the performance of different alternative plans and devise RDBMS-style cost models. Extensive empirical analysis with different scale factors of data validate the performance and storage benefits of factorized learning and the accuracy of our cost models.
 
-We have protoyped Orion using user-defined functions in the PostgreSQL and Hive/Hadoop environments. Orion now been generalized and superseded by [morpheus.html Project Morpheus].
+We have protoyped Orion using user-defined functions in the PostgreSQL and Hive/Hadoop environments. Orion has been generalized and superseded by [morpheus.html Project Morpheus].
 
 *Santoku (Factorized learning and scoring in R)*
 
@@ -38,3 +38,4 @@ VLDB 2015 (Demo) |
 [papers/2015_Santoku_VLDB.pdf Paper PDF]
 
 - [https://github.com/arunkk09/santoku Santoku on GitHub] (source code, including R Shiny-based GUI, and real datasets)
+

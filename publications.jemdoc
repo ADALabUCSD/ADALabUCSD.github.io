@@ -8,14 +8,14 @@ Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
 VLDB 2018 (To appear) |
 Paper PDF (Coming soon) | 
 [papers/TR_2017_HamletPlusPlus.pdf TechReport] | 
-[ Code and Data]
+[hamlet.html Code and Data]
 
 - Towards Linear Algebra over Normalized Data\n
 Lingjiao Chen, Arun Kumar, Jeffrey Naughton, and Jignesh Patel\n
 VLDB 2017 |
 [papers/2017_Morpheus_VLDB.pdf Paper PDF] |
 [papers/TR_2017_Morpheus.pdf TechReport] |
-[ Code and Data]
+[morpheus.html Code and Data]
 
 - Bolt-on Differential Privacy for Scalable Stochastic Gradient Descent-based Analytics\n
 Xi Wu, Fengan Li, Arun Kumar, Kamalika Chaudhuri, Somesh Jha, and Jeffrey Naughton\n
@@ -50,7 +50,7 @@ Arun Kumar, Jeffrey Naughton, Jignesh M. Patel, and Xiaojin Zhu\n
 ACM SIGMOD 2016 |
 [papers/2016_Hamlet_SIGMOD.pdf Paper PDF] |
 [papers/TR_2016_Hamlet.pdf TechReport] |
-[ Code and Data]
+[hamlet.html Code and Data]
 
 - Model Selection Management Systems: The Next Frontier of Advanced Analytics\n
 Arun Kumar, Robert McCann, Jeffrey Naughton, and Jignesh M. Patel\n
@@ -61,13 +61,13 @@ ACM SIGMOD Record Dec 2015 (Vision Track) |
 Arun Kumar, Mona Jalal, Boqun Yan, Jeffrey Naughton, and Jignesh M. Patel\n
 VLDB 2015 (Demo) |
 [papers/2015_Santoku_VLDB.pdf Paper PDF] |
-[ Code and Data]
+[orion.html Code and Data]
 
 - Learning Generalized Linear Models Over Normalized Data\n
 Arun Kumar, Jeffrey Naughton, and Jignesh M. Patel\n
 ACM SIGMOD 2015 |
 [papers/2015_Orion_SIGMOD.pdf Paper PDF] |
-[ Code and Data]
+[orion.html Code and Data]
 
 - Materialization Optimizations for Feature Selection Workloads\n
 Ce Zhang, Arun Kumar, and Christopher Re\n
@@ -101,7 +101,7 @@ Xixuan Feng\*, Arun Kumar\*, Benjamin Recht, and Christopher Re\n
 ACM SIGMOD 2012 |
 [papers/2012_Bismarck_SIGMOD.pdf Paper PDF] |
 [papers/TR_2012_Bismarck.pdf TechReport] |
-[ Code and Data]
+[http://i.stanford.edu//hazy/victor/bismarck-download/ Code and Data]
 
 - The MADlib Analytics Library or MAD Skills, the SQL\n
 Joseph M. Hellerstein, Christopher Ré, Florian Schoppmann, Daisy Zhe Wang, Eugene Fratkin, Aleksander Gorajek, Kee Siong Ng, Caleb Welton, Xixuan Feng, Kun Li, and Arun Kumar\n
@@ -113,7 +113,7 @@ Arun Kumar, and Christopher Re\n
 VLDB 2012 |
 [papers/2012_Staccato_VLDB.pdf Paper PDF] |
 [papers/TR_2012_Staccato.pdf TechReport] |
-[ Code and Data]
+[http://i.stanford.edu/hazy/staccato/download/ Code and Data]
 
 
 == Manuscripts and Dissertations
