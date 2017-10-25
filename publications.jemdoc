@@ -1,0 +1,131 @@
+# jemdoc: menu{MENU}{publications.html}
+= Advanced Data Analytics (ADA) Lab
+
+== Peer-reviewed Publications
+
+- Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?\n
+Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
+VLDB 2018 (To appear) |
+Paper PDF (Coming soon) | 
+[papers/TR_2017_HamletPlusPlus.pdf TechReport] | 
+[ Code and Data]
+
+- Towards Linear Algebra over Normalized Data\n
+Lingjiao Chen, Arun Kumar, Jeffrey Naughton, and Jignesh Patel\n
+VLDB 2017 |
+[papers/2017_Morpheus_VLDB.pdf Paper PDF] |
+[papers/TR_2017_Morpheus.pdf TechReport] |
+[ Code and Data]
+
+- Bolt-on Differential Privacy for Scalable Stochastic Gradient Descent-based Analytics\n
+Xi Wu, Fengan Li, Arun Kumar, Kamalika Chaudhuri, Somesh Jha, and Jeffrey Naughton\n
+ACM SIGMOD 2017 |
+[papers/2017_BismarckBoltOnDP_SIGMOD.pdf Paper PDF] |
+[papers/TR_2017_BismarckBoltOnDP.pdf TechReport]
+
+- Data Management in Machine Learning: Challenges, Techniques, and Systems\n
+Arun Kumar, Matthias Boehm, and Jun Yang\n
+ACM SIGMOD 2017 Tutorial |
+[papers/2017_Tutorial_SIGMOD.pdf Paper PDF] | 
+[papers/Slides_2017_Tutorial_SIGMOD.pdf Slidedeck PDF] |
+[https://www.youtube.com/watch?v=U8J0Dd_Z5wo Video of tutorial on Youtube]
+
+- SpeakQL: Towards Speech-driven Multi-modal Querying\n
+Dharmil Chandarana, Vraj Shah, Arun Kumar, and Lawrence Saul\n
+ACM SIGMOD 2017 HILDA Workshop |
+[papers/2017_SpeakQL_HILDA.pdf Paper PDF]
+
+- Model-based Pricing: Do Not Pay for More than What You Learn!\n
+Lingjiao Chen, Paraschos Koutris, and Arun Kumar\n
+ACM SIGMOD 2017 DEEM Workshop |
+[papers/2017_Nimbus_DEEM.pdf Paper PDF]
+
+- Cerebro: A System to Manage Deep Learning for Relational Data Analytics\n
+Arun Kumar\n
+CIDR 2017 (Abstract) |
+[papers/2017_Cerebro_CIDR.pdf Paper PDF]
+
+- To Join or Not to Join? Thinking Twice about Joins before Feature Selection\n
+Arun Kumar, Jeffrey Naughton, Jignesh M. Patel, and Xiaojin Zhu\n
+ACM SIGMOD 2016 |
+[papers/2016_Hamlet_SIGMOD.pdf Paper PDF] |
+[papers/TR_2016_Hamlet.pdf TechReport] |
+[ Code and Data]
+
+- Model Selection Management Systems: The Next Frontier of Advanced Analytics\n
+Arun Kumar, Robert McCann, Jeffrey Naughton, and Jignesh M. Patel\n
+ACM SIGMOD Record Dec 2015 (Vision Track) |
+[papers/2015_MSMS_SIGMODRecord.pdf Paper PDF]
+
+- Demonstration of Santoku: Optimizing Machine Learning over Normalized Data\n
+Arun Kumar, Mona Jalal, Boqun Yan, Jeffrey Naughton, and Jignesh M. Patel\n
+VLDB 2015 (Demo) |
+[papers/2015_Santoku_VLDB.pdf Paper PDF] |
+[ Code and Data]
+
+- Learning Generalized Linear Models Over Normalized Data\n
+Arun Kumar, Jeffrey Naughton, and Jignesh M. Patel\n
+ACM SIGMOD 2015 |
+[papers/2015_Orion_SIGMOD.pdf Paper PDF] |
+[ Code and Data]
+
+- Materialization Optimizations for Feature Selection Workloads\n
+Ce Zhang, Arun Kumar, and Christopher Re\n
+ACM SIGMOD 2014 |
+[papers/2014_Columbus_SIGMOD.pdf Paper PDF]\n
++Best Paper Award; Invited to ACM TODS 2016+
+
+- Distributed and Scalable PCA in the Cloud\n
+Arun Kumar, Nikos Karampatziakis, Paul Mineiro, Markus Weimer, and Vijay Narayanan\n
+NIPS BigLearn 2013 |
+[papers/2013_PCAonREEF_BigLearn.pdf Paper PDF]
+
+- Feature Selection in Enterprise Analytics: A Demonstration using an R-based Data Analytics System\n
+Pradap Konda, Arun Kumar, Christopher Ré, and Vaishnavi Sashikanth\n
+VLDB 2013 (Demo) |
+[papers/2013_Columbus_VLDB.pdf Paper PDF]
+
+- Hazy: Making it Easier to Build and Maintain Big-data Analytics\n
+Arun Kumar, Feng Niu, and Christopher Re\n
+ACM Queue 2013 |
+[http://queue.acm.org/detail.cfm?id=2431055 Article]\n
++Invited to the Communications of the ACM March 2013+
+
+- Brainwash: A Data System for Feature Engineering\n
+Michael Anderson, Dolan Antenucci, Victor Bittorf, Matthew Burgess, Michael Cafarella, Arun Kumar, Feng Niu, Yongjoo Park, Christopher Re, and Ce Zhang\n
+CIDR 2013 (Vision Track) |
+[papers/2013_Brainwash_CIDR.pdf Paper PDF]
+
+- Towards a Unified Architecture for in-RDBMS Analytics\n
+Xixuan Feng\*, Arun Kumar\*, Benjamin Recht, and Christopher Re\n
+ACM SIGMOD 2012 |
+[papers/2012_Bismarck_SIGMOD.pdf Paper PDF] |
+[papers/TR_2012_Bismarck.pdf TechReport] |
+[ Code and Data]
+
+- The MADlib Analytics Library or MAD Skills, the SQL\n
+Joseph M. Hellerstein, Christopher Ré, Florian Schoppmann, Daisy Zhe Wang, Eugene Fratkin, Aleksander Gorajek, Kee Siong Ng, Caleb Welton, Xixuan Feng, Kun Li, and Arun Kumar\n
+VLDB 2012 (Industrial Track) |
+[papers/2012_MADlib_VLDB.pdf Paper PDF]
+
+- Probabilistic Management of OCR Data using an RDBMS\n
+Arun Kumar, and Christopher Re\n
+VLDB 2012 |
+[papers/2012_Staccato_VLDB.pdf Paper PDF] |
+[papers/TR_2012_Staccato.pdf TechReport] |
+[ Code and Data]
+
+
+== Manuscripts and Dissertations
+
+- Learning Over Joins\n
+PhD Dissertation. UW-Madison 2016 |
+[papers/Dissertation_ArunKumar.pdf PDF] |
+[ Video of job talk at UCSD]\n
++Wisconsin CS 2016 Graduate Student Research Award for best dissertation research+
+
+- A Survey of the Existing Landscape of ML Systems\n
+Arun Kumar, Robert McCann, Jeffrey Naughton, and Jignesh M. Patel\n
+UW-Madison Technical Report TR1827 |
+[papers/TR_2015_MSMSSurvey.pdf PDF]
+

@@ -1,0 +1,81 @@
+# jemdoc: menu{MENU}{projects.html}
+= Advanced Data Analytics (ADA) Lab
+
+~~~
+{}{img_left}{images/adalab.jpg}{}{600px}{}{}
+~~~
+
+The list of active projects along with a brief description of each project is 
+provided below. Some of these projects have an active project webpage.
+For the others, the project webpages will be posted in the near future.
+The list of past projects is provided further below.
+
+== Active Projects
+
+~~~
+{}{img_left}{images/nimbus.jpg}{}{80px}{}{}
+[nimbus.html *Project Nimbus*]\n
+Enabling the first ML-aware cloud-based commodity market for the new black gold: training data.
+~~~
+
+~~~
+{}{img_left}{images/hamlet.jpg}{}{80px}{}{}
+[hamlet.html *Project Hamlet*]\n
+Exploiting database schema information to simplify data sourcing.
+~~~
+
+~~~
+{}{img_left}{images/morpheus.jpg}{}{80px}{}{}
+[morpheus.html *Project Morpheus*]\n
+Integrating linear algebra and relational algebra to simplify feature engineering for ML.
+~~~
+
+~~~
+{}{img_left}{images/triptych.jpg}{}{80px}{}{}
+*Project Triptych* (Coming soon)\n
+An end-to-end data system for specifying, optimizing, and managing the ML /model selection/ process.
+~~~
+
+~~~
+{}{img_left}{images/speakql.jpg}{}{80px}{}{}
+[speakql.html *Project SpeakQL*]\n
+Enabling speech-driven multimodal querying of structured data with regular SQL and more.
+~~~
+
+~~~
+{}{img_left}{images/genisys.jpg}{}{80px}{}{}
+*Project Genisys* (Coming soon)\n
+Deep learning-powered /database perception/ to enable data systems to see and hear unstructured data.
+~~~
+
+~~~
+{}{img_left}{images/precog.jpg}{}{80px}{}{}
+*Project Precog* (Coming soon)\n
+Accelerating the use of ML in the /Internet of Things/ (IoT) for pervasive intelligence.
+~~~
+
+== Past Projects
+
+~~~
+{}{img_left}{images/orion.jpg}{}{80px}{}{}
+[ *Project Orion*]\n
+Enabling and optimizing ML "over" joins; the precursor to Project Mopheus.
+~~~
+
+~~~
+{}{img_left}{images/columbus.jpg}{}{80px}{}{}
+[http://i.stanford.edu/hazy/victor/columbus/ *Project Columbus*]\n
+Enabling and optimizing declarative exploratory feature selection over structured data.
+~~~
+
+~~~
+{}{img_left}{images/bismarck.jpg}{}{80px}{}{}
+[http://i.stanford.edu/hazy/victor/bismarck/ *Project Bismarck*]\n
+Devising an unified system architecture for in-RDBMS implementations of ML algorithms.
+~~~
+
+~~~
+{}{img_left}{images/staccato.jpg}{}{80px}{}{}
+[http://i.stanford.edu/hazy/staccato/ *Project Staccato*]\n
+Integrating OCR data with an RDBMS and trading off accuracy for runtime with approximate inference.
+~~~

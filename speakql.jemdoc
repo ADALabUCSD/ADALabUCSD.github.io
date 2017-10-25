@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU2}{speakql.html}
+= Advanced Data Analytics (ADA) Lab
+
+~~~
+{}{img_left}{images/speakql.jpg}{}{}{80px}{}
+== Project SpeakQL
+~~~ 
+
+=== Overview
+
+Natural language and touch-based interfaces are making data querying significantly easier. But typed SQL remains the gold standard for query sophistication although it is painful in querying environments that are touch-oriented (e.g., iPad or iPhone) and essentially impossible in speech-driven environments (e.g., Amazon Echo). Recent advancements in automatic speech recognition (ASR) raise the tantalizing possibility of bridging this gap by enabling /spoken queries/ over structured data.
+
+In this project, we envision and prototype a series of new spoken data querying systems. Going beyond the current capability of personal digital assistants such as Alexa in answering simple natural language queries over well-curated in-house knowledge base schemas, we aim to enable more sophisticated spoken queries over arbitrary application database schemas.
+
+Our first and current focus is on designing and implementing a new speech-driven query interface and system for a useful subset of regular SQL. Our goal is near-perfect accuracy and near-real-time latency for transcribing spoken SQL queries. Our plan to achieve this goal is by synthesizing and innovating upon ideas from ASR, natural language processing (NLP), information retrieval, database systems, and HCI to devise a modular end-to-end system architecture that combines new automated algorithms with user interactions.
+
+~~~
+*Note*: We are looking for volunteers and/or collaborators, especially enterprise users of SQL, say, in consulting or banking or insurance, to try the alpha version of SpeakQL by participating in a simple one-time user study and survey. Please contact us if you are interested in participating or even if you are just interested in trying out SpeakQL.
+~~~
+
+=== Downloads (Paper, Code, Data, etc.)
+
+- SpeakQL: Towards Speech-driven Multi-modal Querying\n
+Dharmil Chandarana, Vraj Shah, Arun Kumar, and Lawrence Saul\n
+ACM SIGMOD 2017 HILDA Workshop |
+[papers/2017_SpeakQL_HILDA.pdf Paper PDF]
+
+=== Student Contact
+
+Vraj Shah: vps002 \[at\] eng \[dot\] ucsd \[dot\] edu
+

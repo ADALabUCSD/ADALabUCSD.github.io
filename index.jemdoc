@@ -1,0 +1,150 @@
+# jemdoc: menu{MENU}{index.html}
+= Advanced Data Analytics (ADA) Lab
+
+== Introduction
+
+As the scale, complexity, and variety of data grows (aka /Big Data/), the 
+use of machine learning (ML) and artificial intelligence (AI) techniques 
+to make sense of, and interact with, such data---collectively called
+/advanced data analytics/---is increasingly critical for data-driven 
+applications in the enterprise, Web, science, and other domains. 
+Alas, building and deploying ML/AI-powered data analytics applications 
+still involves far too many bottlenecks that slow down the lifecycle of 
+such applications, raise costs, frustrate many application users, and in 
+some cases, make high-quality data-driven decision making almost impossible.
+
+~~~
+The mission of the ADALab is to /democratize advanced data analytics/ 
+by making it dramatically easier, faster, and cheaper to build and deploy
+ML/AI-powered data analytics applications throughout their lifecycle.
+~~~
+
+We are a part of the [http://cse.ucsd.edu/ Department of Computer Science and Engineering (CSE)] at 
+the [https://ucsd.edu/ University of California, San Diego (UCSD)]. We are members of CSE's 
+[http://db.ucsd.edu/ Database Lab] and affiliate members of the
+[http://ai.ucsd.edu/ AI Group] and 
+[http://cns.ucsd.edu/ CNS]. 
+
+== Overview of Our Research
+
+The ADA lifecycle typically revolves around data scientists or ML engineers. 
+Based on conversations with dozens of such data-related professionals, we 
+abstract the ADA lifecyle as follows. 
+After identifying the tasks where ML/AI might benefit their application in 
+terms of business impact or scientific insights, the data scientist steers 
+three main processes, as illustrated below: 
+
+- *Data Sourcing*: Identify, collect, and organize data in to a form that can be used to train ML models.
+- *Model Building*: Perform /model selection/ with the data to obtain desired ML models.
+- *Model Deployment*: Integrate trained ML models with the application and oversee lifecycle.
+
+~~~
+{}{img_left}{images/adalab.jpg}{}{600px}{}{}
+~~~
+
+~~~
+The ADALab's approach to democratizing advanced data analytics involves 
+/accelerating the ADA lifecyle/ by removing bottlenecks for both the /efficiency 
+of the systems and algorithms/ involved and the /productivity of the data 
+scientists/ involved. 
+~~~
+
+Towards this grand goal, we synthesize and innovate upon the fields of data 
+management, ML\/AI, systems, and human-computer interaction.
+Our projects target all parts of the ADA lifecycle, and our work spans the whole 
+gamut of building new data systems, algorithms, empirical analysis, and theoretical 
+analysis. All of our systems are released as open source software.
+
+We also enjoy interacting with, and learning from, practitioners---data 
+scientists, ML/software engineers, and domain scientists---and working with them to 
+help them adopt our systems and ideas.
+
+The list of current ADALab projects is here: [projects.html *Projects*].
+
+The list of ADALab publications is here: [publications.html *Publications*].
+
+== Recent ADALab News
+
+- 10/17: The Hamlet\+\+ paper is accepted to VLDB 2018. Congrats, Vraj! 
+- 10/17: Anthony and Supun present short talks about their research at the Fall'17 CNS Research Review.
+- 10/17: ADALab webpage goes live!
+
+Full list of lab news items here: [news.html *News*].
+
+== Members
+
+=== Faculty
+
+~~~
+{}{img_left}{images/arun.jpg}{}{100px}{}{}
+[http://cseweb.ucsd.edu/~arunkk Arun Kumar]\n
+Assistant Professor, CSE\n
+Email: arunkk \[at\] eng \[dot\] ucsd \[dot\] edu\n
+Office: CSE 3218
+~~~
+
+=== Graduate Students
+
+~~~
+{}{img_left}{images/tmp.jpg}{}{100px}{}{}
+[ Lingjiao Chen]\n
+PhD at UW-Madison\n
+(Co-advised by Paris Koutris)\n
+Email: lchen1 \[at\] wisc \[dot\] edu
+~~~
+
+~~~
+{}{img_left}{images/tmp.jpg}{}{100px}{}{}
+[ Supun Nakandala]\n
+PhD, CSE\n
+Email: snakanda \[at\] eng \[dot\] ucsd \[dot\] edu\n
+Office: CSE 3232
+~~~
+
+~~~
+{}{img_left}{images/tmp.jpg}{}{100px}{}{}
+[ Vraj Shah]\n
+MS, CSE\n
+Email: vps002 \[at\] eng \[dot\] ucsd \[dot\] edu\n
+Office: CSE 3230
+~~~
+
+~~~
+{}{img_left}{images/tmp.jpg}{}{100px}{}{}
+[ Anthony Thomas]\n
+MS, CSE\n
+Email: ahthomas \[at\] eng \[dot\] ucsd \[dot\] edu\n
+Office: CSE 3230
+~~~
+
+=== Undergraduate Students
+
+~~~
+{}{img_left}{images/tmp.jpg}{}{100px}{}{}
+[ Yaobang Deng]\n
+BS, CSE\n
+Email: yad025 \[at\] ucsd \[dot\] edu
+~~~
+
+~~~
+{}{img_left}{images/tmp.jpg}{}{100px}{}{}
+[ Side Li]\n
+BS, CSE\n
+Email: s7li \[at\] eng \[dot\] ucsd \[dot\] edu
+~~~
+
+=== Alumni
+
+- Mingyang Wang. MS, CSE, UCSD, 2017.
+
+== Sponsors
+
+We thank the following organizations for their generous support of our research. Any findings or opinions expressed in our research publications are our own and do not necessarily reflect the views of any of these organizations.
+
+~~~
+{}{img_left}{images/sponsors.jpg}{}{300px}{}{}
+~~~
+
+== About our Lab's Name
+
+Apart from being a convenient acronym, it is also a tribute to [https://en.wikipedia.org/wiki/Ada_Lovelace Ada Lovelace], widely regarded as the first computer programmer. This tribute is part of our lab's commitment to help foster a diverse and inclusive community in computing, as enshrined in the [https://ucsd.edu/about/principles.html UCSD Principles of Community], for people from all backgrounds, including women, under-represented minorities, and LGBTQ+ people.
