@@ -2,17 +2,76 @@
 = Advanced Data Analytics (ADA) Lab
 
 ~~~
-{}{img_left}{images/triptych.jpg}{}{80px}{}{}
+{}{img_left}{images/triptych.jpg}{}{100px}{}{}
 == Project Triptych
 ~~~ 
 
 === Overview
 
+Triptych is an end-to-end /model selection management system/ (MSMS) that aims to simplify 
+and accelerate the process of sourcing data\/features and selecting ML models. Our guiding 
+principles are to exploit the semantics of the data and the ML task to the extent possible 
+to reduce work for the data scientist and reduce runtimes and costs. We apply these 
+principles to remove or mitigate different bottlenecks in this end-to-end process, 
+eventually unifying these components to yield an integrated ``operating system'' for ML 
+analytics tasks. Please refer to the ACM SIGMOD Record paper below for more details of 
+this vision.
 
+=== Component Project Webpages 
 
-=== Downloads (Paper, Code, Data, etc.)
+~~~
+{}{img_left}{images/hamlet.jpg}{}{80px}{}{}
+[hamlet.html *Hamlet*]\n
+Exploiting database schema information to simplify data sourcing.
+~~~
 
+~~~
+{}{img_left}{images/morpheus.jpg}{}{80px}{}{}
+[morpheus.html *Morpheus*]\n
+Integrating linear algebra and relational algebra to simplify feature engineering for ML.
+~~~
 
+~~~
+{}{img_left}{images/nimbus.jpg}{}{80px}{}{}
+[nimbus.html *Nimbus*]\n
+Enabling the first ML-aware cloud-based commodity market for the new black gold: training data.
+~~~
 
-=== Contact
+=== Publications 
+
+- Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?\n
+Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
+VLDB 2018 (To appear) |
+Paper PDF (Coming soon) |
+[papers/TR_2017_HamletPlusPlus.pdf TechReport] |
+[hamlet.html Code and Data]
+
+- Towards Linear Algebra over Normalized Data\n
+Lingjiao Chen, Arun Kumar, Jeffrey Naughton, and Jignesh Patel\n
+VLDB 2017 |
+[papers/2017_Morpheus_VLDB.pdf Paper PDF] |
+[papers/TR_2017_Morpheus.pdf TechReport] |
+[morpheus.html Code and Data]
+
+- Model-based Pricing: Do Not Pay for More than What You Learn!\n
+Lingjiao Chen, Paraschos Koutris, and Arun Kumar\n
+ACM SIGMOD 2017 DEEM Workshop |
+[papers/2017_Nimbus_DEEM.pdf Paper PDF]
+
+- Cerebro: A System to Manage Deep Learning for Relational Data Analytics\n
+Arun Kumar\n 
+CIDR 2017 (Abstract) |
+[papers/2017_Cerebro_CIDR.pdf Paper PDF] 
+
+- To Join or Not to Join? Thinking Twice about Joins before Feature Selection\n
+Arun Kumar, Jeffrey Naughton, Jignesh M. Patel, and Xiaojin Zhu\n
+ACM SIGMOD 2016 |
+[papers/2016_Hamlet_SIGMOD.pdf Paper PDF] |
+[papers/TR_2016_Hamlet.pdf TechReport] |
+[hamlet.html Code and Data]
+
+- Model Selection Management Systems: The Next Frontier of Advanced Analytics\n
+Arun Kumar, Robert McCann, Jeffrey Naughton, and Jignesh M. Patel\n
+ACM SIGMOD Record Dec 2015 (Vision Track) |
+[papers/2015_MSMS_SIGMODRecord.pdf Paper PDF]
 

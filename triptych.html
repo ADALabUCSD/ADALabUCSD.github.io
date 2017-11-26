@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108628208-1"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+ gtag('config', 'UA-108628208-1');
+</script>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Advanced Data Analytics (ADA) Lab</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="projects.html">Projects</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="news.html">News</a></div>
+<div class="menu-item"><a href="blog.html">Blog/Misc.</a></div>
+<div class="menu-item"><a href="triptych.html" class="current"><br /> Project&nbsp;Triptych</a></div>
+<div class="menu-item"><a href="hamlet.html">Hamlet</a></div>
+<div class="menu-item"><a href="morpheus.html">Morpheus</a></div>
+<div class="menu-item"><a href="nimbus.html">Nimbus</a></div>
+<div class="menu-item"><a href="genisys.html"><br /> Project&nbsp;Genisys</a></div>
+<div class="menu-item"><a href="speakql.html">SpeakQL</a></div>
+<div class="menu-item"><a href="">Precog</a></div>
+<div class="menu-category"><br /> Past Projects</div>
+<div class="menu-item"><a href="orion.html">Orion</a></div>
+<div class="menu-item"><a href="http://i.stanford.edu/hazy/victor/columbus/">Columbus</a></div>
+<div class="menu-item"><a href="http://i.stanford.edu/hazy/victor/bismarck/">Bismarck</a></div>
+<div class="menu-item"><a href="http://i.stanford.edu/hazy/staccato/">Staccato</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Advanced Data Analytics (ADA) Lab</h1>
+</div>
+<table class="imgtable"><tr><td>
+<img src="images/triptych.jpg" alt="" width="100px" />&nbsp;</td>
+<td align="left"><h2>Project Triptych</h2>
+</td></tr></table>
+<h3>Overview</h3>
+<p>Triptych is an end-to-end <i>model selection management system</i> (MSMS) that aims to simplify 
+and accelerate the process of sourcing data/features and selecting ML models. Our guiding 
+principles are to exploit the semantics of the data and the ML task to the extent possible 
+to reduce work for the data scientist and reduce runtimes and costs. We apply these 
+principles to remove or mitigate different bottlenecks in this end-to-end process, 
+eventually unifying these components to yield an integrated &lsquo;&lsquo;operating system&rsquo;&rsquo; for ML 
+analytics tasks. Please refer to the ACM SIGMOD Record paper below for more details of 
+this vision.</p>
+<h3>Component Project Webpages </h3>
+<table class="imgtable"><tr><td>
+<img src="images/hamlet.jpg" alt="" width="80px" />&nbsp;</td>
+<td align="left"><p><a href="hamlet.html" target=_blank><b>Hamlet</b></a><br />
+Exploiting database schema information to simplify data sourcing.</p>
+</td></tr></table>
+<table class="imgtable"><tr><td>
+<img src="images/morpheus.jpg" alt="" width="80px" />&nbsp;</td>
+<td align="left"><p><a href="morpheus.html" target=_blank><b>Morpheus</b></a><br />
+Integrating linear algebra and relational algebra to simplify feature engineering for ML.</p>
+</td></tr></table>
+<table class="imgtable"><tr><td>
+<img src="images/nimbus.jpg" alt="" width="80px" />&nbsp;</td>
+<td align="left"><p><a href="nimbus.html" target=_blank><b>Nimbus</b></a><br />
+Enabling the first ML-aware cloud-based commodity market for the new black gold: training data.</p>
+</td></tr></table>
+<h3>Publications </h3>
+<ul>
+<li><p>Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?<br />
+Vraj Shah, Arun Kumar, and Xiaojin Zhu.<br />
+VLDB 2018 (To appear) |
+Paper PDF (Coming soon) |
+<a href="papers/TR_2017_HamletPlusPlus.pdf" target=_blank>TechReport</a> |
+<a href="hamlet.html" target=_blank>Code and Data</a></p>
+</li>
+</ul>
+<ul>
+<li><p>Towards Linear Algebra over Normalized Data<br />
+Lingjiao Chen, Arun Kumar, Jeffrey Naughton, and Jignesh Patel<br />
+VLDB 2017 |
+<a href="papers/2017_Morpheus_VLDB.pdf" target=_blank>Paper PDF</a> |
+<a href="papers/TR_2017_Morpheus.pdf" target=_blank>TechReport</a> |
+<a href="morpheus.html" target=_blank>Code and Data</a></p>
+</li>
+</ul>
+<ul>
+<li><p>Model-based Pricing: Do Not Pay for More than What You Learn!<br />
+Lingjiao Chen, Paraschos Koutris, and Arun Kumar<br />
+ACM SIGMOD 2017 DEEM Workshop |
+<a href="papers/2017_Nimbus_DEEM.pdf" target=_blank>Paper PDF</a></p>
+</li>
+</ul>
+<ul>
+<li><p>Cerebro: A System to Manage Deep Learning for Relational Data Analytics<br />
+Arun Kumar<br /> 
+CIDR 2017 (Abstract) |
+<a href="papers/2017_Cerebro_CIDR.pdf" target=_blank>Paper PDF</a> </p>
+</li>
+</ul>
+<ul>
+<li><p>To Join or Not to Join? Thinking Twice about Joins before Feature Selection<br />
+Arun Kumar, Jeffrey Naughton, Jignesh M. Patel, and Xiaojin Zhu<br />
+ACM SIGMOD 2016 |
+<a href="papers/2016_Hamlet_SIGMOD.pdf" target=_blank>Paper PDF</a> |
+<a href="papers/TR_2016_Hamlet.pdf" target=_blank>TechReport</a> |
+<a href="hamlet.html" target=_blank>Code and Data</a></p>
+</li>
+</ul>
+<ul>
+<li><p>Model Selection Management Systems: The Next Frontier of Advanced Analytics<br />
+Arun Kumar, Robert McCann, Jeffrey Naughton, and Jignesh M. Patel<br />
+ACM SIGMOD Record Dec 2015 (Vision Track) |
+<a href="papers/2015_MSMS_SIGMODRecord.pdf" target=_blank>Paper PDF</a></p>
+</li>
+</ul>
+<div id="footer">
+<div id="footer-text">
+Page generated 2017-11-26 15:15:04 PST, by <a href="http://jemdoc.jaboc.net/" target=_blank>jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

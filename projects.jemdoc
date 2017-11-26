@@ -1,58 +1,25 @@
 # jemdoc: menu{MENU}{projects.html}
 = Advanced Data Analytics (ADA) Lab
 
-~~~
-{}{img_left}{images/adalab.jpg}{}{600px}{}{}
-~~~
-
-The list of active projects along with a brief description of each project is 
-provided below. Some of these projects have an active project webpage.
-For the others, the project webpages will be posted in the near future.
-The list of past projects is provided further below.
-
 == Active Projects
 
-~~~
-{}{img_left}{images/nimbus.jpg}{}{80px}{}{}
-[nimbus.html *Project Nimbus*]\n
-Enabling the first ML-aware cloud-based commodity market for the new black gold: training data.
-~~~
+ADALab's research is organized under two top-level projects that focus on two different 
+aspects of the ADA lifecycle: 
 
 ~~~
-{}{img_left}{images/hamlet.jpg}{}{80px}{}{}
-[hamlet.html *Project Hamlet*]\n
-Exploiting database schema information to simplify data sourcing.
-~~~
-
-~~~
-{}{img_left}{images/morpheus.jpg}{}{80px}{}{}
-[morpheus.html *Project Morpheus*]\n
-Integrating linear algebra and relational algebra to simplify feature engineering for ML.
-~~~
-
-~~~
-{}{img_left}{images/triptych.jpg}{}{80px}{}{}
-*Project Triptych* (Coming soon)\n
-An end-to-end data system for specifying, optimizing, and managing the ML /model selection/ process.
-~~~
-
-~~~
-{}{img_left}{images/speakql.jpg}{}{80px}{}{}
-[speakql.html *Project SpeakQL*]\n
-Enabling speech-driven multimodal querying of structured data with regular SQL and more.
+{}{img_left}{images/triptych.jpg}{}{80px}{65px}{}
+[triptych.html *Project Triptych*]\n
+An end-to-end data system for sourcing data and features, as well as specifying, 
+optimizing, and managing the ML /model selection/ process.
 ~~~
 
 ~~~
 {}{img_left}{images/genisys.jpg}{}{80px}{}{}
-*Project Genisys* (Coming soon)\n
-Deep learning-powered /database perception/ to enable data systems to see and hear unstructured data.
+[genisys.html *Project Genisys*]\n
+Deep learning-powered /database perception/ to enable data systems to see and hear 
+unstructured data, from the Internet of Things to personal devices to the cloud.
 ~~~
 
-~~~
-{}{img_left}{images/precog.jpg}{}{80px}{}{}
-*Project Precog* (Coming soon)\n
-Accelerating the use of ML in the /Internet of Things/ (IoT) to embed "intelligence" in to the physical world.
-~~~
 
 == Past Projects
 

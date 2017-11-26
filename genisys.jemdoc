@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU2}{genisys.html}
+= Advanced Data Analytics (ADA) Lab
+
+~~~
+{}{img_left}{images/genisys.jpg}{}{80px}{}{}
+== Project Genisys
+~~~ 
+
+=== Overview
+
+Genisys is a new kind of data system that enables ADA applications to easily deploy ML 
+models in emerging environments ranging from the Internet of Things to personal devices
+to the cloud. As part of this, Genisys will exploit deep learning-based ML models to 
+see, hear, and understand unstructured data and query sources such as speech, images, 
+video, text, and time series. We call this vision of pervasive intelligence for 
+type-agnostic data analytics /database perception/. Watch this space for more details. 
+
+=== Component Project Webpages  
+
+~~~
+{}{img_left}{images/speakql.jpg}{}{80px}{}{}
+[speakql.html *SpeakQL*]\n
+Enabling speech-driven multimodal querying of structured data with regular SQL and more.
+~~~
+
+~~~
+{}{img_left}{images/precog.jpg}{}{80px}{}{}
+*Precog* (Coming soon)\n
+Accelerating the use of ML in the /Internet of Things/ (IoT) for an "intelligent" physical world.
+~~~
+
+=== Publications
+
+- SpeakQL: Towards Speech-driven Multi-modal Querying\n
+Dharmil Chandarana, Vraj Shah, Arun Kumar, and Lawrence Saul\n
+ACM SIGMOD 2017 HILDA Workshop |
+[papers/2017_SpeakQL_HILDA.pdf Paper PDF]
+
