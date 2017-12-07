@@ -1,12 +1,12 @@
 # jemdoc: menu{MENU}{index.html}
-= Advanced Data Analytics (ADA) Lab
+= Arun's Data Analytics (ADA) Lab @ UCSD
 
 == Introduction
 
 As the scale, complexity, and variety of data grows (aka /Big Data/), the
 use of machine learning (ML) and artificial intelligence (AI) techniques
 to make sense of, and interact with, such data---collectively called
-/advanced data analytics/---is increasingly critical for data-driven
+/advanced data analytics/ (also ADA!)---is increasingly critical for data-driven
 applications in the enterprise, Web, science, and other domains.
 Alas, building and deploying ML/AI-powered data analytics applications
 still involves far too many bottlenecks that slow down the lifecycle of
