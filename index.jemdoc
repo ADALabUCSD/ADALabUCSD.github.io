@@ -5,7 +5,8 @@
 
 As the scale, complexity, and variety of data grows (aka /Big Data/), the
 use of machine learning (ML) and artificial intelligence (AI) techniques
-to make sense of, and interact with, such data---collectively called
+to make sense of, and interact with, such data---collectively called predictive 
+data analytics, statistical data analytics, ML-based data analytics, or simply 
 /advanced data analytics/ (also ADA!)---is increasingly critical for data-driven
 applications in the enterprise, Web, science, and other domains.
 Alas, building and deploying ML/AI-powered data analytics applications
