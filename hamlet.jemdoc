@@ -1,0 +1,48 @@
+# jemdoc: menu{MENU2}{hamlet.html}
+= Arun's Data Analytics (ADA) Lab
+
+~~~
+{}{img_left}{images/hamlet.jpg}{}{}{80px}{}
+== Project Hamlet 
+~~~ 
+
+=== Overview
+
+While almost all ML toolkits assume that the input data for ML is a single table, many relational datasets in real-world advanced analytics applications are multi-table, typically connected by key-foreign key dependencies (KFKDs). This forces data scientists to /source/ the extra base tables in order to join with the main table and apply a feature selection method, either explicitly or implicitly, with the aim of improving accuracy. In this project, we study the fundamental effects of KFKDs (and the derivative functional dependencies) on the accuracy and efficiency of ML algorithms from a first-principles perspective. 
+
+We show that the features brought in by such joins can often be ignored without affecting ML accuracy significantly, i.e., we can “avoid joins safely.” This has at least two major implications. First, it could help reduce the runtimes of ML and feature selection methods. Second, it could reduce the burden of /data sourcing/, since data scientists can ignore certain tables altogether. Applying statistical learning theory, we explain how avoiding KFK joins might cause extra overfitting in some cases. Using a simulation study, we validate our analysis and measure the effects of various properties of KFKDs on the accuracy of /linear/ classifiers. We apply our analysis to design easy-to-understand decision rules to predict when it is safe to avoid joins to help data scientists use our idea in practice. Experiments with multiple real-world datasets show that our rules are able to accurately predict when joins are safe to avoid, and in some cases, this led to significant reductions in the runtime of some popular feature selection methods.
+
+*Hamlet\+\+ (Hamlet for High-Capacity Classifiers)*
+
+Linear models are nice but data scientists also love complex non-linear classifiers with high capacity, e.g., decision trees or RBF-SVMs, due to their potentially higher accuracy. So, in this follow-up work, we ask: what happens to the dichotomy observed on linear classifiers for avoiding joins safely with such high capacity classifiers? One might expect that these complex models would face even worse overfitting. Surprisingly, our results show the exact opposite! Using an extensive empirical and simulation-based analysis, we dissect the behavior of these models over KFK joins. We also take a step towards formally explaining their behavior and identify new questions for further ML theoretical research. Oh, and as for deep learning, neural networks also exhibit the same behavior.
+
+=== Downloads (Paper, Code, Data, etc.)
+
+*Hamlet\+\+*
+
+- Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?\n
+Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
+VLDB 2018 (To appear) |
+Paper PDF (Coming soon) | 
+[papers/TR_2017_HamletPlusPlus.pdf TechReport]
+
+- [https://github.com/pvn25/Hamlet_Extension Source code on GitHub] (Python code for simulations; TensorFlow scripts for neural networks and R scripts for other models with the real-world datasets)
+- [http://cseweb.ucsd.edu/~arunkk/hamlet/RealWorldDatasets.zip Real-world datasets] (slightly different from Hamlet's data; numeric features are not discretized)
+- [http://cseweb.ucsd.edu/~arunkk/hamlet/RealWorldDatasetsOneHot.zip Real-world datasets] (same as above but categorical features are one-hot encoded)
+- [http://cseweb.ucsd.edu/~arunkk/hamlet/RealDataErrors.zip Detailed errors of all folds for all models and datasets]
+
+*Hamlet*
+
+- To Join or Not to Join? Thinking Twice about Joins before Feature Selection\n
+Arun Kumar, Jeffrey Naughton, Jignesh M. Patel, and Xiaojin Zhu\n
+ACM SIGMOD 2016 |
+[papers/2016_Hamlet_SIGMOD.pdf Paper PDF] |
+[papers/TR_2016_Hamlet.pdf TechReport]
+
+- [https://github.com/arunkk09/hamlet Source code on GitHub] (Python code for simulations; R scripts for Naive Bayes and logistic regression with the real-world datasets)
+- [http://cseweb.ucsd.edu/~arunkk/hamlet/HamletData.tar.gz Real-world datasets]
+
+=== Student Contact
+
+Vraj Shah: vps002 \[at\] eng \[dot\] ucsd \[dot\] edu
+

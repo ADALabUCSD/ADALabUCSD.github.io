@@ -1,0 +1,48 @@
+# jemdoc: menu{MENU}{projects.html}
+= Arun's Data Analytics (ADA) Lab
+
+== Active Projects
+
+ADALab's research is organized under two top-level projects that focus on two different 
+aspects of the ADA lifecycle: 
+
+~~~
+{}{img_left}{images/triptych.jpg}{}{80px}{65px}{}
+[triptych.html *Project Triptych*]\n
+An end-to-end data system for sourcing data and features, as well as specifying, 
+optimizing, and managing the ML /model selection/ process.
+~~~
+
+~~~
+{}{img_left}{images/genisys.jpg}{}{80px}{}{}
+[genisys.html *Project Genisys*]\n
+Deep learning-powered /database perception/ to enable data systems to see and hear 
+unstructured data, from the Internet of Things to personal devices to the cloud.
+~~~
+
+
+== Past Projects
+
+~~~
+{}{img_left}{images/orion.jpg}{}{80px}{}{}
+[orion.html *Project Orion*]\n
+Enabling and optimizing ML "over" joins; the precursor to Project Mopheus.
+~~~
+
+~~~
+{}{img_left}{images/columbus.jpg}{}{80px}{}{}
+[http://i.stanford.edu/hazy/victor/columbus/ *Project Columbus*]\n
+Enabling and optimizing declarative exploratory feature selection over structured data.
+~~~
+
+~~~
+{}{img_left}{images/bismarck.jpg}{}{80px}{}{}
+[http://i.stanford.edu/hazy/victor/bismarck/ *Project Bismarck*]\n
+Devising a unified system architecture for in-RDBMS implementations of ML algorithms.
+~~~
+
+~~~
+{}{img_left}{images/staccato.jpg}{}{80px}{}{}
+[http://i.stanford.edu/hazy/staccato/ *Project Staccato*]\n
+Integrating OCR data with an RDBMS and trading off accuracy for runtime with approximate inference.
+~~~

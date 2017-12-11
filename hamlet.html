@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108628208-1"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+ gtag('config', 'UA-108628208-1');
+</script>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Arun's Data Analytics (ADA) Lab</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="projects.html">Projects</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="news.html">News</a></div>
+<div class="menu-item"><a href="blog.html">Blog/Misc.</a></div>
+<div class="menu-item"><a href="triptych.html"><br /> Project&nbsp;Triptych</a></div>
+<div class="menu-item"><a href="hamlet.html" class="current">Hamlet</a></div>
+<div class="menu-item"><a href="morpheus.html">Morpheus</a></div>
+<div class="menu-item"><a href="nimbus.html">Nimbus</a></div>
+<div class="menu-item"><a href="genisys.html"><br /> Project&nbsp;Genisys</a></div>
+<div class="menu-item"><a href="speakql.html">SpeakQL</a></div>
+<div class="menu-item"><a href="">Precog</a></div>
+<div class="menu-category"><br /> Past Projects</div>
+<div class="menu-item"><a href="orion.html">Orion</a></div>
+<div class="menu-item"><a href="http://i.stanford.edu/hazy/victor/columbus/">Columbus</a></div>
+<div class="menu-item"><a href="http://i.stanford.edu/hazy/victor/bismarck/">Bismarck</a></div>
+<div class="menu-item"><a href="http://i.stanford.edu/hazy/staccato/">Staccato</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Arun's Data Analytics (ADA) Lab</h1>
+</div>
+<table class="imgtable"><tr><td>
+<img src="images/hamlet.jpg" alt="" height="80px" />&nbsp;</td>
+<td align="left"><h2>Project Hamlet </h2>
+</td></tr></table>
+<h3>Overview</h3>
+<p>While almost all ML toolkits assume that the input data for ML is a single table, many relational datasets in real-world advanced analytics applications are multi-table, typically connected by key-foreign key dependencies (KFKDs). This forces data scientists to <i>source</i> the extra base tables in order to join with the main table and apply a feature selection method, either explicitly or implicitly, with the aim of improving accuracy. In this project, we study the fundamental effects of KFKDs (and the derivative functional dependencies) on the accuracy and efficiency of ML algorithms from a first-principles perspective. </p>
+<p>We show that the features brought in by such joins can often be ignored without affecting ML accuracy significantly, i.e., we can “avoid joins safely.” This has at least two major implications. First, it could help reduce the runtimes of ML and feature selection methods. Second, it could reduce the burden of <i>data sourcing</i>, since data scientists can ignore certain tables altogether. Applying statistical learning theory, we explain how avoiding KFK joins might cause extra overfitting in some cases. Using a simulation study, we validate our analysis and measure the effects of various properties of KFKDs on the accuracy of <i>linear</i> classifiers. We apply our analysis to design easy-to-understand decision rules to predict when it is safe to avoid joins to help data scientists use our idea in practice. Experiments with multiple real-world datasets show that our rules are able to accurately predict when joins are safe to avoid, and in some cases, this led to significant reductions in the runtime of some popular feature selection methods.</p>
+<p><b>Hamlet++ (Hamlet for High-Capacity Classifiers)</b></p>
+<p>Linear models are nice but data scientists also love complex non-linear classifiers with high capacity, e.g., decision trees or RBF-SVMs, due to their potentially higher accuracy. So, in this follow-up work, we ask: what happens to the dichotomy observed on linear classifiers for avoiding joins safely with such high capacity classifiers? One might expect that these complex models would face even worse overfitting. Surprisingly, our results show the exact opposite! Using an extensive empirical and simulation-based analysis, we dissect the behavior of these models over KFK joins. We also take a step towards formally explaining their behavior and identify new questions for further ML theoretical research. Oh, and as for deep learning, neural networks also exhibit the same behavior.</p>
+<h3>Downloads (Paper, Code, Data, etc.)</h3>
+<p><b>Hamlet++</b></p>
+<ul>
+<li><p>Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?<br />
+Vraj Shah, Arun Kumar, and Xiaojin Zhu.<br />
+VLDB 2018 (To appear) |
+Paper PDF (Coming soon) | 
+<a href="papers/TR_2017_HamletPlusPlus.pdf" target=_blank>TechReport</a></p>
+</li>
+</ul>
+<ul>
+<li><p><a href="https://github.com/pvn25/Hamlet_Extension" target=_blank>Source code on GitHub</a> (Python code for simulations; TensorFlow scripts for neural networks and R scripts for other models with the real-world datasets)</p>
+</li>
+<li><p><a href="http://cseweb.ucsd.edu/~arunkk/hamlet/RealWorldDatasets.zip" target=_blank>Real-world datasets</a> (slightly different from Hamlet's data; numeric features are not discretized)</p>
+</li>
+<li><p><a href="http://cseweb.ucsd.edu/~arunkk/hamlet/RealWorldDatasetsOneHot.zip" target=_blank>Real-world datasets</a> (same as above but categorical features are one-hot encoded)</p>
+</li>
+<li><p><a href="http://cseweb.ucsd.edu/~arunkk/hamlet/RealDataErrors.zip" target=_blank>Detailed errors of all folds for all models and datasets</a></p>
+</li>
+</ul>
+<p><b>Hamlet</b></p>
+<ul>
+<li><p>To Join or Not to Join? Thinking Twice about Joins before Feature Selection<br />
+Arun Kumar, Jeffrey Naughton, Jignesh M. Patel, and Xiaojin Zhu<br />
+ACM SIGMOD 2016 |
+<a href="papers/2016_Hamlet_SIGMOD.pdf" target=_blank>Paper PDF</a> |
+<a href="papers/TR_2016_Hamlet.pdf" target=_blank>TechReport</a></p>
+</li>
+</ul>
+<ul>
+<li><p><a href="https://github.com/arunkk09/hamlet" target=_blank>Source code on GitHub</a> (Python code for simulations; R scripts for Naive Bayes and logistic regression with the real-world datasets)</p>
+</li>
+<li><p><a href="http://cseweb.ucsd.edu/~arunkk/hamlet/HamletData.tar.gz" target=_blank>Real-world datasets</a></p>
+</li>
+</ul>
+<h3>Student Contact</h3>
+<p>Vraj Shah: vps002 [at] eng [dot] ucsd [dot] edu</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2017-12-06 17:56:27 PST, by <a href="http://jemdoc.jaboc.net/" target=_blank>jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

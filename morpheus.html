@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108628208-1"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+ gtag('config', 'UA-108628208-1');
+</script>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Arun's Data Analytics (ADA) Lab</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="projects.html">Projects</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="news.html">News</a></div>
+<div class="menu-item"><a href="blog.html">Blog/Misc.</a></div>
+<div class="menu-item"><a href="triptych.html"><br /> Project&nbsp;Triptych</a></div>
+<div class="menu-item"><a href="hamlet.html">Hamlet</a></div>
+<div class="menu-item"><a href="morpheus.html" class="current">Morpheus</a></div>
+<div class="menu-item"><a href="nimbus.html">Nimbus</a></div>
+<div class="menu-item"><a href="genisys.html"><br /> Project&nbsp;Genisys</a></div>
+<div class="menu-item"><a href="speakql.html">SpeakQL</a></div>
+<div class="menu-item"><a href="">Precog</a></div>
+<div class="menu-category"><br /> Past Projects</div>
+<div class="menu-item"><a href="orion.html">Orion</a></div>
+<div class="menu-item"><a href="http://i.stanford.edu/hazy/victor/columbus/">Columbus</a></div>
+<div class="menu-item"><a href="http://i.stanford.edu/hazy/victor/bismarck/">Bismarck</a></div>
+<div class="menu-item"><a href="http://i.stanford.edu/hazy/staccato/">Staccato</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Arun's Data Analytics (ADA) Lab</h1>
+</div>
+<table class="imgtable"><tr><td>
+<img src="images/morpheus.jpg" alt="" height="80px" />&nbsp;</td>
+<td align="left"><h2>Project Morpheus</h2>
+</td></tr></table>
+<h3>Overview</h3>
+<p>Applying ML to structured data often involves performing relational operations as part of feature and data engineering. For instance, joins before ML are ubiquitous, since many datasets in the real world are multi-table, while almost all ML toolkits expect single-table inputs. This forces data scientists to join those tables and <i>materialize</i> a single table, which leads to data redundancy and runtime waste. In recent work (<a href="orion.html" target=_blank>Project Orion</a>), we introduced the paradigm of “factorized” ML to mitigate this issue for a few specific ML algorithms by showing how to push ML through joins. But that approach requires a manual rewrite of ML implementations. Such a piecemeal approach creates a massive development overhead when extending factorized ML to other ML algorithms.</p>
+<p>In this project, we mitigate the above overhead by leveraging a popular formal algebra to represent the computations of many ML algorithms: linear algebra (LA). We introduce a new logical data type to represent multi-table data and devise a framework of algebraic rewrite rules to convert a large set of LA operations over denormalized data into operations over the base tables. This enables us to automatically factorize several popular ML algorithms, thus unifying and generalizing prior works. Experiments with real-world multi-table datasets show that our approach also yields significant runtimes speed-ups in multiple ML system environments.</p>
+<p>We have protoyped Morpheus in the popular R environment. Versions in Python and TensorFlow, as well as Apache SystemML are in the works. This project sets the stage for a holistic unification of relational algebra-based feature and data engineering with LA-based ML to help accelerate ML workloads over structured data.</p>
+<h3>Downloads (Paper, Code, Data, etc.)</h3>
+<ul>
+<li><p>Towards Linear Algebra over Normalized Data<br />
+Lingjiao Chen, Arun Kumar, Jeffrey Naughton, and Jignesh Patel<br />
+VLDB 2017 |
+<a href="papers/2017_Morpheus_VLDB.pdf" target=_blank>Paper PDF</a> |
+<a href="papers/TR_2017_Morpheus.pdf" target=_blank>TechReport</a></p>
+</li>
+</ul>
+<ul>
+<li><p><a href="https://github.com/lchen001/Morpheus" target=_blank>Morpheus Code on GitHub</a> (R library for normalized matrix and factorized LA; example factorized ML algorithms)</p>
+</li>
+<li><p><a href="https://github.com/lchen001/Morpheus/blob/master/Data.zip" target=_blank>Real-world datasets</a> (Based on the <a href="hamlet.html" target=_blank>Project Hamlet</a> datasets)</p>
+</li>
+</ul>
+<h3>Student Contacts</h3>
+<ul>
+<li><p>Lingjiao Chen: lchen1 [at] wisc [dot] edu (for Morpheus in R)</p>
+</li>
+<li><p>Side Li: s7li [at] eng [dot] ucsd [dot] edu (for Morpheus in Python and others)</p>
+</li>
+</ul>
+<div id="footer">
+<div id="footer-text">
+Page generated 2017-12-06 17:56:27 PST, by <a href="http://jemdoc.jaboc.net/" target=_blank>jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
