@@ -29,7 +29,7 @@ Paper PDF (Coming soon) |
 - [https://github.com/pvn25/Hamlet_Extension Source code on GitHub] (Python code for simulations; TensorFlow scripts for neural networks and R scripts for other models with the real-world datasets)
 - [http://cseweb.ucsd.edu/~arunkk/hamlet/RealWorldDatasets.zip Real-world datasets] (slightly different from Hamlet's data; numeric features are not discretized)
 - [http://cseweb.ucsd.edu/~arunkk/hamlet/RealWorldDatasetsOneHot.zip Real-world datasets] (same as above but categorical features are one-hot encoded)
-- [http://cseweb.ucsd.edu/~arunkk/hamlet/RealDataErrors.zip Detailed errors of all folds for all models and datasets]
+- [data/RealDataErrors.zip Detailed errors of all folds for all models and datasets]
 
 *Hamlet*
 
@@ -40,7 +40,7 @@ ACM SIGMOD 2016 |
 [papers/TR_2016_Hamlet.pdf TechReport]
 
 - [https://github.com/arunkk09/hamlet Source code on GitHub] (Python code for simulations; R scripts for Naive Bayes and logistic regression with the real-world datasets)
-- [data/RealDataErrors.zip Real-world datasets]
+- [http://cseweb.ucsd.edu/~arunkk/hamlet/HamletData.tar.gz Real-world datasets]
 
 === Student Contact
 
