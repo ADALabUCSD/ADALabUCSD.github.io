@@ -40,7 +40,7 @@ ACM SIGMOD 2016 |
 [papers/TR_2016_Hamlet.pdf TechReport]
 
 - [https://github.com/arunkk09/hamlet Source code on GitHub] (Python code for simulations; R scripts for Naive Bayes and logistic regression with the real-world datasets)
-- [http://cseweb.ucsd.edu/~arunkk/hamlet/HamletData.tar.gz Real-world datasets]
+- [data/RealDataErrors.zip Real-world datasets]
 
 === Student Contact
 
