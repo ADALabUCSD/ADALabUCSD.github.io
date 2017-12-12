@@ -23,7 +23,7 @@ Linear models are nice but data scientists also love complex non-linear classifi
 - Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?\n
 Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
 VLDB 2018 (To appear) |
-Paper PDF (Coming soon) | 
+[papers/2018_Hamlet_VLDB.pdf Paper PDF] | 
 [papers/TR_2017_HamletPlusPlus.pdf TechReport]
 
 - [https://github.com/pvn25/Hamlet_Extension Source code on GitHub] (Python code for simulations; TensorFlow scripts for neural networks and R scripts for other models with the real-world datasets)
