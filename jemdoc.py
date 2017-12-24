@@ -1190,7 +1190,8 @@ def procfile(f):
   showfooter = True
   showsourcelink = False
   showlastupdated = True
-  showlastupdatedtime = True
+  showlastupdateddate = False
+  showlastupdatedtime = False
   nodefaultcss = False
   fwtitle = False
   css = []
@@ -1485,8 +1486,10 @@ def procfile(f):
     if showlastupdated:
       if showlastupdatedtime:
         ts = '%Y-%m-%d %H:%M:%S %Z'
-      else:
+      elif showlastupdateddate:
         ts = '%Y-%m-%d'
+      else:
+        ts = ''
       s = time.strftime(ts, time.localtime(time.time()))
       hb(f.outf, f.conf['lastupdated'], s)
     if showsourcelink:
