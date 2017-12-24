@@ -260,7 +260,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Page generated |, by <a href="http://jemdoc.jaboc.net/" target=_blank>jemdoc</a>.
+  HTML generated | by <a href="http://jemdoc.jaboc.net/" target=_blank>jemdoc</a>.
 
   [sourcelink]
   (<a href="|">source</a>)
