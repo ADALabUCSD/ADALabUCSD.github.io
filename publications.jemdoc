@@ -3,10 +3,16 @@
 
 == Peer-reviewed Publications
 
+- Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
+Supun Nakandala and Arun Kumar\n
+Under submission |
+[papers/TR_2017_Vista.pdf TechReport] |
+Code and Data (coming soon)
+
 - Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?\n
 Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
 VLDB 2018 (To appear) |
-Paper PDF (Coming soon) | 
+[papers/2018_Hamlet_VLDB.pdf Paper PDF] |
 [papers/TR_2017_HamletPlusPlus.pdf TechReport] | 
 [hamlet.html Code and Data]
 

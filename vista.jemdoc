@@ -1,0 +1,40 @@
+# jemdoc: menu{MENU2}{vista.html}
+= Arun's Data Analytics (ADA) Lab
+
+~~~
+{}{img_left}{images/vista.jpg}{}{}{80px}{}
+== Project Vista
+~~~ 
+
+=== Overview
+
+Deep convolutional neural networks (CNNs) have revolutionized computer vision,
+achieving near-human accuracy on many prediction tasks. 
+This has led to a growing interest in using deep CNNs to exploit images, video, 
+and other unstructured data sources for analytics in many applications.
+However, there are still numerous practical bottlenecks in using deep CNNs for 
+data analytics, including for transfer learning with deep CNNs and interpeting 
+such models in new analytics contexts.
+
+In this project, we build a new data system to enable seamless and efficient 
+exploitation of deep CNNs for emerging multimodal analytics workloads.
+Rather than segregating multimedia data away in siloed systems, Vista will 
+enable popular and scalable data analytics systems to truly /see/ such forms 
+of data.
+
+Vista currently supports large-scale transfer learning from deep CNNs for 
+reliable, efficient, and easy-to-use multimodal analytics at scale in the Spark-TensorFlow 
+environment. Please see the paper below for more details. 
+
+=== Downloads (Paper, Code, Data, etc.)
+
+- Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
+Supun Nakandala and Arun Kumar\n
+Under submission |
+[papers/TR_2017_Vista.pdf TechReport] |
+Code and Data (coming soon)
+
+=== Student Contact
+
+Supun Nakandala: snakanda \[at\] eng \[dot\] ucsd \[dot\] edu
+

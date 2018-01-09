@@ -27,10 +27,10 @@
 <div class="menu-item"><a href="triptych.html"><br /> Project&nbsp;Triptych</a></div>
 <div class="menu-item"><a href="hamlet.html">Hamlet</a></div>
 <div class="menu-item"><a href="morpheus.html">Morpheus</a></div>
-<div class="menu-item"><a href="nimbus.html" class="current">Nimbus</a></div>
+<div class="menu-item"><a href="nimbus.html">Nimbus</a></div>
 <div class="menu-item"><a href="genisys.html"><br /> Project&nbsp;Genisys</a></div>
 <div class="menu-item"><a href="speakql.html">SpeakQL</a></div>
-<div class="menu-item"><a href="vista.html">Vista</a></div>
+<div class="menu-item"><a href="vista.html" class="current">Vista</a></div>
 <div class="menu-item"><a href="">Precog</a></div>
 <div class="menu-category"><br /> Past Projects</div>
 <div class="menu-item"><a href="orion.html">Orion</a></div>
@@ -43,22 +43,36 @@
 <h1>Arun's Data Analytics (ADA) Lab</h1>
 </div>
 <table class="imgtable"><tr><td>
-<img src="images/nimbus.jpg" alt="" height="80px" />&nbsp;</td>
-<td align="left"><h2>Project Nimbus </h2>
+<img src="images/vista.jpg" alt="" height="80px" />&nbsp;</td>
+<td align="left"><h2>Project Vista</h2>
 </td></tr></table>
 <h3>Overview</h3>
-<p>While a lot of work has focused on improving the efficiency, scalability, and usability of machine learning (ML), little work has studied the cost of <i>data acquisition</i> for advanced data analytics. Datasets are already being bought and sold in marketplaces, typically cloud-based, for various tasks, including training ML models. But current data marketplaces force users to buy such datasets in whole or as fixed subsets without any awareness of the ML tasks they are used for. This leads to sub-optimal choices and missed opportunities for both data sellers and buyers.</p>
-<p>In this project, we envision and prototype the first principled and practical pricing framework that resolves the above issues by devising ML-aware pricing mechanisms. We call our approach <i>model-based pricing</i>. Our key observation is that for most ML users, the data is only a means to an end to meet their accuracy goals. This gives rise to novel trade-offs between price, accuracy, and runtimes. We study and optimize these trade-offs by combining ideas from ML, data management, and micro-economics.</p>
+<p>Deep convolutional neural networks (CNNs) have revolutionized computer vision,
+achieving near-human accuracy on many prediction tasks. 
+This has led to a growing interest in using deep CNNs to exploit images, video, 
+and other unstructured data sources for analytics in many applications.
+However, there are still numerous practical bottlenecks in using deep CNNs for 
+data analytics, including for transfer learning with deep CNNs and interpeting 
+such models in new analytics contexts.</p>
+<p>In this project, we build a new data system to enable seamless and efficient 
+exploitation of deep CNNs for emerging multimodal analytics workloads.
+Rather than segregating multimedia data away in siloed systems, Vista will 
+enable popular and scalable data analytics systems to truly <i>see</i> such forms 
+of data.</p>
+<p>Vista currently supports large-scale transfer learning from deep CNNs for 
+reliable, efficient, and easy-to-use multimodal analytics at scale in the Spark-TensorFlow 
+environment. Please see the paper below for more details. </p>
 <h3>Downloads (Paper, Code, Data, etc.)</h3>
 <ul>
-<li><p>Model-based Pricing: Do Not Pay for More than What You Learn!<br />
-Lingjiao Chen, Paraschos Koutris, and Arun Kumar<br />
-ACM SIGMOD 2017 DEEM Workshop |
-<a href="papers/2017_Nimbus_DEEM.pdf" target=_blank>Paper PDF</a></p>
+<li><p>Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics<br />
+Supun Nakandala and Arun Kumar<br />
+Under submission |
+<a href="papers/TR_2017_Vista.pdf" target=_blank>TechReport</a> |
+Code and Data (coming soon)</p>
 </li>
 </ul>
 <h3>Student Contact</h3>
-<p>Lingjiao Chen: lchen1 [at] wisc [dot] edu</p>
+<p>Supun Nakandala: snakanda [at] eng [dot] ucsd [dot] edu</p>
 <div id="footer">
 <div id="footer-text">
 HTML generated  by <a href="http://jemdoc.jaboc.net/" target=_blank>jemdoc</a>.

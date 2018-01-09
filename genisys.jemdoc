@@ -24,12 +24,24 @@ Enabling speech-driven multimodal querying of structured data with regular SQL a
 ~~~
 
 ~~~
+{}{img_left}{images/vista.jpg}{}{80px}{}{}
+[vista.html *Vista*]\n
+Enabling data systems to truly see image and video data for efficient multimodal analytics. 
+~~~
+
+~~~
 {}{img_left}{images/precog.jpg}{}{80px}{}{}
 *Precog* (Coming soon)\n
 Accelerating the use of ML in the /Internet of Things/ (IoT) for an "intelligent" physical world.
 ~~~
 
 === Publications
+
+- Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
+Supun Nakandala and Arun Kumar\n
+Under submission |
+[papers/TR_2017_Vista.pdf TechReport] |
+Code and Data (coming soon)
 
 - SpeakQL: Towards Speech-driven Multi-modal Querying\n
 Dharmil Chandarana, Vraj Shah, Arun Kumar, and Lawrence Saul\n
