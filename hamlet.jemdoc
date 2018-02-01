@@ -16,6 +16,8 @@ We show that the features brought in by such joins can often be ignored without 
 
 Linear models are nice but data scientists also love complex non-linear classifiers with high capacity, e.g., decision trees or RBF-SVMs, due to their potentially higher accuracy. So, in this follow-up work, we ask: what happens to the dichotomy observed on linear classifiers for avoiding joins safely with such high capacity classifiers? One might expect that these complex models would face even worse overfitting. Surprisingly, our results show the exact opposite! Using an extensive empirical and simulation-based analysis, we dissect the behavior of these models over KFK joins. We also take a step towards formally explaining their behavior and identify new questions for further ML theoretical research. Oh, and as for deep learning, neural networks also exhibit the same behavior.
 
+The ideas from this work have been protoyped and\/or adopted for applications at Facebook, LogicBlox, and MakeMyTrip.
+
 === Downloads (Paper, Code, Data, etc.)
 
 *Hamlet\+\+*

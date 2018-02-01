@@ -14,6 +14,8 @@ In this project, we introduce the paradigm of learning /over/ joins to avoid the
 
 We have protoyped Orion using user-defined functions in the PostgreSQL and Hive/Hadoop environments. Orion has been generalized and superseded by [morpheus.html Project Morpheus].
 
+The ideas from this work have been protoyped and\/or adopted for applications at LogicBlox and Microsoft.
+
 *Santoku (Factorized learning and scoring in R)*
 
 This toolkit is an extension of Orion that extends the idea of factorized learning to other ML models with categorical features such as Naive Bayes and TAN as well, and implement them in the popular R environment. We also extend the idea to ML inference by creating the “factorized scoring” technique and introduce capabilities to enable exploratory feature selection across different tables.
