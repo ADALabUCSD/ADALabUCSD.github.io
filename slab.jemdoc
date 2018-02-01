@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU2}{slab.html}
+= ADA Lab @ UCSD
+
+~~~
+{}{img_left}{images/slab.jpg}{}{}{80px}{}
+== Scalable Linear Algebra Benchmarking (SLAB)
+~~~ 
+
+=== Overview
+
+The growing use of statistical and machine learning (ML) algorithms to analyze large datasets has given rise to new systems to scale such algorithms. But implementing new scalable algorithms in low-level languages is a painful process, especially for users in enterprise and domain scientific settings. To mitigate this issue, a new breed of systems expose high-level bulk \textit{linear algebra} (LA) primitives, which they scale to large data. By composing such LA primitives, users can write analysis algorithms in a higher-level language, while the system handles scalability issues. But there is little work on providing a unified comparative assessment of the scalability, efficiency, and effectiveness of such /scalable LA systems/. 
+
+We take a major step towards filling this gap in this project. We introduce a suite of LA-specific tests based on our analysis of the data access, communication, and computation behavior of LA workloads. Using our tests, we perform a comprehensive empirical comparison of a few popular scalable LA systems: MADlib, MLlib, SystemML, ScaLAPACK, and TensorFlow using both synthetic datasets and a large real-world dataset. Our study has revealed several scalability bottlenecks, unusual performance trends, and even bugs in some of these systems. Our findings have already led to improvements in SystemML, with other systems' developers also expressing interest. 
+
+=== Downloads (Paper, Code, Data, etc.)
+
+- A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics
+Anthony Thomas and Arun Kumar\n
+Under submission |
+[papers/TR_2018_SLAB.pdf TechReport] | [https://github.com/ADALabUCSD/SLAB SLAB Code and Data Scripts on GitHub]
+
+=== Student Contact
+
+Anthony Thomas: ahthomas \[at\] eng \[dot\] ucsd \[dot\] edu
+
