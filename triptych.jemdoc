@@ -37,7 +37,18 @@ Integrating linear algebra and relational algebra to simplify feature engineerin
 Enabling the first ML-aware cloud-based commodity market for the new black gold: training data.
 ~~~
 
+~~~
+{}{img_left}{images/slab.jpg}{}{80px}{}{}
+[slab.html *SLAB*]\n
+The first comprehensive benchmark comparison of scalable linear algebra systems.
+~~~
+
 === Publications 
+
+- A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics\n
+Anthony Thomas and Arun Kumar\n
+Under submission |
+[papers/TR_2018_SLAB.pdf TechReport] | [https://github.com/ADALabUCSD/SLAB Code and Data]
 
 - Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?\n
 Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
