@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{images/morpheus.jpg}{}{}{80px}{}
 == Project Morpheus
-~~~ 
+~~~
 
 === Overview
 
@@ -24,7 +24,12 @@ VLDB 2017 |
 [papers/2017_Morpheus_VLDB.pdf Paper PDF] |
 [papers/TR_2017_Morpheus.pdf TechReport]
 
-- [https://github.com/lchen001/Morpheus Morpheus Code on GitHub] (R library for normalized matrix and factorized LA; example factorized ML algorithms)
+- MorpheusPy: Factorized Machine Learning with NumPy
+Side Li, Arun Kumar\n
+[papers/TR_2018_MorpheusPy.pdf TechReport]
+
+- [https://github.com/lchen001/Morpheus MorpheusR Code on GitHub] (R library for normalized matrix and factorized LA; example factorized ML algorithms)
+- [https://github.com/ADALabUCSD/MorpheusPy MorpheusPy Code on GitHub] (Python library for normalized matrix and factorized LA; example factorized ML algorithms)
 - [https://github.com/lchen001/Morpheus/blob/master/Data.zip Real-world datasets] (Based on the [hamlet.html Project Hamlet] datasets)
 
 
@@ -32,4 +37,3 @@ VLDB 2017 |
 
 - Lingjiao Chen: lchen1 \[at\] wisc \[dot\] edu (for Morpheus in R)
 - Side Li: s7li \[at\] eng \[dot\] ucsd \[dot\] edu (for Morpheus in Python and others)
-
