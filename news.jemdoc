@@ -3,6 +3,7 @@
 
 == News
 
+- 04/18: Lingjiao Chen receives a [https://research.googleblog.com/2018/04/announcing-2018-google-phd-fellows-for.html 2018 Google PhD Fellowship], the only student in the database area!
 - 02/18: Supun presents a poster on [https://adalabucsd.github.io/vista.html *Vista*] at the inaugural [http://www.sysml.cc/ SysML] mini-conference.
 - 02/18: Arun interviewed on the topic of advanced data analytics and ML systems for a [http://wp.sigmod.org/?p=2243 *SIGMOD blog post*].
 - 02/18: Preprints of the [https://adalabucsd.github.io/vista.html *Vista*] and [https://adalabucsd.github.io/slab.html *SLAB*] papers are out! 
@@ -17,6 +18,7 @@
 *Note*: If our research software and\/or ideas have been helpful for your data analytics applications, we would love to hear from you on your use cases and feedback. We are also happy to mention your company\/organization in the list below.
 ~~~
 
+- 2018: [morpheus.html Morpheus] in Python explored for internal use by Avito of Russia (recommendation and other Web analytics).
 - 2018: [slab.html SLAB] results reveal new bugs and garner feature earmarks in IBM/Apache [https://systemml.apache.org/ SystemML].
 - 2017: [https://adalabucsd.github.io/papers/2017_BismarckBoltOnDP_SIGMOD.pdf Bolt-on DP-SGD] adopted for various customer use cases by Georgian Partners.
 - 2017: [orion.html Orion] and [morpheus.html Morpheus] ideas explored for internal use by Google (ad analytics) and Oracle (banking analytics).
