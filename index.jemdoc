@@ -36,7 +36,7 @@ After identifying the tasks where ML/AI might benefit their application in
 terms of business impact or scientific insights, the data scientist steers
 three main processes, as illustrated below:
 
-- *Data Sourcing*: Identify, collect, and organize data in to a form that can be used to train ML models.
+- *Data Sourcing*: Identify, collect, clean, and organize data in to a form that can be used to train ML models.
 - *Model Building*: Perform /model selection/ with the data to obtain desired ML models.
 - *Model Deployment*: Integrate trained ML models with the application and oversee lifecycle.
 
@@ -109,7 +109,7 @@ Office: CSE 3232
 ~~~
 
 ~~~
-{}{img_left}{images/tmp.jpg}{}{100px}{}{}
+{}{img_left}{https://media.licdn.com/dms/image/C4E03AQE7w4VQB58VNA/profile-displayphoto-shrink_800_800/0?e=1530399600&v=beta&t=xkcmKg8BiGbBLeXbKFCOE_R4mmdraEBCZMdDKtURDk4}{}{100px}{}{}
 [ Vraj Shah]\n
 MS, CSE\n
 Email: vps002 \[at\] eng \[dot\] ucsd \[dot\] edu\n
@@ -125,13 +125,6 @@ Office: CSE 3230
 ~~~
 
 === Undergraduate Students
-
-~~~
-{}{img_left}{images/tmp.jpg}{}{100px}{}{}
-[ Yaobang Deng]\n
-BS, CSE\n
-Email: yad025 \[at\] ucsd \[dot\] edu
-~~~
 
 ~~~
 {}{img_left}{images/side.jpg}{}{100px}{}{}
