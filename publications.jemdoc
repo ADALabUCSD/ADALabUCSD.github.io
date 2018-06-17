@@ -6,7 +6,6 @@
 - Pushing Down Machine Learning Inference to the Edge in Heterogeneous Internet of Things Applications\n
 Anthony Thomas, Yunhui Guo, Yeseong Kim, Baris Aksanli, Arun Kumar, Tajana S. Rosing\n
 Under Submission |
-[papers/2018_IOT.pdf Paper PDF] |
 [papers/TR_2018_IOT.pdf TechReport]
 
 - Model-based Pricing for Machine Learning in a Data Marketplace\n
@@ -18,18 +17,14 @@ Anthony Thomas and Arun Kumar\n
 Under submission |
 [papers/TR_2018_SLAB.pdf TechReport] | [slab.html Code and Data]
 
-- In-RDBMS Hardware Acceleration of Advanced Analytics\n
-Divya Mahajan, Joon Kyung Kim, Jacob Sacks, Adel Ardalan, Arun Kumar, and Hadi Esmaeilzadeh\n
-Under submission (PDF coming soon)
-
-- Movement Data and Environmental Context for Predicting Human Behavior with Machine Learned Models: A Case of Tacos and Fitness Studios (Short paper)\n
-Jiue-An Yang, Marta M. Jankowska, Arun Kumar, and Jacqueline Kerr\n
-GIScience 2018 (To appear)
-
 - Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
 Supun Nakandala and Arun Kumar\n
 Under submission |
 [papers/TR_2018_Vista.pdf TechReport] | [vista.html Code and Data]
+
+- In-RDBMS Hardware Acceleration of Advanced Analytics\n
+Divya Mahajan, Joon Kyung Kim, Jacob Sacks, Adel Ardalan, Arun Kumar, and Hadi Esmaeilzadeh\n
+VLDB 2018 (To appear) | Paper PDF and TR coming soon
 
 - Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?\n
 Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
@@ -37,6 +32,10 @@ VLDB 2018 (To appear) |
 [papers/2018_Hamlet_VLDB.pdf Paper PDF] |
 [papers/TR_2017_HamletPlusPlus.pdf TechReport] | 
 [hamlet.html Code and Data]
+
+- Movement Data and Environmental Context for Predicting Human Behavior with Machine Learned Models: A Case of Tacos and Fitness Studios (Short paper)\n
+Jiue-An Yang, Marta M. Jankowska, Arun Kumar, and Jacqueline Kerr\n
+GIScience 2018 (To appear)
 
 - Towards Linear Algebra over Normalized Data\n
 Lingjiao Chen, Arun Kumar, Jeffrey Naughton, and Jignesh Patel\n
