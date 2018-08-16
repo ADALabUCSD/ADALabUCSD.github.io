@@ -9,7 +9,8 @@ Under submission | [papers/TR_2018_Nimbus.pdf TechReport]
 
 - A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics\n
 Anthony Thomas and Arun Kumar\n
-Under submission |
+VLDB 2018/2019 (To appear) |
+Paper PDF (Coming soon) |
 [papers/TR_2018_SLAB.pdf TechReport] | [slab.html Code and Data]
 
 #- Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
@@ -28,10 +29,6 @@ VLDB 2018 (To appear) |
 [papers/2018_Hamlet_VLDB.pdf Paper PDF] |
 [papers/TR_2017_HamletPlusPlus.pdf TechReport] | 
 [hamlet.html Code and Data]
-
-- Movement Data and Environmental Context for Predicting Human Behavior with Machine Learned Models: A Case of Tacos and Fitness Studios (Short paper)\n
-Jiue-An Yang, Marta M. Jankowska, Arun Kumar, and Jacqueline Kerr\n
-GIScience 2018 (To appear)
 
 - Towards Linear Algebra over Normalized Data\n
 Lingjiao Chen, Arun Kumar, Jeffrey Naughton, and Jignesh Patel\n
