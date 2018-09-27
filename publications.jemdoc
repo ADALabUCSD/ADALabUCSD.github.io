@@ -3,6 +3,11 @@
 
 == Peer-reviewed Publications
 
+#- Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
+#Supun Nakandala and Arun Kumar\n
+#Under submission |
+#[papers/TR_2018_Vista.pdf TechReport] | [vista.html Code and Data]
+
 - Model-based Pricing for Machine Learning in a Data Marketplace\n
 Lingjiao Chen, Paraschos Koutris, and Arun Kumar\n
 Under submission | [papers/TR_2018_Nimbus.pdf TechReport]
@@ -10,13 +15,8 @@ Under submission | [papers/TR_2018_Nimbus.pdf TechReport]
 - A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics\n
 Anthony Thomas and Arun Kumar\n
 VLDB 2018/2019 (To appear) |
-Paper PDF (Coming soon) |
+[http://www.vldb.org/pvldb/vol11/p2168-thomas.pdf Paper PDF] |
 [papers/TR_2018_SLAB.pdf TechReport] | [slab.html Code and Data]
-
-#- Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
-#Supun Nakandala and Arun Kumar\n
-#Under submission |
-#[papers/TR_2018_Vista.pdf TechReport] | [vista.html Code and Data]
 
 - In-RDBMS Hardware Acceleration of Advanced Analytics\n
 Divya Mahajan, Joon Kyung Kim, Jacob Sacks, Adel Ardalan, Arun Kumar, and Hadi Esmaeilzadeh\n
