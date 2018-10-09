@@ -27,11 +27,12 @@
 <div class="menu-item"><a href="triptych.html"><br /> Project&nbsp;Triptych</a></div>
 <div class="menu-item"><a href="hamlet.html">Hamlet</a></div>
 <div class="menu-item"><a href="morpheus.html">Morpheus</a></div>
-<div class="menu-item"><a href="nimbus.html" class="current">Nimbus</a></div>
+<div class="menu-item"><a href="nimbus.html">Nimbus</a></div>
 <div class="menu-item"><a href="slab.html">SLAB</a></div>
 <div class="menu-item"><a href="genisys.html"><br /> Project&nbsp;Genisys</a></div>
 <div class="menu-item"><a href="speakql.html">SpeakQL</a></div>
 <div class="menu-item"><a href="vista.html">Vista</a></div>
+<div class="menu-item"><a href="precog.html" class="current">Precog</a></div>
 <div class="menu-category"><br /> Past Projects</div>
 <div class="menu-item"><a href="orion.html">Orion</a></div>
 <div class="menu-item"><a href="http://i.stanford.edu/hazy/victor/columbus/">Columbus</a></div>
@@ -43,28 +44,25 @@
 <h1>ADA Lab @ UCSD</h1>
 </div>
 <table class="imgtable"><tr><td>
-<img src="images/nimbus.jpg" alt="" height="80px" />&nbsp;</td>
-<td align="left"><h2>Project Nimbus </h2>
+<img src="images/precog.jpg" alt="" height="80px" />&nbsp;</td>
+<td align="left"><h2>Precog: Efficient ML Inference for IoT</h2>
 </td></tr></table>
 <h3>Overview</h3>
-<p>While a lot of work has focused on improving the efficiency, scalability, and usability of machine learning (ML), little work has studied the cost of <i>data acquisition</i> for advanced data analytics. Datasets are already being bought and sold in marketplaces, typically cloud-based, for various tasks, including training ML models. But current data marketplaces force users to buy such datasets in whole or as fixed subsets without any awareness of the ML tasks they are used for. This leads to sub-optimal choices and missed opportunities for both data sellers and buyers.</p>
-<p>In this project, we envision and prototype the first principled and practical pricing framework that resolves the above issues by devising ML-aware pricing mechanisms. We call our approach <i>model-based pricing</i>. Our key observation is that for most ML users, the data is only a means to an end to meet their accuracy goals. This gives rise to novel trade-offs between price, accuracy, and runtimes. We study and optimize these trade-offs by combining ideas from ML, data management, and micro-economics.</p>
+<p>Networked applications with heterogeneous sensors on the edge, popularly called the Internet of Things (IoT), are a growing source of data. Such applications now use machine learning (ML) to make streaming predictions. The current dominant approach to deploying ML in most IoT applications is monolithic&ndash;features from all sensors are collected in a centralized cloud-based tier to stitch the whole feature vector for ML inference. This approach has high communication costs, which wastes energy on the edge devices and often bottlenecks the network. In this work, we study an alternative approach that mitigates such issues by &lsquo;&lsquo;pushing down&rsquo;&rsquo; ML inference queries through a hierarchy of devices to the edge as much as possible. Our approach presents a new technical challenge of rewriting ML inference without significantly reducing prediction accuracy. We provide the first comprehensive characterization of several popular ML models in terms of their amenability to such push down rewrites based on their communication cost&ndash;computation cost-accuracy trade-offs. We introduce novel exact rewrite algorithms for some popular models that preserve accuracy. We also create novel approximate variants of other models that still offer high accuracy. Our rewrites reduce communication cost by up to 90%, while a real prototype on a common edge device in IoT networks shows that our techniques reduce energy use and latency by up to 67%.</p>
 <h3>Downloads (Paper, Code, Data, etc.)</h3>
 <ul>
-<li><p>Model-based Pricing for Machine Learning in a Data Marketplace<br />
-Lingjiao Chen, Paraschos Koutris, and Arun Kumar<br />
-Under submission | <a href="papers/TR_2018_Nimbus.pdf" target=_blank>TechReport</a></p>
+<li><p>Pushing Down Machine Learning Inference to the Edge in Heterogeneous Internet of Things Applications<br />
+Anthony Thomas, Yunhui Guo, Yeseong Kim, Baris Aksanli, Arun Kumar, Tajana S. Rosing<br />
+Under Submission |
+<a href="papers/TR_2018_IOT.pdf" target=_blank>TechReport</a></p>
 </li>
 </ul>
 <ul>
-<li><p>Model-based Pricing: Do Not Pay for More than What You Learn!<br />
-Lingjiao Chen, Paraschos Koutris, and Arun Kumar<br />
-ACM SIGMOD 2017 DEEM Workshop |
-<a href="papers/2017_Nimbus_DEEM.pdf" target=_blank>Paper PDF</a></p>
+<li><p><a href="https://github.com/ADALabUCSD/precog" target=_blank>Source code on GitHub</a> (Python code for data precleaning and neural network implementations; data files for publicly available data)</p>
 </li>
 </ul>
 <h3>Student Contact</h3>
-<p>Lingjiao Chen: lchen1 [at] wisc [dot] edu</p>
+<p>Anthony H. Thomas: ahthomas [at] eng [dot] ucsd [dot] edu</p>
 <div id="footer">
 <div id="footer-text">
 HTML generated  by <a href="http://jemdoc.jaboc.net/" target=_blank>jemdoc</a>.
