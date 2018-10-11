@@ -28,8 +28,13 @@ VLDB 2017 |
 Side Li, Arun Kumar\n
 [papers/TR_2018_MorpheusPy.pdf TechReport]
 
+- MorpheusFlow: a case study of learning over joins with TensorFlow\n
+Side Li, Arun Kumar\n
+[papers/TR_2018_MorpheusFlow.pdf TechReport]
+
 - [https://github.com/lchen001/Morpheus MorpheusR Code on GitHub] (R library for normalized matrix and factorized LA; example factorized ML algorithms)
 - [https://github.com/ADALabUCSD/MorpheusPy MorpheusPy Code on GitHub] (Python library for normalized matrix and factorized LA; example factorized ML algorithms)
+- [https://github.com/ADALabUCSD/MorpheusFlow MorpheusFlow Code on GitHub] (TensorFlow extension for lazy joins over relational data)
 - [https://github.com/lchen001/Morpheus/blob/master/Data.zip Real-world datasets] (Based on the [hamlet.html Project Hamlet] datasets)
 
 
