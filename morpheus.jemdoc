@@ -14,7 +14,7 @@ In this project, we mitigate the above overhead by leveraging a popular formal a
 
 We have protoyped Morpheus in the popular R environment. Versions in Python and TensorFlow, as well as Apache SystemML are in the works. This project sets the stage for a holistic unification of relational algebra-based feature and data engineering with LA-based ML to help accelerate ML workloads over structured data.
 
-The ideas from this work have been protoyped and\/or adopted for applications at LogicBlox and Microsoft.
+The ideas from this work have been protoyped and\/or adopted for applications at LogicBlox, Microsoft, and Avito.
 
 === Downloads (Paper, Code, Data, etc.)
 
