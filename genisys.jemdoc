@@ -25,26 +25,12 @@ Enabling speech-driven multimodal querying of structured data with regular SQL a
 
 ~~~
 {}{img_left}{images/vista.jpg}{}{80px}{}{}
-[vista.html *Vista*]\n
+[vista.html *Vista*] \n
 Enabling data systems to truly see image and video data for efficient multimodal analytics. 
 ~~~
 
-~~~
-{}{img_left}{images/precog.jpg}{}{80px}{}{}
-[precog.html *Precog*]\n
-Accelerating the use of ML in the /Internet of Things/ (IoT) for an "intelligent" physical world.
-~~~
 
 === Publications
-
-- Pushing Down Machine Learning Inference to the Edge in Heterogeneous Internet of Things Applications\n
-Anthony Thomas, Yunhui Guo, Yeseong Kim, Baris Aksanli, Arun Kumar, Tajana S. Rosing\n
-Under Submission |
-[papers/TR_2018_IOT.pdf TechReport]
-
-- Movement Data and Environmental Context for Predicting Human Behavior with Machine Learned Models: A Case of Tacos and Fitness Studios (Short paper)\n
-Jiue-An Yang, Marta M. Jankowska, Arun Kumar, and Jacqueline Kerr\n
-GIScience 2018 (To appear)
 
 - Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
 Supun Nakandala and Arun Kumar\n
@@ -55,10 +41,4 @@ Under submission |
 Dharmil Chandarana, Vraj Shah, Arun Kumar, and Lawrence Saul\n
 ACM SIGMOD 2017 HILDA Workshop |
 [papers/2017_SpeakQL_HILDA.pdf Paper PDF]
-
-- Pushing Down Machine Learning Inference to the Edge in Heterogeneous Internet of Things Applications\n
-Anthony Thomas, Yunhui Guo, Yeseong Kim, Baris Aksanli, Arun Kumar, Tajana S. Rosing\n
-Under Submission |
-[papers/2018_IOT.pdf Paper PDF] |
-[papers/TR_2018_IOT.pdf TechReport]
 

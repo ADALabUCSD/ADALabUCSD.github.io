@@ -1,12 +1,12 @@
-# jemdoc: menu{MENU}{publications.html}
+# jemdoc: menu{MENU2}{publications.html}
 = ADA Lab @ UCSD
 
 == Peer-reviewed Publications
 
-- Pushing Down Machine Learning Inference to the Edge in Heterogeneous Internet of Things Applications\n
-Anthony Thomas, Yunhui Guo, Yeseong Kim, Baris Aksanli, Arun Kumar, Tajana S. Rosing\n
-Under Submission |
-[papers/TR_2018_IOT.pdf TechReport]
+- Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
+Supun Nakandala and Arun Kumar\n
+Under submission |
+[papers/TR_2018_Vista.pdf TechReport] | [vista.html Code and Data]
 
 - Model-based Pricing for Machine Learning in a Data Marketplace\n
 Lingjiao Chen, Paraschos Koutris, and Arun Kumar\n
@@ -14,17 +14,14 @@ Under submission | [papers/TR_2018_Nimbus.pdf TechReport]
 
 - A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics\n
 Anthony Thomas and Arun Kumar\n
-Under submission |
+VLDB 2018/2019 (To appear) |
+[http://www.vldb.org/pvldb/vol11/p2168-thomas.pdf Paper PDF] |
 [papers/TR_2018_SLAB.pdf TechReport] | [slab.html Code and Data]
-
-- Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
-Supun Nakandala and Arun Kumar\n
-Under submission |
-[papers/TR_2018_Vista.pdf TechReport] | [vista.html Code and Data]
 
 - In-RDBMS Hardware Acceleration of Advanced Analytics\n
 Divya Mahajan, Joon Kyung Kim, Jacob Sacks, Adel Ardalan, Arun Kumar, and Hadi Esmaeilzadeh\n
-VLDB 2018 (To appear) | Paper PDF and TR coming soon
+VLDB 2018 (To appear) | [papers/2018_DANA_VLDB.pdf Paper PDF] |
+[http://act-lab.org/artifacts/dana/addendum.pdf Addendum]
 
 - Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?\n
 Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
@@ -32,10 +29,6 @@ VLDB 2018 (To appear) |
 [papers/2018_Hamlet_VLDB.pdf Paper PDF] |
 [papers/TR_2017_HamletPlusPlus.pdf TechReport] | 
 [hamlet.html Code and Data]
-
-- Movement Data and Environmental Context for Predicting Human Behavior with Machine Learned Models: A Case of Tacos and Fitness Studios (Short paper)\n
-Jiue-An Yang, Marta M. Jankowska, Arun Kumar, and Jacqueline Kerr\n
-GIScience 2018 (To appear)
 
 - Towards Linear Algebra over Normalized Data\n
 Lingjiao Chen, Arun Kumar, Jeffrey Naughton, and Jignesh Patel\n
@@ -143,10 +136,25 @@ VLDB 2012 |
 [http://i.stanford.edu/hazy/staccato/download/ Code and Data]
 
 
-== Manuscripts and Dissertations
+== Manuscripts, Articles, and Dissertations
+
+- ML\/AI Systems and Applications: Is the SIGMOD\/VLDB Community Losing Relevance?\n
+Arun Kumar\n
+Blog post on the official ACM SIGMOD Blog, 2018 |
+[http://wp.sigmod.org/?p=2454 Webpage]
+
+- Courting ML: Witnessing the Marriage of Relationa & Web Data Systems to Machine
+Learning\n
+Interviewed for ACM SIGMOD Blog, 2018 | [http://wp.sigmod.org/?p=2243 Webpage]
+
+
+- Advice from PhD to Early Career\n
+Arun Kumar\n
+ACM SIGMOD 2018 New Researcher Symposium Talk |
+[https://sigmod2018.org/nrs_slides/kumar.pdf Slides]
 
 - Learning Over Joins\n
-PhD Dissertation. UW-Madison 2016 |
+Arun Kumar. PhD Dissertation. UW-Madison 2016 |
 [papers/Dissertation_ArunKumar.pdf PDF] |
 [http://cseweb.ucsd.edu/csevideo/Arun.Kumar.mp4 Video of job talk at UCSD]\n
 +Wisconsin CS 2016 Graduate Student Research Award for best dissertation research+

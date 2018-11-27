@@ -1,11 +1,14 @@
-# jemdoc: menu{MENU}{news.html}
+# jemdoc: menu{MENU2}{news.html}
 = ADA Lab @ UCSD
 
 == News
 
-- 06/18: The [https://arxiv.org/abs/1801.06027 *DANA* paper] is accepted to VLDB 2018. Database meets ML meets computer architecture in Rio!
+- 10/18: Supun, Vraj, and Yuhao present posters about their research at the inaugural [https://sites.google.com/eng.ucsd.edu/socaldb18/ *SoCal DB Day*]. Supun also presents a talk about his research at the Fall'18 CNS Research Review. 
+- 08/18: A blog post on the panel discussion moderated by Arun at SIGMOD DEEM Workshop 2018 is now live on the [http://wp.sigmod.org/?p=2454 *ACM SIGMOD Blog*].
+- 08/18: The [slab.html *SLAB*] paper is accepted to VLDB 2018 (or 2019?). Hit your ML system with SLAB to prove it is worthy.
+- 07/18: A big thank you to NSF for funding [speakql.html *Project SpeakQL*]!
+- 06/18: The [https://arxiv.org/abs/1801.06027 *DAnA* paper] is accepted to VLDB 2018. Database meets ML meets computer architecture in Rio!
 - 06/18: Arun receives a [http://evc.ucsd.edu/faculty/awards/hellman/ *2018 Hellman Fellowship*] and a 2018 Faculty of the Year award from [http://jacobsschool.ucsd.edu/idea/studentlife/orgs/ostem.shtml *oSTEM UCSD Chapter*]. A big thank you to the university and to the students oSTEM!
-- 05/18: Preprint of the [https://adalabucsd.github.io/nimbus.html *Nimbus*] and [https://adalabucsd.github.io/precog.html *Precog*] papers are out. 
 - 04/18: Lingjiao Chen receives a [https://research.googleblog.com/2018/04/announcing-2018-google-phd-fellows-for.html *2018 Google PhD Fellowship*], the only student in the database area! Congratulations to Lingjiao and thank you to Google!
 - 02/18: Arun interviewed on the topic of advanced data analytics and ML systems for a [http://wp.sigmod.org/?p=2243 *SIGMOD blog post*].
 - 02/18: Supun presents a poster on [https://adalabucsd.github.io/vista.html *Vista*] at the inaugural [http://www.sysml.cc/ *SysML*] mini-conference.

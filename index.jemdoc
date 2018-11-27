@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU2}{index.html}
 = Arun's Data Analytics (ADA) Lab @ UCSD
 
 == Introduction
@@ -67,11 +67,10 @@ The list of ADALab publications is here: [publications.html *Publications*].
 
 == Recent ADALab News
 
-- 06/18: The [https://arxiv.org/abs/1801.06027 *DANA* paper] is accepted to VLDB 2018. Database meets ML meets computer architecture in Rio!
-- 06/18: Arun receives a [http://evc.ucsd.edu/faculty/awards/hellman/ *2018 Hellman Fellowship*] and a 2018 Faculty of the Year award from [http://jacobsschool.ucsd.edu/idea/studentlife/orgs/ostem.shtml *oSTEM UCSD Chapter*]. A big thank you to the university and to the students oSTEM!
-- 05/18: Preprint of the [https://adalabucsd.github.io/nimbus.html *Nimbus*] and [https://adalabucsd.github.io/precog.html *Precog*] papers are out.
-- 04/18: Lingjiao Chen receives a [https://research.googleblog.com/2018/04/announcing-2018-google-phd-fellows-for.html *2018 Google PhD Fellowship*], the only student in the database area! Congratulations to Lingjiao and thank you to Google!
-- 02/18: Arun interviewed on the topic of advanced data analytics and ML systems for a [http://wp.sigmod.org/?p=2243 *SIGMOD blog post*].
+- 10/18: Supun, Vraj, and Yuhao present posters about their research at the inaugural [https://sites.google.com/eng.ucsd.edu/socaldb18/ *SoCal DB Day*]. Supun also presents a talk about his research at the Fall'18 CNS Research Review.
+- 08/18: A blog post on the panel discussion moderated by Arun at SIGMOD DEEM Workshop 2018 is now live on the [http://wp.sigmod.org/?p=2454 *ACM SIGMOD Blog*].
+- 08/18: The [slab.html *SLAB*] paper is accepted to VLDB 2018 (or 2019?). Hit your ML system with SLAB to prove it is worthy.
+- 07/18: A big thank you to NSF for funding [speakql.html *Project SpeakQL*]!
 
 Full list of lab news items here: [news.html *News*].
 
@@ -100,30 +99,36 @@ Email: lchen1 \[at\] wisc \[dot\] edu
 ~~~
 {}{img_left}{https://scnakandala.github.io/assets/images/profile_pic.jpeg}{}{100px}{}{}
 [https://scnakandala.github.io/ *Supun Nakandala*]\n
-PhD, CSE\n
+PhD, CSE, UCSD\n
 Email: snakanda \[at\] eng \[dot\] ucsd \[dot\] edu\n
 Office: CSE 3232
 ~~~
 
 ~~~
-{}{img_left}{https://media.licdn.com/dms/image/C4E03AQE7w4VQB58VNA/profile-displayphoto-shrink_800_800/0?e=1530399600&v=beta&t=xkcmKg8BiGbBLeXbKFCOE_R4mmdraEBCZMdDKtURDk4}{}{100px}{}{}
-[ Vraj Shah]\n
-PhD, CSE\n
+{}{img_left}{https://pvn25.github.io/images/vraj.jpeg}{}{100px}{}{}
+[https://pvn25.github.io/ *Vraj Shah*]\n
+PhD, CSE, UCSD\n
 Email: vps002 \[at\] eng \[dot\] ucsd \[dot\] edu\n
+Office: CSE 3230
+~~~
+
+~~~
+{}{img_left}{https://yhzhang.info/images/bio-photo.jpg}{}{100px}{}{}
+[http://yhzhang.info/ *Yuhao Zhang*]\n
+MS, CSE, UCSD\n
+Email: yuz870 \[at\] eng \[dot\] ucsd \[dot\] edu\n
 Office: CSE 3230
 ~~~
 
 === Undergraduate Students
 
-~~~
-{}{img_left}{images/side.jpg}{}{100px}{}{}
-[http://liside.github.io *Side Li*]\n
-BS, CSE\n
-Email: s7li \[at\] eng \[dot\] ucsd \[dot\] edu
-~~~
+- *Kevin Yang*\n
+BS, CSE, UCSD\n
+Email: khy009 \[at\] ucsd \[dot\] edu
 
 === Alumni
 
+- Side Li. BS, CSE, UCSD, 2018.
 - Anthony Thomas. MS, CSE, UCSD, 2018.
 - Mingyang Wang. MS, CSE, UCSD, 2017.
 
