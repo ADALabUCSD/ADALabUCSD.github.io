@@ -10,7 +10,11 @@ Under submission |
 
 - Model-based Pricing for Machine Learning in a Data Marketplace\n
 Lingjiao Chen, Paraschos Koutris, and Arun Kumar\n
-Under submission | [papers/TR_2018_Nimbus.pdf TechReport]
+ACM SIGMOD 2019 (To Appear) | [papers/TR_2018_Nimbus.pdf TechReport]
+
+- Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent\n
+Fengan Li, Lingjiao Chen, Yijing Zeng, Arun Kumar, Jeffrey Naughton, Jignesh Patel, and Xi Wu\n
+ACM SIGMOD 2019 (To Appear) | TechReport coming soon
 
 - A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics\n
 Anthony Thomas and Arun Kumar\n
