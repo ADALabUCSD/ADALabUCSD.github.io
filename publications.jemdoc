@@ -10,11 +10,11 @@ Under submission |
 
 - Model-based Pricing for Machine Learning in a Data Marketplace\n
 Lingjiao Chen, Paraschos Koutris, and Arun Kumar\n
-ACM SIGMOD 2019 (To Appear) | [papers/TR_2018_Nimbus.pdf TechReport]
+ACM SIGMOD 2019 (To appear) | [papers/TR_2018_Nimbus.pdf TechReport]
 
 - Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent\n
 Fengan Li, Lingjiao Chen, Yijing Zeng, Arun Kumar, Jeffrey Naughton, Jignesh Patel, and Xi Wu\n
-ACM SIGMOD 2019 (To Appear) | TechReport coming soon
+ACM SIGMOD 2019 (To appear) | TechReport coming soon
 
 - A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics\n
 Anthony Thomas and Arun Kumar\n
@@ -24,12 +24,12 @@ VLDB 2018/2019 (To appear) |
 
 - In-RDBMS Hardware Acceleration of Advanced Analytics\n
 Divya Mahajan, Joon Kyung Kim, Jacob Sacks, Adel Ardalan, Arun Kumar, and Hadi Esmaeilzadeh\n
-VLDB 2018 (To appear) | [papers/2018_DANA_VLDB.pdf Paper PDF] |
+VLDB 2018 | [papers/2018_DANA_VLDB.pdf Paper PDF] |
 [http://act-lab.org/artifacts/dana/addendum.pdf Addendum]
 
 - Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?\n
 Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
-VLDB 2018 (To appear) |
+VLDB 2018 |
 [papers/2018_Hamlet_VLDB.pdf Paper PDF] |
 [papers/TR_2017_HamletPlusPlus.pdf TechReport] | 
 [hamlet.html Code and Data]
