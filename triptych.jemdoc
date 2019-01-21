@@ -45,13 +45,17 @@ The first comprehensive benchmark comparison of scalable linear algebra systems.
 
 === Publications 
 
-- Model-based Pricing for Machine Learning in a Data Marketplace\n
-Lingjiao Chen, Paraschos Koutris, and Arun Kumar\n
-ACM SIGMOD 2019 (To Appear) | [papers/TR_2018_Nimbus.pdf TechReport]
+- Enabling and Optimizing Non-linear Feature Interactions in Linear Algebra Over Normalized Data\n
+Side Li, Lingjiao Chen, and Arun Kumar\n
+ACM SIGMOD 2019 (To appear) | PDF coming soon
 
 - Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent\n
 Fengan Li, Lingjiao Chen, Yijing Zeng, Arun Kumar, Jeffrey Naughton, Jignesh Patel, and Xi Wu\n
 ACM SIGMOD 2019 (To Appear) | TechReport coming soon
+
+- Model-based Pricing for Machine Learning in a Data Marketplace\n
+Lingjiao Chen, Paraschos Koutris, and Arun Kumar\n
+ACM SIGMOD 2019 (To Appear) | [papers/TR_2018_Nimbus.pdf TechReport]
 
 - A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics\n
 Anthony Thomas and Arun Kumar\n
