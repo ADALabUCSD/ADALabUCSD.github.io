@@ -32,10 +32,15 @@ Enabling data systems to truly see image and video data for efficient multimodal
 
 === Publications
 
+- Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations
+Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
+Under submission |
+[papers/TR_2019_Krypton.pdf TechReport] | Code and Data coming soon
+
 - Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
 Supun Nakandala and Arun Kumar\n
 Under submission |
-[papers/TR_2018_Vista.pdf TechReport] | [https://github.com/ADALabUCSD/Vista Vista Code on GitHub]
+[papers/TR_2018_Vista.pdf TechReport] | [https://github.com/ADALabUCSD/Vista Code on GitHub]
 
 - SpeakQL: Towards Speech-driven Multi-modal Querying\n
 Dharmil Chandarana, Vraj Shah, Arun Kumar, and Lawrence Saul\n
