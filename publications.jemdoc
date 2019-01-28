@@ -43,6 +43,10 @@ VLDB 2018 |
 [papers/TR_2017_HamletPlusPlus.pdf TechReport] | 
 [hamlet.html Code and Data]
 
+- Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
+Supun Nakandala and Arun Kumar\n
+SysML 2018 (Short paper/poster) | [papers/2018_Vista_SysML.pdf Paper PDF]
+
 - Towards Linear Algebra over Normalized Data\n
 Lingjiao Chen, Arun Kumar, Jeffrey Naughton, and Jignesh Patel\n
 VLDB 2017 |
