@@ -3,11 +3,6 @@
 
 == Peer-reviewed Publications
 
-- Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations\n
-Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
-Under submission |
-[papers/TR_2019_Krypton.pdf TechReport] | Code and Data coming soon
-
 - SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data\n
 Vraj Shah, Side Li, Arun Kumar, and Lawrence Saul\n
 Under submission | [papers/TR_2019_SpeakQL.pdf TechReport] | [https://drive.google.com/drive/folders/1tSxUTu2A7qy8fPtB81RnwkyakgykZ3iw?usp=sharing Dataset on Drive]
@@ -17,6 +12,11 @@ Supun Nakandala and Arun Kumar\n
 Under submission |
 [papers/TR_2018_Vista.pdf TechReport] | [vista.html Code and Data]
 
+- Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations\n
+Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
+ACM SIGMOD 2019  | SysML 2019 (Demo/Poster) | Paper and Demo PDFs coming soon | 
+[papers/TR_2019_Krypton.pdf TechReport] | Code and Data coming soon
+
 - Data Management in Machine Learning Systems\n
 Matthias Boehm, Arun Kumar, and Jun Yang\n
 Synthesis Lectures on Data Management, Morgan \& Claypool Publishers (Book) | 
@@ -24,19 +24,19 @@ Synthesis Lectures on Data Management, Morgan \& Claypool Publishers (Book) |
 
 - Enabling and Optimizing Non-linear Feature Interactions in Linear Algebra Over Normalized Data\n
 Side Li, Lingjiao Chen, and Arun Kumar\n
-ACM SIGMOD 2019 (To appear) | Paper PDF coming soon | Code and Data coming soon
+ACM SIGMOD 2019  | Paper PDF coming soon | Code and Data coming soon
 
 - Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent\n
 Fengan Li, Lingjiao Chen, Yijing Zeng, Arun Kumar, Jeffrey Naughton, Jignesh Patel, and Xi Wu\n
-ACM SIGMOD 2019 (To appear) | Paper PDF coming soon | [papers/TR_2019_TOC.pdf TechReport] | Code and Data coming soon
+ACM SIGMOD 2019  | Paper PDF coming soon | [papers/TR_2019_TOC.pdf TechReport] | Code and Data coming soon
 
 - Model-based Pricing for Machine Learning in a Data Marketplace\n
 Lingjiao Chen, Paraschos Koutris, and Arun Kumar\n
-ACM SIGMOD 2019 (To appear) | Paper PDF coming soon | [papers/TR_2018_Nimbus.pdf TechReport] | Code and Data coming soon
+ACM SIGMOD 2019  | Paper PDF coming soon | [papers/TR_2018_Nimbus.pdf TechReport] | Code and Data coming soon
 
 - A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics\n
 Anthony Thomas and Arun Kumar\n
-VLDB 2018/2019 (To appear) |
+VLDB 2018/2019  |
 [http://www.vldb.org/pvldb/vol11/p2168-thomas.pdf Paper PDF] |
 [papers/TR_2018_SLAB.pdf TechReport] | [slab.html Code and Data]
 
