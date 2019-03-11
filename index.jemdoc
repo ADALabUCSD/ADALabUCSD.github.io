@@ -70,10 +70,6 @@ The list of ADALab publications is here: [publications.html *Publications*].
 - +New!+ 03\/19: Supun's paper on query optimization for explaining CNN predictions is accepted to SIGMOD 2019. A demo proposal is also accepted to SysML 2019.
 - +New!+ 02\/19: Morgan \& Claypool publishes Arun's book /Data Management in ML Systems/, the first book on the emerging area of ML systems ([https://www.morganclaypool.com/doi/10.2200/S00895ED1V01Y201901DTM057 *PDF on M\&C webpage*]; [https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1366 *order hard copy*]).
 - 01/19: Side's paper on a non-linear variant of Morpheus gets a rare direct accept to SIGMOD 2019. 
-- 11/18: The Nimbus and Tuple-Oriented Compression papers are both accepted to SIGMOD 2019! I amsterdam and all that.
-- 10/18: Supun, Vraj, and Yuhao present posters about their research at the inaugural [https://sites.google.com/eng.ucsd.edu/socaldb18/ *SoCal DB Day*]. Supun also presents a talk about his research at the Fall'18 CNS Research Review.
-- 08/18: A blog post on the panel discussion moderated by Arun at SIGMOD DEEM Workshop 2018 is now live on the [http://wp.sigmod.org/?p=2454 *ACM SIGMOD Blog*].
-- 08/18: The [slab.html *SLAB*] paper is accepted to VLDB 2018 (or 2019?). Hit your ML system with SLAB to prove it is worthy.
 
 Full list of lab news items here: [news.html *News*].
 
