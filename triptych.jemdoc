@@ -47,26 +47,30 @@ The first comprehensive benchmark comparison of scalable linear algebra systems.
 
 - Enabling and Optimizing Non-linear Feature Interactions in Linear Algebra Over Normalized Data\n
 Side Li, Lingjiao Chen, and Arun Kumar\n
-ACM SIGMOD 2019 (To appear) | Paper PDF coming soon | Code and Data coming soon
+ACM SIGMOD 2019 | Paper PDF coming soon | Code and Data coming soon
 
 - Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent\n
 Fengan Li, Lingjiao Chen, Yijing Zeng, Arun Kumar, Jeffrey Naughton, Jignesh Patel, and Xi Wu\n
-ACM SIGMOD 2019 (To appear) | Paper PDF coming soon | [papers/TR_2019_TOC.pdf TechReport] | Code and Data coming soon
+ACM SIGMOD 2019 | Paper PDF coming soon | [papers/TR_2019_TOC.pdf TechReport] | Code and Data coming soon
 
 - Model-based Pricing for Machine Learning in a Data Marketplace\n
 Lingjiao Chen, Paraschos Koutris, and Arun Kumar\n
-ACM SIGMOD 2019 (To appear) | Paper PDF coming soon | [papers/TR_2018_Nimbus.pdf TechReport] | Code and Data coming soon
+ACM SIGMOD 2019 | Paper PDF coming soon | [papers/TR_2018_Nimbus.pdf TechReport] | Code and Data coming soon
+
+- Demonstration of Nimbus: Model-based Pricing for Machine Learning in a Data Marketplace\n
+Lingjiao Chen, Hongyi Wang, Leshang Chen, Paraschos Koutris, and Arun Kumar\n
+ACM SIGMOD 2019 (Demo) | Demo PDF and Video coming soon
 
 - A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics\n
 Anthony Thomas and Arun Kumar\n
-VLDB 2018/2019 (To appear) |
+VLDB 2018/2019 |
 [http://www.vldb.org/pvldb/vol11/p2168-thomas.pdf Paper PDF] |
 [papers/TR_2018_SLAB.pdf TechReport] | 
 [slab.html Code and Data]
 
 - Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?\n
 Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
-VLDB 2018 (To appear) |
+VLDB 2018 |
 [papers/2018_Hamlet_VLDB.pdf Paper PDF] |
 [papers/TR_2017_HamletPlusPlus.pdf TechReport] |
 [hamlet.html Code and Data]

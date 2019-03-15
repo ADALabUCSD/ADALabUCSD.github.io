@@ -34,8 +34,16 @@ Enabling data systems to truly see image and video data for efficient multimodal
 
 - Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations\n
 Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
-ACM SIGMOD 2019  | SysML 2019 (Demo) | Paper and Demo PDFs coming soon | 
+ACM SIGMOD 2019 | Paper PDF coming soon | 
 [papers/TR_2019_Krypton.pdf TechReport] | Code and Data coming soon
+
+- Demonstration of Krypton: Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations\n
+Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
+SysML 2019 (Demo) | Demo PDF and Video coming soon
+
+- Demonstration of SpeakQL: Speech-driven Multimodal Querying of Structured Data\n
+Vraj Shah, Side Li, Kevin Yang, Arun Kumar, and Lawrence Saul\n
+ACM SIGMOD 2019 (Demo) | Demo PDF and Video coming soon
 
 - Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
 Supun Nakandala and Arun Kumar\n
