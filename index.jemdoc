@@ -67,7 +67,8 @@ The list of ADALab publications is here: [publications.html *Publications*].
 
 == Recent ADALab News
 
-- +New!+ 03\/19: Vraj's demo on SpeakQL and Lingjiao's demo on Nimbus are both accepted to SIGMOD 2019!
+- +New!+ 03\/19: Oracle Labs supports our work on query optimization for ML systems with a research award. Thank you Oracle!
+- +New!+ 03\/19: Vraj\'s demo on SpeakQL and Lingjiao\'s demo on Nimbus are both accepted to SIGMOD 2019.
 - +New!+ 03\/19: Supun's paper on query optimization for explaining CNN predictions is accepted to SIGMOD 2019. A demo proposal is also accepted to SysML 2019.
 - +New!+ 02\/19: Morgan \& Claypool publishes Arun's book /Data Management in ML Systems/, the first book on the emerging area of ML systems ([https://www.morganclaypool.com/doi/10.2200/S00895ED1V01Y201901DTM057 *PDF on M\&C webpage*]; [https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1366 *order hard copy*]).
 - 01/19: Side's paper on a non-linear variant of Morpheus gets a rare direct accept to SIGMOD 2019. 
