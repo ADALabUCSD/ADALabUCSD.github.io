@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU2}{sortinghat.html}
+= ADA Lab @ UCSD
+
+~~~
+{}{img_left}{images/sortinghat.jpg}{}{}{80px}{}
+== Project SortingHat
+~~~ 
+
+=== Overview
+
+Data preparation time still remains a major roadblock for real-world ML applications, since it is ususally handled fully manually by data scientists. The grunt work of data prep involves diverse tasks such as identifying features types for ML, standardizing and cleaning feature values, and feature transformations. This reduces data scientists' productivity and raises costs. It is also an impediment to industrial-scale AutoML platoforms that build ML models on millions of datasets.
+
+To tackle this challenge, we envision a new line of research to dramatically reduce the human effort need in data prep for ML: /using ML to automate data prep for ML/. We abstract specific ML data prep tasks and cast them as applied ML tasks. We present the /ML Data Prep Zoo/, a community-led repository of benchmark labeled datasets, and pre-trained ML models for ML data prep tasks.
+
+In this project, we apply the above philosophy on a ubiquitous data prep issue when applying ML over relation data: /ML Schema Extraction/. Datasets are typically exported from DBMSs into tools such as Python and R as CSV files. This creates a semantic gap between attribute types in a DB schema (such as strings or integers) and feature types in a ML schema (such as numeric or categorical). Hence, the data scientist is forced to manually extract the ML schema.  SortingHat cast this task as ML classification problem and allow users to quickly dispose of easy features and repriortize their effort towards features that need more human attention.
+
+
+=== Downloads (Paper, Code, Data, etc.)
+
+- SortingHat: Towards Semi-Automatic ML Schema Extraction\n
+Vraj Shah, Premanand Kumar, Kevin Yang, and Arun Kumar\n
+Under Preparation | Tech Report coming soon 
+
+- The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML\n
+Vraj Shah, and Arun Kumar\n
+Under Submission | [papers/TR_2019_DataPrepZoo.pdf TechReport]
+
+=== Student Contact
+
+Vraj Shah: vps002 \[at\] eng \[dot\] ucsd \[dot\] edu
+
