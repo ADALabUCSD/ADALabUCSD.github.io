@@ -11,7 +11,7 @@
 Deep CNNs are now the preferred way to perform image analytics in many domains including healthcare,
 e-commerce, security, and sociology. However, one of the main criticisms pointed against deep CNNs
 is the black box nature of how they make predictions. To explain CNN predictions one of the widely
-used approaches in the practical literature is the occlusion based explanation approach (OBE for short)
+used approaches in the practical literature is the occlusion based explanation approach (OBE for short).
 However, OBE experiments are highly time consuming as they need to perform large number of re-inference requests.
 
 In this project we apply incremental and approximate inference optimizations to accelerate the OBE workload.

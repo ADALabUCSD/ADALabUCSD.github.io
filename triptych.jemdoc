@@ -49,6 +49,13 @@ The first comprehensive benchmark comparison of scalable linear algebra systems.
 ML schema inference and auto data prep.
 ~~~
 
+~~~
+{}{img_left}{images/cerebro.jpg}{}{80px}{}{}
+[cerebro.html *Cerebro*]\n
+Efficient and Reproducible Model Selection on Deep Learning Systems..
+~~~
+
+
 === Publications 
 
 - Enabling and Optimizing Non-linear Feature Interactions in Linear Algebra Over Normalized Data\n
@@ -115,3 +122,7 @@ ACM SIGMOD Record Dec 2015 (Vision Track) |
 - The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML\n
 Vraj Shah, and Arun Kumar\n
 Under Submission | [papers/TR_2019_DataPrepZoo.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo Data Prep Zoo Repository on GitHub]
+
+- Cerebro: Efficient and Reproducible Model Selection on Deep Learning Systems\n
+Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
+Under Submission | [papers/TR_2019_Cerebro.pdf TechReport]
