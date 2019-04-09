@@ -60,26 +60,24 @@ Efficient and Reproducible Model Selection on Deep Learning Systems..
 
 - Enabling and Optimizing Non-linear Feature Interactions in Linear Algebra Over Normalized Data\n
 Side Li, Lingjiao Chen, and Arun Kumar\n
-ACM SIGMOD 2019 | Paper PDF coming soon | Code and Data coming soon
+ACM SIGMOD 2019 | [papers/2019_MorpheusFI_SIGMOD.pdf Paper PDF] | Code and Data coming soon
 
 - Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent\n
 Fengan Li, Lingjiao Chen, Yijing Zeng, Arun Kumar, Jeffrey Naughton, Jignesh Patel, and Xi Wu\n
-ACM SIGMOD 2019 | Paper PDF coming soon | [papers/TR_2019_TOC.pdf TechReport] | Code and Data coming soon
+ACM SIGMOD 2019 | [papers/2019_TOC_SIGMOD.pdf Paper PDF] | [papers/TR_2019_TOC.pdf TechReport] | Code and Data coming soon
 
 - Model-based Pricing for Machine Learning in a Data Marketplace\n
 Lingjiao Chen, Paraschos Koutris, and Arun Kumar\n
-ACM SIGMOD 2019 | Paper PDF coming soon | [papers/TR_2018_Nimbus.pdf TechReport] | Code and Data coming soon
+ACM SIGMOD 2019 | [papers/2019_Nimbus_SIGMOD.pdf Paper PDF] | [papers/TR_2018_Nimbus.pdf TechReport] | Code and Data coming soon
 
 - Demonstration of Nimbus: Model-based Pricing for Machine Learning in a Data Marketplace\n
 Lingjiao Chen, Hongyi Wang, Leshang Chen, Paraschos Koutris, and Arun Kumar\n
-ACM SIGMOD 2019 (Demo) | Demo PDF and Video coming soon
+ACM SIGMOD 2019 (Demo) | [papers/2019_NimbusDemo_SIGMOD.pdf Paper PDF] | Video coming soon
 
 - A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics\n
 Anthony Thomas and Arun Kumar\n
-VLDB 2018/2019 |
-[http://www.vldb.org/pvldb/vol11/p2168-thomas.pdf Paper PDF] |
-[papers/TR_2018_SLAB.pdf TechReport] | 
-[slab.html Code and Data]
+VLDB 2018/2019  | [papers/2019_SLAB_VLDB.pdf Paper PDF] |
+[papers/TR_2018_SLAB.pdf TechReport] | [slab.html Code and Data]
 
 - Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?\n
 Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
@@ -117,12 +115,11 @@ Arun Kumar, Robert McCann, Jeffrey Naughton, and Jignesh M. Patel\n
 ACM SIGMOD Record Dec 2015 (Vision Track) |
 [papers/2015_MSMS_SIGMODRecord.pdf Paper PDF]
 
-== Manuscripts, Articles, and Dissertations
+- Cerebro: Efficient and Reproducible Model Selection on Deep Learning Systems\n
+Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
+Under Submission | [papers/TR_2019_Cerebro.pdf TechReport]
 
 - The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML\n
 Vraj Shah, and Arun Kumar\n
 Under Submission | [papers/TR_2019_DataPrepZoo.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo Data Prep Zoo Repository on GitHub]
 
-- Cerebro: Efficient and Reproducible Model Selection on Deep Learning Systems\n
-Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
-Under Submission | [papers/TR_2019_Cerebro.pdf TechReport]

@@ -22,12 +22,11 @@ and approximate query processing techniques in the context of relational data ma
 
 - Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations\n
 Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
-ACM SIGMOD 2019 | Paper PDF coming soon |
-[papers/TR_2019_Krypton.pdf TechReport] | Code and Data coming soon 
+ACM SIGMOD 2019 | [papers/2019_Krypton_SIGMOD.pdf Paper PDF] | [papers/TR_2019_Krypton.pdf TechReport] | Code and Data coming soon
 
-- Demonstration of Krypton: Incremental and Approximate Inference for Faster Occlusion-Based Deep CNN Explanations\n
+- Demonstration of Krypton: Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations\n
 Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
-SysML 2019 (Demo) | Demo PDF and Video coming soon
+SysML 2019 (Demo) | [papers/2019_Krypton_SysML.pdf Paper PDF] | [https://www.youtube.com/watch?v=1OWddbd4n6Y&feature=youtu.be Video]
 
 === Student Contact
 
