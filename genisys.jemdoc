@@ -9,11 +9,11 @@
 === Overview
 
 Genisys is a new kind of data system that enables ADA applications to easily deploy ML 
-models in emerging environments ranging from the Internet of Things to personal devices
-to the cloud. As part of this, Genisys will exploit deep learning-based ML models to 
-see, hear, and understand unstructured data and query sources such as speech, images, 
-video, text, and time series. We call this vision of pervasive intelligence for 
-type-agnostic data analytics /database perception/. Watch this space for more details. 
+models in environments ranging from the cloud to personal devices to the Internet of Things. 
+Genisys exploits deep learning-based ML models to see, hear, and understand unstructured 
+data and query sources such as speech, images, video, time series, and text. 
+We call this vision of type-agnostic data analytics /database perception/. 
+Watch this space for more details. 
 
 === Component Project Webpages  
 
@@ -48,6 +48,10 @@ SysML 2019 (Demo) | [papers/2019_Krypton_SysML.pdf Paper PDF] | [https://www.you
 - Demonstration of SpeakQL: Speech-driven Multimodal Querying of Structured Data\n
 Vraj Shah, Side Li, Kevin Yang, Arun Kumar, and Lawrence Saul\n
 ACM SIGMOD 2019 (Demo) | [papers/2019_SpeakQL_SIGMOD.pdf Paper PDF] | [https://vimeo.com/295693078 Video]
+
+- Hierarchical and Distributed Machine Learning Inference Beyond the Edge\n
+Anthony Thomas, Yunhui Guo, Yeseong Kim, Baris Aksanli, Arun Kumar and Tajana Rosing\n
+IEEE ICNSC 2019 | [papers/2019_ICNSC.pdf Paper PDF]
 
 - Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
 Supun Nakandala and Arun Kumar\n
