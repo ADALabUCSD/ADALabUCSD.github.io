@@ -22,11 +22,14 @@ unstructured data for unified type-agnostic analytics.
 
 == Other Collaborative Work
 
+- Hierarchical and Distributed Machine Learning Inference Beyond the Edge\n
+Anthony Thomas, Yunhui Guo, Yeseong Kim, Baris Aksanli, Arun Kumar and Tajana Rosing\n
+IEEE ICNSC 2019 | [papers/2019_ICNSC.pdf Paper PDF]
+
 - In-RDBMS Hardware Acceleration of Advanced Analytics\n
 Divya Mahajan, Joon Kyung Kim, Jacob Sacks, Adel Ardalan, Arun Kumar, and Hadi Esmaeilzadeh\n
 VLDB 2018 | [papers/2018_DANA_VLDB.pdf Paper PDF] |
 [http://act-lab.org/artifacts/dana/addendum.pdf Addendum]
-
 
 == Past Projects
 
