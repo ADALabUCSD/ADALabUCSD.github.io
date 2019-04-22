@@ -67,9 +67,10 @@ The list of ADALab publications is here: [publications.html *Publications*].
 
 == Recent ADALab News
 
+- +New!+ 04\/19: Supun and Yuhao's short paper on Cerebro and Vraj's short paper on SortingHat are both accepted to the [http://deem-workshop.org/ DEEM Workshop] at SIGMOD 2019.
 - +New!+ 04\/19: Supun presents a demo on Krypton at SysML 2019.
-- +New!+ 03\/19: Oracle Labs supports our work on query optimization for ML systems with a research award. Thank you Oracle!
-- +New!+ 03\/19: Arun gives a [https://conferences.oreilly.com/strata/strata-ca/public/schedule/detail/72361 *talk at Strata Data Conference*] on Morpheus and Hamlet. Arun is also interviewed by SE Daily on the topic of ML systems.
+-  03\/19: Oracle Labs supports our work on query optimization for ML systems with a research award. Thank you Oracle!
+- 03\/19: Arun gives a [https://conferences.oreilly.com/strata/strata-ca/public/schedule/detail/72361 *talk at Strata Data Conference*] on Morpheus and Hamlet. Arun is also interviewed by SE Daily on the topic of ML systems.
 - 02\/19: Morgan \& Claypool publishes Arun's book /Data Management in ML Systems/, the first book on the emerging area of ML systems ([https://www.morganclaypool.com/doi/10.2200/S00895ED1V01Y201901DTM057 *PDF on M\&C webpage*]; [https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1366 *order hard copy*]).
 
 Full list of lab news items here: [news.html *News*].

@@ -19,17 +19,25 @@ ACM SIGMOD 2019 | [papers/2019_TOC_SIGMOD.pdf Paper PDF] | [papers/TR_2019_TOC.p
 Lingjiao Chen, Paraschos Koutris, and Arun Kumar\n
 ACM SIGMOD 2019 | [papers/2019_Nimbus_SIGMOD.pdf Paper PDF] | [papers/TR_2018_Nimbus.pdf TechReport] | Code and Data coming soon
 
+- Cerebro: Efficient and Reproducible Model Selection on Deep Learning Systems\n
+Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
+ACM SIGMOD 2019 DEEM Workshop | Paper PDF coming soon | [papers/TR_2019_Cerebro.pdf TechReport]
+
+- The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML\n
+Vraj Shah and Arun Kumar\n
+ACM SIGMOD 2019 DEEM Workshop | Paper PDF coming soon | [papers/TR_2019_DataPrepZoo.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo Data Prep Zoo Repository on GitHub]
+
 - Demonstration of SpeakQL: Speech-driven Multimodal Querying of Structured Data\n
 Vraj Shah, Side Li, Kevin Yang, Arun Kumar, and Lawrence Saul\n
-ACM SIGMOD 2019 (Demo) | [papers/2019_SpeakQL_SIGMOD.pdf Paper PDF] | [https://vimeo.com/295693078 Video]
+ACM SIGMOD 2019 Demo | [papers/2019_SpeakQL_SIGMOD.pdf Paper PDF] | [https://vimeo.com/295693078 Video]
 
 - Demonstration of Nimbus: Model-based Pricing for Machine Learning in a Data Marketplace\n
 Lingjiao Chen, Hongyi Wang, Leshang Chen, Paraschos Koutris, and Arun Kumar\n
-ACM SIGMOD 2019 (Demo) | [papers/2019_NimbusDemo_SIGMOD.pdf Paper PDF] | Video coming soon
+ACM SIGMOD 2019 Demo | [papers/2019_NimbusDemo_SIGMOD.pdf Paper PDF] | Video coming soon
 
 - Demonstration of Krypton: Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations\n
 Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
-SysML 2019 (Demo) | [papers/2019_Krypton_SysML.pdf Paper PDF] | [https://www.youtube.com/watch?v=1OWddbd4n6Y&feature=youtu.be Video]
+SysML 2019 Demo | [papers/2019_Krypton_SysML.pdf Paper PDF] | [https://www.youtube.com/watch?v=1OWddbd4n6Y&feature=youtu.be Video]
 
 - Data Management in Machine Learning Systems\n
 Matthias Boehm, Arun Kumar, and Jun Yang\n
@@ -60,7 +68,7 @@ VLDB 2018 |
 
 - Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
 Supun Nakandala and Arun Kumar\n
-SysML 2018 (Short paper/poster) | [papers/2018_Vista_SysML.pdf Paper PDF]
+SysML 2018 Short paper/poster | [papers/2018_Vista_SysML.pdf Paper PDF]
 
 - Towards Linear Algebra over Normalized Data\n
 Lingjiao Chen, Arun Kumar, Jeffrey Naughton, and Jignesh Patel\n
@@ -94,7 +102,7 @@ ACM SIGMOD 2017 DEEM Workshop |
 
 - Cerebro: A System to Manage Deep Learning for Relational Data Analytics\n
 Arun Kumar\n
-CIDR 2017 (Abstract) |
+CIDR 2017 Abstract |
 [papers/2017_Cerebro_CIDR.pdf Paper PDF]
 
 - To Join or Not to Join? Thinking Twice about Joins before Feature Selection\n
@@ -106,12 +114,12 @@ ACM SIGMOD 2016 |
 
 - Model Selection Management Systems: The Next Frontier of Advanced Analytics\n
 Arun Kumar, Robert McCann, Jeffrey Naughton, and Jignesh M. Patel\n
-ACM SIGMOD Record Dec 2015 (Vision Track) |
+ACM SIGMOD Record Dec 2015 Vision Track |
 [papers/2015_MSMS_SIGMODRecord.pdf Paper PDF]
 
 - Demonstration of Santoku: Optimizing Machine Learning over Normalized Data\n
 Arun Kumar, Mona Jalal, Boqun Yan, Jeffrey Naughton, and Jignesh M. Patel\n
-VLDB 2015 (Demo) |
+VLDB 2015 Demo |
 [papers/2015_Santoku_VLDB.pdf Paper PDF] |
 [orion.html Code and Data]
 
@@ -134,7 +142,7 @@ NIPS BigLearn 2013 |
 
 - Feature Selection in Enterprise Analytics: A Demonstration using an R-based Data Analytics System\n
 Pradap Konda, Arun Kumar, Christopher Ré, and Vaishnavi Sashikanth\n
-VLDB 2013 (Demo) |
+VLDB 2013 Demo |
 [papers/2013_Columbus_VLDB.pdf Paper PDF]
 
 - Hazy: Making it Easier to Build and Maintain Big-data Analytics\n
@@ -145,7 +153,7 @@ ACM Queue 2013 |
 
 - Brainwash: A Data System for Feature Engineering\n
 Michael Anderson, Dolan Antenucci, Victor Bittorf, Matthew Burgess, Michael Cafarella, Arun Kumar, Feng Niu, Yongjoo Park, Christopher Re, and Ce Zhang\n
-CIDR 2013 (Vision Track) |
+CIDR 2013 Vision Track |
 [papers/2013_Brainwash_CIDR.pdf Paper PDF]
 
 - Towards a Unified Architecture for in-RDBMS Analytics\n
@@ -157,7 +165,7 @@ ACM SIGMOD 2012 |
 
 - The MADlib Analytics Library or MAD Skills, the SQL\n
 Joseph M. Hellerstein, Christopher Ré, Florian Schoppmann, Daisy Zhe Wang, Eugene Fratkin, Aleksander Gorajek, Kee Siong Ng, Caleb Welton, Xixuan Feng, Kun Li, and Arun Kumar\n
-VLDB 2012 (Industrial Track) |
+VLDB 2012 Industrial Track |
 [papers/2012_MADlib_VLDB.pdf Paper PDF]
 
 - Probabilistic Management of OCR Data using an RDBMS\n
@@ -169,14 +177,6 @@ VLDB 2012 |
 
 
 == Manuscripts, Articles, and Dissertations
-
-- Cerebro: Efficient and Reproducible Model Selection on Deep Learning Systems\n
-Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
-Under Submission | [papers/TR_2019_Cerebro.pdf TechReport]
-
-- The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML\n
-Vraj Shah, and Arun Kumar\n
-Under Submission | [papers/TR_2019_DataPrepZoo.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo Data Prep Zoo Repository on GitHub]
 
 - SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data\n
 Vraj Shah, Side Li, Arun Kumar, and Lawrence Saul\n

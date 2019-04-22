@@ -41,13 +41,13 @@ Enabling fast interactive diagnosis of the internals of visual perception system
 Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
 ACM SIGMOD 2019 | [papers/2019_Krypton_SIGMOD.pdf Paper PDF] | [papers/TR_2019_Krypton.pdf TechReport] | Code and Data coming soon
 
-- Demonstration of Krypton: Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations\n
-Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
-SysML 2019 (Demo) | [papers/2019_Krypton_SysML.pdf Paper PDF] | [https://www.youtube.com/watch?v=1OWddbd4n6Y&feature=youtu.be Video]
-
 - Demonstration of SpeakQL: Speech-driven Multimodal Querying of Structured Data\n
 Vraj Shah, Side Li, Kevin Yang, Arun Kumar, and Lawrence Saul\n
-ACM SIGMOD 2019 (Demo) | [papers/2019_SpeakQL_SIGMOD.pdf Paper PDF] | [https://vimeo.com/295693078 Video]
+ACM SIGMOD 2019 Demo | [papers/2019_SpeakQL_SIGMOD.pdf Paper PDF] | [https://vimeo.com/295693078 Video]
+
+- Demonstration of Krypton: Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations\n
+Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
+SysML 2019 Demo | [papers/2019_Krypton_SysML.pdf Paper PDF] | [https://www.youtube.com/watch?v=1OWddbd4n6Y&feature=youtu.be Video]
 
 - Hierarchical and Distributed Machine Learning Inference Beyond the Edge\n
 Anthony Thomas, Yunhui Guo, Yeseong Kim, Baris Aksanli, Arun Kumar and Tajana Rosing\n

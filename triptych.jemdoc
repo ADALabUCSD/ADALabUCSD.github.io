@@ -70,9 +70,17 @@ ACM SIGMOD 2019 | [papers/2019_TOC_SIGMOD.pdf Paper PDF] | [papers/TR_2019_TOC.p
 Lingjiao Chen, Paraschos Koutris, and Arun Kumar\n
 ACM SIGMOD 2019 | [papers/2019_Nimbus_SIGMOD.pdf Paper PDF] | [papers/TR_2018_Nimbus.pdf TechReport] | Code and Data coming soon
 
+- Cerebro: Efficient and Reproducible Model Selection on Deep Learning Systems\n
+Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
+ACM SIGMOD 2019 DEEM Workshop | Paper PDF coming soon | [papers/TR_2019_Cerebro.pdf TechReport]
+
+- The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML\n
+Vraj Shah and Arun Kumar\n
+ACM SIGMOD 2019 DEEM Workshop | Paper PDF coming soon | [papers/TR_2019_DataPrepZoo.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo Data Prep Zoo Repository on GitHub]
+
 - Demonstration of Nimbus: Model-based Pricing for Machine Learning in a Data Marketplace\n
 Lingjiao Chen, Hongyi Wang, Leshang Chen, Paraschos Koutris, and Arun Kumar\n
-ACM SIGMOD 2019 (Demo) | [papers/2019_NimbusDemo_SIGMOD.pdf Paper PDF] | Video coming soon
+ACM SIGMOD 2019 Demo | [papers/2019_NimbusDemo_SIGMOD.pdf Paper PDF] | Video coming soon
 
 - A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics\n
 Anthony Thomas and Arun Kumar\n
@@ -100,7 +108,7 @@ ACM SIGMOD 2017 DEEM Workshop |
 
 - Cerebro: A System to Manage Deep Learning for Relational Data Analytics\n
 Arun Kumar\n 
-CIDR 2017 (Abstract) |
+CIDR 2017 Abstract |
 [papers/2017_Cerebro_CIDR.pdf Paper PDF] 
 
 - To Join or Not to Join? Thinking Twice about Joins before Feature Selection\n
@@ -112,14 +120,6 @@ ACM SIGMOD 2016 |
 
 - Model Selection Management Systems: The Next Frontier of Advanced Analytics\n
 Arun Kumar, Robert McCann, Jeffrey Naughton, and Jignesh M. Patel\n
-ACM SIGMOD Record Dec 2015 (Vision Track) |
+ACM SIGMOD Record Dec 2015 Vision Track |
 [papers/2015_MSMS_SIGMODRecord.pdf Paper PDF]
-
-- Cerebro: Efficient and Reproducible Model Selection on Deep Learning Systems\n
-Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
-Under Submission | [papers/TR_2019_Cerebro.pdf TechReport]
-
-- The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML\n
-Vraj Shah, and Arun Kumar\n
-Under Submission | [papers/TR_2019_DataPrepZoo.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo Data Prep Zoo Repository on GitHub]
 
