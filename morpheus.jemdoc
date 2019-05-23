@@ -18,7 +18,7 @@ The ideas from this work have been protoyped and\/or adopted for applications at
 
 === Downloads (Paper, Code, Data, etc.)
 
-- Enabling and Optimizing Non-linear Feature Interactions in Linear Algebra Over Normalized Data\n
+- Enabling and Optimizing Non-linear Feature Interactions in Factorized Linear Algebra\n
 Side Li, Lingjiao Chen, and Arun Kumar\n
 ACM SIGMOD 2019 | [papers/2019_MorpheusFI_SIGMOD.pdf Paper PDF] | [https://github.com/liside/MorpheusFI Code and Data on Github]
 

@@ -58,7 +58,7 @@ Efficient and Reproducible Model Selection on Deep Learning Systems..
 
 === Publications 
 
-- Enabling and Optimizing Non-linear Feature Interactions in Linear Algebra Over Normalized Data\n
+- Enabling and Optimizing Non-linear Feature Interactions in Factorized Linear Algebra\n
 Side Li, Lingjiao Chen, and Arun Kumar\n
 ACM SIGMOD 2019 | [papers/2019_MorpheusFI_SIGMOD.pdf Paper PDF] | Code and Data coming soon
 
