@@ -1,4 +1,4 @@
-DOCS=index projects publications news blog
+DOCS=index projects publications news impact blog
 PROJS=triptych genisys nimbus hamlet morpheus speakql slab orion vista krypton sortinghat cerebro
 
 HDOCS=$(addsuffix .html, $(DOCS))

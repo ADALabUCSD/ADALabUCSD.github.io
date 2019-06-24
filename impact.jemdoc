@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU2}{impact.html}
+= ADA Lab @ UCSD
+
+== Practical Impact
+
+~~~
+*Note*: If our research software and\/or ideas have been helpful for your data analytics applications, we would love to hear from you on your use cases and feedback. We are also happy to mention your company\/organization in the list below.
+~~~
+
+- 2019: [cerebro.html Cerebro] is being integrated into Greenplum and MADlib by Pivotal.
+- 2019: [cerebro.html Cerebro] used for training deep nets to advance behavioral science research by our collaborators at the UCSD medical school.
+- 2019: [morpheus.html Morpheus] is being integrated into GraalVM by Oracle.
+- 2019: Google expresses interest in integrating the models from [sortinghat.html SortingHat] with TensorFlow Data Validation.
+- 2018: [morpheus.html Morpheus] in Python explored for internal use by Avito of Russia (recommendation and other Web analytics).
+- 2018: [slab.html SLAB] results reveal new bugs and garner feature earmarks in IBM/Apache [https://systemml.apache.org/ SystemML].
+- 2017: [https://adalabucsd.github.io/papers/2017_BismarckBoltOnDP_SIGMOD.pdf Bolt-on DP-SGD] adopted for various customer use cases by Georgian Partners.
+- 2017: [orion.html Orion] and [morpheus.html Morpheus] ideas explored for internal use by Google (ad analytics) and Oracle (banking analytics).
+- 2016-17: [hamlet.html Hamlet] ideas explored for internal use by Facebook (friend recommendations), LogicBlox (retail analytics), and MakeMyTrip (customer analytics).
+- 2015: [orion.html Orion] ideas adopted for internal use by LogicBlox (retail analytics) and Microsoft (Web security analytics).
+- 2013: [http://i.stanford.edu/hazy/victor/bismarck/ Bismarck] system used for healthcare analytics at UWashington.
+- 2012-13: [http://i.stanford.edu/hazy/victor/bismarck/ Bismarck] ideas adopted in analytics products by Cloudera and Oracle.
+- 2012: [http://i.stanford.edu/hazy/victor/bismarck/ Bismarck] code and ideas integrated in to EMC/Apache [http://madlib.apache.org/ MADlib].
+
