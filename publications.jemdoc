@@ -10,7 +10,7 @@ ACM SIGMOD 2019 | [papers/2019_Krypton_SIGMOD.pdf Paper PDF] | [papers/TR_2019_K
 
 - Enabling and Optimizing Non-linear Feature Interactions in Factorized Linear Algebra\n
 Side Li, Lingjiao Chen, and Arun Kumar\n
-ACM SIGMOD 2019 | [papers/2019_MorpheusFI_SIGMOD.pdf Paper PDF] | Code and Data coming soon
+ACM SIGMOD 2019 | [papers/2019_MorpheusFI_SIGMOD.pdf Paper PDF] | [https://github.com/liside/MorpheusFI Code and Data on Github]
 
 - Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent\n
 Fengan Li, Lingjiao Chen, Yijing Zeng, Arun Kumar, Jeffrey Naughton, Jignesh Patel, and Xi Wu\n
@@ -46,8 +46,8 @@ SysML 2019 Demo | [papers/2019_Krypton_SysML.pdf Paper PDF] | [https://www.youtu
 
 - Data Management in Machine Learning Systems\n
 Matthias Boehm, Arun Kumar, and Jun Yang\n
-Synthesis Lectures on Data Management, Morgan \& Claypool Publishers (Book), 2019 | 
-[https://www.morganclaypool.com/doi/10.2200/S00895ED1V01Y201901DTM057 PDF] | 
+Synthesis Lectures on Data Management, Morgan \& Claypool Publishers (Book), 2019 |
+[https://www.morganclaypool.com/doi/10.2200/S00895ED1V01Y201901DTM057 PDF] |
 [https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1366 Order hard copy]
 
 - Hierarchical and Distributed Machine Learning Inference Beyond the Edge\n
@@ -68,7 +68,7 @@ VLDB 2018 | [papers/2018_DANA_VLDB.pdf Paper PDF] |
 Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
 VLDB 2018 |
 [papers/2018_Hamlet_VLDB.pdf Paper PDF] |
-[papers/TR_2017_HamletPlusPlus.pdf TechReport] | 
+[papers/TR_2017_HamletPlusPlus.pdf TechReport] |
 [hamlet.html Code and Data]
 
 - Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
@@ -91,7 +91,7 @@ ACM SIGMOD 2017 |
 - Data Management in Machine Learning: Challenges, Techniques, and Systems\n
 Arun Kumar, Matthias Boehm, and Jun Yang\n
 ACM SIGMOD 2017 Tutorial |
-[papers/2017_Tutorial_SIGMOD.pdf Paper PDF] | 
+[papers/2017_Tutorial_SIGMOD.pdf Paper PDF] |
 [papers/Slides_2017_Tutorial_SIGMOD.pdf Slidedeck PDF] |
 [https://www.youtube.com/watch?v=U8J0Dd_Z5wo Video of tutorial on Youtube]
 
@@ -216,4 +216,3 @@ Arun Kumar. PhD Dissertation. UW-Madison 2016 |
 Arun Kumar, Robert McCann, Jeffrey Naughton, and Jignesh M. Patel\n
 UW-Madison Technical Report TR1827 |
 [papers/TR_2015_MSMSSurvey.pdf PDF]
-

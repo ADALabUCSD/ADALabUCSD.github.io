@@ -4,20 +4,20 @@
 ~~~
 {}{img_left}{images/triptych.jpg}{}{100px}{}{}
 == Project Triptych
-~~~ 
+~~~
 
 === Overview
 
-Triptych is an end-to-end /model selection management system/ (MSMS) that aims to simplify 
-and accelerate the process of sourcing data\/features and selecting ML models. Our guiding 
-principles are to exploit the semantics of the data and the ML task to the extent possible 
-to reduce work for the data scientist and reduce runtimes and costs. We apply these 
-principles to remove or mitigate different bottlenecks in this end-to-end process, 
-eventually unifying these components to yield an integrated ``operating system'' for ML 
-analytics tasks. Please refer to the ACM SIGMOD Record paper below for more details of 
+Triptych is an end-to-end /model selection management system/ (MSMS) that aims to simplify
+and accelerate the process of sourcing data\/features and selecting ML models. Our guiding
+principles are to exploit the semantics of the data and the ML task to the extent possible
+to reduce work for the data scientist and reduce runtimes and costs. We apply these
+principles to remove or mitigate different bottlenecks in this end-to-end process,
+eventually unifying these components to yield an integrated ``operating system'' for ML
+analytics tasks. Please refer to the ACM SIGMOD Record paper below for more details of
 this vision.
 
-=== Component Project Webpages 
+=== Component Project Webpages
 
 ~~~
 {}{img_left}{images/hamlet.jpg}{}{80px}{}{}
@@ -56,11 +56,11 @@ Efficient and Reproducible Model Selection on Deep Learning Systems..
 ~~~
 
 
-=== Publications 
+=== Publications
 
 - Enabling and Optimizing Non-linear Feature Interactions in Factorized Linear Algebra\n
 Side Li, Lingjiao Chen, and Arun Kumar\n
-ACM SIGMOD 2019 | [papers/2019_MorpheusFI_SIGMOD.pdf Paper PDF] | Code and Data coming soon
+ACM SIGMOD 2019 | [papers/2019_MorpheusFI_SIGMOD.pdf Paper PDF] | [https://github.com/liside/MorpheusFI Code and Data on Github]
 
 - Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent\n
 Fengan Li, Lingjiao Chen, Yijing Zeng, Arun Kumar, Jeffrey Naughton, Jignesh Patel, and Xi Wu\n
@@ -108,9 +108,9 @@ ACM SIGMOD 2017 DEEM Workshop |
 [papers/2017_Nimbus_DEEM.pdf Paper PDF]
 
 - Cerebro: A System to Manage Deep Learning for Relational Data Analytics\n
-Arun Kumar\n 
+Arun Kumar\n
 CIDR 2017 Abstract |
-[papers/2017_Cerebro_CIDR.pdf Paper PDF] 
+[papers/2017_Cerebro_CIDR.pdf Paper PDF]
 
 - To Join or Not to Join? Thinking Twice about Joins before Feature Selection\n
 Arun Kumar, Jeffrey Naughton, Jignesh M. Patel, and Xiaojin Zhu\n
@@ -123,4 +123,3 @@ ACM SIGMOD 2016 |
 Arun Kumar, Robert McCann, Jeffrey Naughton, and Jignesh M. Patel\n
 ACM SIGMOD Record Dec 2015 Vision Track |
 [papers/2015_MSMS_SIGMODRecord.pdf Paper PDF]
-
