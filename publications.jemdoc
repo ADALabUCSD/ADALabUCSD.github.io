@@ -14,7 +14,7 @@ ACM SIGMOD 2019 | [papers/2019_MorpheusFI_SIGMOD.pdf Paper PDF] | [https://githu
 
 - Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent\n
 Fengan Li, Lingjiao Chen, Yijing Zeng, Arun Kumar, Jeffrey Naughton, Jignesh Patel, and Xi Wu\n
-ACM SIGMOD 2019 | [papers/2019_TOC_SIGMOD.pdf Paper PDF] | [papers/TR_2019_TOC.pdf TechReport] | Code and Data coming soon
+ACM SIGMOD 2019 | [papers/2019_TOC_SIGMOD.pdf Paper PDF] | [papers/TR_2019_TOC.pdf TechReport] | [https://github.com/fenganli/toc-release-code Code on GitHub]
 
 - Model-based Pricing for Machine Learning in a Data Marketplace\n
 Lingjiao Chen, Paraschos Koutris, and Arun Kumar\n
