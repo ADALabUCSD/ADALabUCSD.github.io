@@ -5,8 +5,8 @@
 
 As the scale, complexity, and variety of data grows (aka /Big Data/), the
 use of machine learning (ML) and artificial intelligence (AI) techniques
-to make sense of, and interact with, such data---collectively called predictive 
-data analytics, statistical data analytics, ML-based data analytics, or simply 
+to make sense of, and interact with, such data---collectively called predictive
+data analytics, statistical data analytics, ML-based data analytics, or simply
 /advanced data analytics/ (also ADA!)---is increasingly critical for data-driven
 applications in the enterprise, Web, science, and other domains.
 Alas, building and deploying ML/AI-powered data analytics applications
@@ -22,9 +22,9 @@ ML/AI-powered data analytics applications throughout their lifecycle.
 
 We are an academic research group headed by [http://cseweb.ucsd.edu/~arunkk Dr. Arun Kumar], and we are a
 part of the [http://cse.ucsd.edu/ Department of Computer Science and Engineering (CSE)] at
-the [https://ucsd.edu/ University of California, San Diego (UCSD)]. 
-We are members of CSE's [http://db.ucsd.edu/ Database Lab] and affiliate 
-members of the [http://ai.ucsd.edu/ Artificial Intelligence Group] and 
+the [https://ucsd.edu/ University of California, San Diego (UCSD)].
+We are members of CSE's [http://db.ucsd.edu/ Database Lab] and affiliate
+members of the [http://ai.ucsd.edu/ Artificial Intelligence Group] and
 [http://cns.ucsd.edu/ Center for Networked Systems].
 
 == Overview of Our Research
@@ -109,6 +109,14 @@ Office: CSE 3230
 PhD, CSE, UCSD\n
 Email: yuz870 \[at\] eng \[dot\] ucsd \[dot\] edu\n
 Office: CSE 3230
+~~~
+
+~~~
+{}{img_left}{https://liside.github.io/assets/side.jpeg}{}{100px}{}{}
+[https://liside.github.io/ *Side Li*]\n
+PhD, CSE, UCSD\n
+Email: s7li \[at\] eng \[dot\] ucsd \[dot\] edu\n
+Office: CSE 3232
 ~~~
 
 === Undergraduate Students
