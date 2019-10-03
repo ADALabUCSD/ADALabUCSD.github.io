@@ -67,9 +67,11 @@ The list of ADALab publications is here: [publications.html *Publications*].
 
 == Recent ADALab News
 
-- +New!+ 06\/19: Blog posts galore related to SIGMOD 2019! [https://adalabucsd.github.io/research-blog/research/2019/06/23/sigmod2019.html Overview post on the ADALab presence at SIGMOD] by Arun, [https://adalabucsd.github.io/research-blog/research/2019/06/07/krypton.html Post on Krypton] by Supun, [https://adalabucsd.github.io/research-blog/cerebro.html Post on Cerebro] by Supun and Yuhao, [https://adalabucsd.github.io/research-blog/research/2019/06/21/mldataprepzoo.html Post on MLDataPrepZoo] by Vraj, and [https://adalabucsd.github.io/research-blog/research/2019/06/19/speakql.html Post on SpeakQL] by Vraj.
+- 09\/19: ADALab welcomes 2 new PhD students: Tara Mirmira and Side Li (returning BS graduate).
+- Summer 19: David interns at Oracle Labs to help integrate ideas from [morpheus.html Morpheus] into GraalVM. 
+Yuhao interns at Pivotal/MADlib to help integrate ideas from [cerebro.html Cerebro] into MADlib.
+- 06\/19: Blog posts galore related to SIGMOD 2019! [https://adalabucsd.github.io/research-blog/research/2019/06/23/sigmod2019.html Overview post on the ADALab presence at SIGMOD] by Arun, [https://adalabucsd.github.io/research-blog/research/2019/06/07/krypton.html Post on Krypton] by Supun, [https://adalabucsd.github.io/research-blog/cerebro.html Post on Cerebro] by Supun and Yuhao, [https://adalabucsd.github.io/research-blog/research/2019/06/21/mldataprepzoo.html Post on MLDataPrepZoo] by Vraj, and [https://adalabucsd.github.io/research-blog/research/2019/06/19/speakql.html Post on SpeakQL] by Vraj.
 - 05\/19: Supun's Krypton paper receives honorable mention as runner up for the Best Paper Award at SIGMOD 2019! A big thank you to the award committee and SIGMOD.
-- 05\/19: A demo on Krypton is accepted to VLDB 2019.
 
 Full list of lab news items here: [news.html *News*].
 
@@ -86,6 +88,21 @@ Office: CSE 3218
 ~~~
 
 === Graduate Students
+
+~~~
+{}{img_left}{https://liside.github.io/assets/side.jpeg}{}{100px}{}{}
+[https://liside.github.io/ *Side Li*]\n
+PhD, CSE, UCSD\n
+Email: s7li \[at\] eng \[dot\] ucsd \[dot\] edu\n
+Office: CSE 3232
+~~~
+
+~~~
+*Tara Mirmira*\n
+PhD, CSE, USCD\n
+Email: tmirmira \[at\] eng \[dot\] ucsd \[dot\] edu\n
+Office: CSE 3232
+~~~
 
 ~~~
 {}{img_left}{https://scnakandala.github.io/assets/images/profile_pic.jpeg}{}{100px}{}{}
@@ -112,11 +129,10 @@ Office: CSE 3230
 ~~~
 
 ~~~
-{}{img_left}{https://liside.github.io/assets/side.jpeg}{}{100px}{}{}
-[https://liside.github.io/ *Side Li*]\n
-PhD, CSE, UCSD\n
-Email: s7li \[at\] eng \[dot\] ucsd \[dot\] edu\n
-Office: CSE 3232
+[http://acsweb.ucsd.edu/~djusto/ *David Justo*] (Co-advisor: Nadia Polikarpova) \n
+MS, CSE, UCSD\n
+Email: david.justo.1996 \[at] gmail \[dot\] com
+Office: CSE 3262
 ~~~
 
 === Undergraduate Students
