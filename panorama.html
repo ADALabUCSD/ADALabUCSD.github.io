@@ -35,8 +35,8 @@
 <div class="menu-item"><a href="genisys.html"><br /> Project&nbsp;Genisys</a></div>
 <div class="menu-item"><a href="speakql.html">SpeakQL</a></div>
 <div class="menu-item"><a href="vista.html">Vista</a></div>
-<div class="menu-item"><a href="krypton.html" class="current">Krypton</a></div>
-<div class="menu-item"><a href="panorama.html">Panorama</a></div>
+<div class="menu-item"><a href="krypton.html">Krypton</a></div>
+<div class="menu-item"><a href="panorama.html" class="current">Panorama</a></div>
 <div class="menu-category"><br /> Past Projects</div>
 <div class="menu-item"><a href="orion.html">Orion</a></div>
 <div class="menu-item"><a href="http://i.stanford.edu/hazy/victor/columbus/">Columbus</a></div>
@@ -48,40 +48,24 @@
 <h1>ADA Lab @ UCSD</h1>
 </div>
 <table class="imgtable"><tr><td>
-<img src="images/krypton.jpg" alt="" height="80px" />&nbsp;</td>
-<td align="left"><h2>Project Krypton</h2>
+<img src="images/panorama.png" alt="" height="80px" />&nbsp;</td>
+<td align="left"><h2>Project Panorama</h2>
 </td></tr></table>
 <h3>Overview</h3>
-<p>Deep CNNs are now the preferred way to perform image analytics in many domains including healthcare,
-e-commerce, security, and sociology. However, one of the main criticisms pointed against deep CNNs
-is the black box nature of how they make predictions. To explain CNN predictions one of the widely
-used approaches in the practical literature is the occlusion based explanation approach (OBE for short).
-However, OBE experiments are highly time consuming as they need to perform large number of re-inference requests.</p>
-<p>In this project we apply incremental and approximate inference optimizations to accelerate the OBE workload.
-Our work is inspired by the long line of work in incremental view maintenance, multi-query optimization,
-and approximate query processing techniques in the context of relational data management systems.</p>
+<p>Deep convolutional neural networks (CNNs) achieve state-of-the-art accuracy for many computer vision tasks. But using them for video monitoring applications incurs high computational cost and inference latency. Thus, recent works have studied how to improve system efficiency. But they largely focus on small &ldquo;closed world&rdquo; prediction vocabularies even though many applications in surveillance security, traffic analytics, etc. have an ever-growing set of target entities. We call this the &ldquo;unbounded vocabulary&rdquo; issue, and it is a key bottleneck for emerging video monitoring applications. </p>
+<p>We present the first data system for tacking this issue for video querying, Panorama. Our design philosophy is to build a unified and domain-agnostic system that lets application users generalize to unbounded vocabularies in an out-of-the-box manner without tedious manual re-training. To this end, we synthesize and innovate upon an array of techniques from the ML, vision, databases, and multimedia systems literature to devise a new system architecture. We also present techniques to ensure Panorama has high inference efficiency.</p>
 <h3>Downloads (Paper, Code, Data, etc.)</h3>
 <ul>
-<li><p>Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations<br />
-Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou<br />
-ACM SIGMOD 2019 | <a href="papers/2019_Krypton_SIGMOD.pdf" target=_blank>Paper PDF</a> | <a href="papers/TR_2019_Krypton.pdf" target=_blank>TechReport</a> | Code and Data coming soon<br />
-<tt>Honorable Mention for Best Paper Award</tt></p>
-</li>
-</ul>
-<ul>
-<li><p>Demonstration of Krypton: Optimized CNN Inference for Occlusion-based Deep CNN Explanations<br />
-Allen Ordookhanians, Xin Li, Supun Nakandala, and Arun Kumar<br />
-VLDB 2019 | Paper PDF coming soon | <a href="https://www.youtube.com/watch?v=1OWddbd4n6Y&amp;feature=youtu.be" target=_blank>Video</a></p>
-</li>
-</ul>
-<ul>
-<li><p>Demonstration of Krypton: Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations<br />
-Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou<br />
-SysML 2019 Demo | <a href="papers/2019_Krypton_SysML.pdf" target=_blank>Paper PDF</a> | <a href="https://www.youtube.com/watch?v=1OWddbd4n6Y&amp;feature=youtu.be" target=_blank>Video</a></p>
+<li><p>Panorama: A Data System for Unbounded Vocabulary Querying over Video<br />
+Yuhao Zhang and Arun Kumar<br />
+Under submission |
+<a href="TechReport" target=_blank>TechReport</a> | Source code to come</p>
 </li>
 </ul>
 <h3>Student Contact</h3>
-<p>Supun Nakandala: snakanda [at] eng [dot] ucsd [dot] edu</p>
+<p>Yuhao Zhang: yuz870 [at] eng [dot] ucsd [dot] edu</p>
+<h3>Credit</h3>
+<p>Icons made by <a href="https://www.flaticon.com/authors/freepik" target=_blank>freepik</a> from <a href="https://www.flaticon.com" target=_blank>Flaticon</a></p>
 <div id="footer">
 <div id="footer-text">
 HTML generated  by <a href="http://jemdoc.jaboc.net/" target=_blank>jemdoc</a>.
