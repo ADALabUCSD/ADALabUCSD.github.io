@@ -67,6 +67,7 @@ The list of ADALab publications is here: [publications.html *Publications*].
 
 == Recent ADALab News
 
+- 10\/19: Supun presents a talk on [cerebro.html Cerebro] at the Fall'19 CNS Research Review.
 - 09\/19: ADALab welcomes 2 new PhD students: Tara Mirmira and Side Li (returning BS graduate).
 - Summer 19: David interns at Oracle Labs to help integrate ideas from [morpheus.html Morpheus] into GraalVM. 
 Yuhao interns at Pivotal/MADlib to help integrate ideas from [cerebro.html Cerebro] into MADlib.
@@ -136,9 +137,12 @@ Office: CSE 3262
 
 === Undergraduate Students
 
-- *Advitya Gemawat*\n
+~~~
+{}{img_left}{https://yhzhang.info/images/advitya.jpg}{}{100px}{}{}
+*Advitya Gemawat*\n
 BS, HDSI, UCSD\n
 Email: agemawat \[at\] ucsd \[dot\] edu
+~~~
 
 - *Kevin Yang*\n
 BS, CSE, UCSD\n

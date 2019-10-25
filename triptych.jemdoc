@@ -17,7 +17,13 @@ eventually unifying these components to yield an integrated ``operating system''
 analytics tasks. Please refer to the ACM SIGMOD Record paper below for more details of
 this vision.
 
-=== Component Project Webpages
+=== Active Component Projects
+
+~~~
+{}{img_left}{images/cerebro.jpg}{}{80px}{}{}
+[cerebro.html *Cerebro*]\n
+Efficient and reproducible model selection on deep learning systems.
+~~~
 
 ~~~
 {}{img_left}{images/hamlet.jpg}{}{80px}{}{}
@@ -32,6 +38,14 @@ Integrating linear algebra and relational algebra to simplify feature engineerin
 ~~~
 
 ~~~
+{}{img_left}{images/sortinghat.jpg}{}{80px}{}{}
+[sortinghat.html *SortingHat*]\n
+ML schema inference and automatic data preparation.
+~~~
+
+=== Past Projects
+
+~~~
 {}{img_left}{images/nimbus.jpg}{}{80px}{}{}
 [nimbus.html *Nimbus*]\n
 Enabling the first ML-aware cloud-based commodity market for the new black gold: training data.
@@ -41,18 +55,6 @@ Enabling the first ML-aware cloud-based commodity market for the new black gold:
 {}{img_left}{images/slab.jpg}{}{80px}{}{}
 [slab.html *SLAB*]\n
 The first comprehensive benchmark comparison of scalable linear algebra systems.
-~~~
-
-~~~
-{}{img_left}{images/sortinghat.jpg}{}{80px}{}{}
-[sortinghat.html *SortingHat*]\n
-ML schema inference and auto data prep.
-~~~
-
-~~~
-{}{img_left}{images/cerebro.jpg}{}{80px}{}{}
-[cerebro.html *Cerebro*]\n
-Efficient and Reproducible Model Selection on Deep Learning Systems..
 ~~~
 
 

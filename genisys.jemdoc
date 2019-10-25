@@ -15,7 +15,19 @@ data and query sources such as speech, images, video, time series, and text.
 We call this vision of type-agnostic data analytics /database perception/. 
 Watch this space for more details. 
 
-=== Component Project Webpages  
+=== Active Component Projects  
+
+~~~
+{}{img_left}{images/krypton.jpg}{}{80px}{}{}
+[krypton.html *Krypton*] \n
+Enabling fast interactive diagnosis of the internals of visual perception systems.
+~~~
+
+~~~
+{}{img_left}{images/panorama.png}{}{80px}{}{}
+[panorama.html *Panorama*] \n
+Enabling unbounded vocabulary querying over video.
+~~~
 
 ~~~
 {}{img_left}{images/speakql.jpg}{}{80px}{}{}
@@ -27,18 +39,6 @@ Enabling speech-driven multimodal querying of structured data with regular SQL a
 {}{img_left}{images/vista.jpg}{}{80px}{}{}
 [vista.html *Vista*] \n
 Enabling data systems to truly see image and video data for efficient multimodal analytics. 
-~~~
-
-~~~
-{}{img_left}{images/krypton.jpg}{}{80px}{}{}
-[krypton.html *Krypton*] \n
-Enabling fast interactive diagnosis of the internals of visual perception systems.
-~~~
-
-~~~
-{}{img_left}{images/panorama.png}{}{80px}{}{}
-[panorama.html *Panorama*] \n
-Enabling unbounded bocabulary querying over video.
 ~~~
 
 === Publications
@@ -77,8 +77,11 @@ ACM SIGMOD 2017 HILDA Workshop |
 Vraj Shah, Side Li, Arun Kumar, and Lawrence Saul\n
 Under submission | [papers/TR_2019_SpeakQL_v2.pdf TechReport] | [https://drive.google.com/drive/folders/1tSxUTu2A7qy8fPtB81RnwkyakgykZ3iw?usp=sharing Dataset on Drive]
 
-- Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
+- Vista: Declarative Feature Transfer from Deep CNNs at Scale\n
 Supun Nakandala and Arun Kumar\n
 Under submission |
 [papers/TR_2018_Vista.pdf TechReport] | [vista.html Code and Data]
 
+- Panorama: A Data System for Unbounded Vocabulary Querying over Video\n
+Yuhao Zhang and Arun Kumar\n
+Under submission | [https://adalabucsd.github.io/papers/TR_2019_Panorama.pdf TechReport] | Source code to come
