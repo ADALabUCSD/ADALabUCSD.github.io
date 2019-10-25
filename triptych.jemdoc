@@ -43,20 +43,6 @@ Integrating linear algebra and relational algebra to simplify feature engineerin
 ML schema inference and automatic data preparation.
 ~~~
 
-=== Past Projects
-
-~~~
-{}{img_left}{images/nimbus.jpg}{}{80px}{}{}
-[nimbus.html *Nimbus*]\n
-Enabling the first ML-aware cloud-based commodity market for the new black gold: training data.
-~~~
-
-~~~
-{}{img_left}{images/slab.jpg}{}{80px}{}{}
-[slab.html *SLAB*]\n
-The first comprehensive benchmark comparison of scalable linear algebra systems.
-~~~
-
 
 === Publications
 
@@ -125,3 +111,18 @@ ACM SIGMOD 2016 |
 Arun Kumar, Robert McCann, Jeffrey Naughton, and Jignesh M. Patel\n
 ACM SIGMOD Record Dec 2015 Vision Track |
 [papers/2015_MSMS_SIGMODRecord.pdf Paper PDF]
+
+=== Past Projects
+
+~~~
+{}{img_left}{images/nimbus.jpg}{}{80px}{}{}
+[nimbus.html *Nimbus*]\n
+Enabling the first ML-aware cloud-based commodity market for the new black gold: training data.
+~~~
+
+~~~
+{}{img_left}{images/slab.jpg}{}{80px}{}{}
+[slab.html *SLAB*]\n
+The first comprehensive benchmark comparison of scalable linear algebra systems.
+~~~
+
