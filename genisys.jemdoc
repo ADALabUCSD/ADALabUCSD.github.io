@@ -43,6 +43,11 @@ Enabling data systems to truly see image and video data for efficient multimodal
 
 === Publications
 
+- Panorama: A Data System for Unbounded Vocabulary Querying over Video\n
+Yuhao Zhang and Arun Kumar\n
+VLDB 2020 (To appear) |
+[papers/TR_2019_Panorama.pdf TechReport] | [https://github.com/makemebitter/Panorama-UCSD Source code on GitHub] | [https://adalabucsd.github.io/research-blog/panorama.html Blog post]
+
 - Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations\n
 Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
 ACM SIGMOD 2019 | [papers/2019_Krypton_SIGMOD.pdf Paper PDF] | [papers/TR_2019_Krypton.pdf TechReport] | Code and Data coming soon\n
@@ -82,6 +87,4 @@ Supun Nakandala and Arun Kumar\n
 Under submission |
 [papers/TR_2018_Vista.pdf TechReport] | [vista.html Code and Data]
 
-- Panorama: A Data System for Unbounded Vocabulary Querying over Video\n
-Yuhao Zhang and Arun Kumar\n
-Under submission | [https://adalabucsd.github.io/papers/TR_2019_Panorama.pdf TechReport] | Source code to come
+
