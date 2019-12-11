@@ -26,12 +26,6 @@ Efficient and reproducible model selection on deep learning systems.
 ~~~
 
 ~~~
-{}{img_left}{images/hamlet.jpg}{}{80px}{}{}
-[hamlet.html *Hamlet*]\n
-Exploiting database schema information to simplify data sourcing.
-~~~
-
-~~~
 {}{img_left}{images/morpheus.jpg}{}{80px}{}{}
 [morpheus.html *Morpheus*]\n
 Integrating linear algebra and relational algebra to simplify feature engineering for ML.
@@ -113,6 +107,12 @@ ACM SIGMOD Record Dec 2015 Vision Track |
 [papers/2015_MSMS_SIGMODRecord.pdf Paper PDF]
 
 === Past Projects
+
+~~~
+{}{img_left}{images/hamlet.jpg}{}{80px}{}{}
+[hamlet.html *Hamlet*]\n
+Exploiting database schema information to simplify data sourcing.
+~~~
 
 ~~~
 {}{img_left}{images/nimbus.jpg}{}{80px}{}{}
