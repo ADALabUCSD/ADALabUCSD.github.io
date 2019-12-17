@@ -25,6 +25,10 @@ ACM SIGMOD 2019 DEEM Workshop | [papers/2019_DataPrepZoo_DEEM.pdf Paper PDF] | [
 Vraj Shah, Premanand Kumar, Kevin Yang, and Arun Kumar\n
 Under Submission | [papers/TR_2019_SortingHat.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/ML%20Schema%20Inference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/SortingHatLib Python library]
 
+- Towards Semi-Automatic Embedded Data Type Inference\n
+Jonathan Lacanlale, Vraj Shah, and Arun Kumar\n
+Preprint | [papers/TR_2019_Jonathan.pdf TechReport]	
+
 === Student Contact
 
 Vraj Shah: vps002 \[at\] eng \[dot\] ucsd \[dot\] edu
