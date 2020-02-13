@@ -17,17 +17,22 @@ In this project, we apply the above philosophy on a ubiquitous data prep issue w
 
 === Downloads (Paper, Code, Data, etc.)
 
+- Towards Learning based Feature Type Inference\n
+Vraj Shah, Premanand Kumar, Kevin Yang, and Arun Kumar\n
+Under Submission | [papers/TR_2020_SortingHat.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/ML%20Schema%20Inference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/SortingHatLib Python library]
+
+
+- Towards Semi-Automatic Embedded Data Type Inference\n
+Jonathan Lacanlale, Vraj Shah, and Arun Kumar\n
+Preprint | [papers/TR_2019_Jonathan.pdf TechReport]
+
+
 - The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML\n
 Vraj Shah and Arun Kumar\n
 ACM SIGMOD 2019 DEEM Workshop | [papers/2019_DataPrepZoo_DEEM.pdf Paper PDF] | [papers/TR_2019_DataPrepZoo.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo Data Prep Zoo Repository on GitHub]
 
-- SortingHat: Towards Semi-Automatic ML Feature Type Inference\n
-Vraj Shah, Premanand Kumar, Kevin Yang, and Arun Kumar\n
-Under Submission | [papers/TR_2019_SortingHat.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/ML%20Schema%20Inference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/SortingHatLib Python library]
 
-- Towards Semi-Automatic Embedded Data Type Inference\n
-Jonathan Lacanlale, Vraj Shah, and Arun Kumar\n
-Preprint | [papers/TR_2019_Jonathan.pdf TechReport]	
+
 
 === Student Contact
 
