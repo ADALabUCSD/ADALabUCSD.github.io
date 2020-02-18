@@ -22,6 +22,10 @@ unstructured data for unified type-agnostic analytics.
 
 == Other Collaborative Work
 
+- Understanding and Benchmarking the Impact of GDPR on Database Systems\n
+Supreeth Shastri, Vinay Banakar, Melissa Wasserman, Arun Kumar, and Vijay Chidambaram\n
+VLDB 2020 (To appear) | [https://04e19274-9945-4166-b1be-95d42dc718a3.filesusr.com/ugd/13b079_1e10e6be8e7045ee9b26afdcdae6f60b.pdf TechReport] | [https://www.gdprbench.org/ Webpage]
+
 - Hierarchical and Distributed Machine Learning Inference Beyond the Edge\n
 Anthony Thomas, Yunhui Guo, Yeseong Kim, Baris Aksanli, Arun Kumar and Tajana Rosing\n
 IEEE ICNSC 2019 | [papers/2019_ICNSC.pdf Paper PDF]
