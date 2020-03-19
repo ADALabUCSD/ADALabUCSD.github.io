@@ -9,7 +9,7 @@
 === Overview
 
 Genisys is a new kind of data system that enables ADA applications to easily deploy ML 
-models in environments ranging from the cloud to personal devices to the Internet of Things. 
+models in environments ranging from the cloud to personal devices. 
 Genisys exploits deep learning-based ML models to see, hear, and understand unstructured 
 data and query sources such as speech, images, video, time series, and text. 
 We call this vision of type-agnostic data analytics /database perception/. 
