@@ -30,8 +30,8 @@ environment. Please see the paper below for more details.
 
 - Vista: Optimized System for Declarative Feature Transfer from Deep CNNs at Scale\n
 Supun Nakandala and Arun Kumar\n
-ACM SIGMOD 2020 (To appear) | Paper PDF coming soon |
-[papers/TR_2019_Vista.pdf TechReport] | [vista.html Code and Data]
+ACM SIGMOD 2020 (To appear) | [papers/2020_Vista_SIGMOD.pdf Paper PDF] |
+[papers/TR_2020_Vista.pdf TechReport] | [vista.html Code and Data]
 
 - Materialization Trade-offs for Feature Transfer from Deep CNNs for Multimodal Data Analytics\n
 Supun Nakandala and Arun Kumar\n
