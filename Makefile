@@ -1,5 +1,5 @@
 DOCS=index projects publications news impact blog
-PROJS=triptych genisys nimbus hamlet morpheus speakql slab orion vista krypton sortinghat cerebro
+PROJS=triptych genisys nimbus hamlet morpheus speakql slab orion vista krypton sortinghat cerebro panorama
 
 HDOCS=$(addsuffix .html, $(DOCS))
 HPROJS=$(addsuffix .html, $(PROJS))
