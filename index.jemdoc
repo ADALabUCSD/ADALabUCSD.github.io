@@ -67,11 +67,10 @@ The list of ADALab publications is here: [publications.html *Publications*].
 
 == Recent ADALab News
 
-- +New!+ 03\/20: Both the Vista and SpeakQL papers are accepted to ACM SIGMOD 2020! Let our data systems open their eyes and ears to the era of "database perception."          
+- +New!+ 04\/20: The invited extended version of the Krypton paper has been accepted to ACM TODS 2020. 
+- +New!+ 04\/20: Google supports our work on the ML Data Prep Zoo with a research award. 
+- 03\/20: Both the Vista and SpeakQL papers are accepted to ACM SIGMOD 2020! Let our data systems open their eyes and ears to the era of "database perception."          
 - 02\/20: The [https://www.gdprbench.org/ GDPRBench] paper is accepted to VLDB 2020!
-- 02\/20: Arun interviewed by UCSD's Data Science Student Society on [https://medium.com/ds3ucsd/faculty-spotlight-arun-kumar-scalable-analytics-academia-vs-industry-b591571f9e6b scalable analytics\/ML systems and career options] and on [https://medium.com/ds3ucsd/democratizing-technology-faculty-spotlight-arun-kumar-b79b1eed4116 risks\/benefits of AI and emerging tech].
-- 02\/20: Arun published a [https://bit.ly/2SDfdtr blog post on Inclusive CS Examples] to help raise awareness of the importance of inclusion and avoiding exclusionary examples in CS concepts.
-- 01\/20: Arun and ADALab students Supun, Vraj, and Yuhao launch [http://cseweb.ucsd.edu/~arunkk/dsc102_winter20/ DSC 102: Systems for Scalable Analytics], the first course of its kind in the world aimed at data science juniors/seniors.
 
 Full list of lab news items here: [news.html *News*].
 

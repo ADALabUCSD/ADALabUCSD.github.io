@@ -3,6 +3,11 @@
 
 == Peer-reviewed Publications
 
+- Incremental and Approximate Computations for Accelerating Deep CNN Inference\n
+Supun Nakandala, Kabir Nagrecha, Arun Kumar, and Yannis Papakonstantinou\n
+ACM TODS 2020 (To appear) | Paper PDF coming soon | Code and Data coming soon\n
++Invited Paper+
+
 - Vista: Declarative Feature Transfer from Deep CNNs at Scale\n 
 Supun Nakandala and Arun Kumar\n
 ACM SIGMOD 2020 (To appear) | Paper PDF coming soon | 
@@ -57,7 +62,7 @@ ACM SIGMOD 2019 Demo | [papers/2019_NimbusDemo_SIGMOD.pdf Paper PDF] | Video com
 
 - Demonstration of Krypton: Optimized CNN Inference for Occlusion-based Deep CNN Explanations\n
 Allen Ordookhanians, Xin Li, Supun Nakandala, and Arun Kumar\n
-VLDB 2019 | Paper PDF coming soon | [https://www.youtube.com/watch?v=1OWddbd4n6Y&feature=youtu.be Video]
+VLDB 2019 | [http://www.vldb.org/pvldb/vol12/p1894-ordookhanians.pdf Paper PDF] | [https://www.youtube.com/watch?v=1OWddbd4n6Y&feature=youtu.be Video]
 
 - Demonstration of Krypton: Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations\n
 Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
