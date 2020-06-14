@@ -50,13 +50,13 @@ ACM TODS 2020 (To appear) | Paper PDF coming soon | Code and Data coming soon\n
 
 - Vista: Optimized System for Declarative Feature Transfer from Deep CNNs at Scale\n
 Supun Nakandala and Arun Kumar\n
-ACM SIGMOD 2020 (To appear) | Paper PDF coming soon |
-[papers/TR_2018_Vista.pdf TechReport] | [vista.html Code and Data]
+ACM SIGMOD 2020 (To appear) | [papers/2020_Vista_SIGMOD.pdf Paper PDF] |
+[papers/TR_2020_Vista.pdf TechReport] | [vista.html Code and Data]
 
 - SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data\n
 Vraj Shah, Side Li, Arun Kumar, and Lawrence Saul\n
-ACM SIGMOD 2020 (To appear) | Paper PDF coming soon |
-[papers/TR_2019_SpeakQL_v2.pdf TechReport] | [https://drive.google.com/drive/folders/1tSxUTu2A7qy8fPtB81RnwkyakgykZ3iw?usp=sharing Dataset on Drive]
+ACM SIGMOD 2020 (To appear) | [papers/2020_SpeakQL_SIGMOD.pdf Paper PDF] |
+[papers/TR_2020_SpeakQL.pdf TechReport] | [https://drive.google.com/drive/folders/1tSxUTu2A7qy8fPtB81RnwkyakgykZ3iw?usp=sharing Dataset on Drive]
 
 - Panorama: A Data System for Unbounded Vocabulary Querying over Video\n
 Yuhao Zhang and Arun Kumar\n

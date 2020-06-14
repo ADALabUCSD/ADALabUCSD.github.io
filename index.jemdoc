@@ -21,7 +21,8 @@ ML/AI-powered data analytics applications throughout their lifecycle.
 ~~~
 
 We are an academic research group headed by [http://cseweb.ucsd.edu/~arunkk Dr. Arun Kumar], and we are a
-part of the [http://cse.ucsd.edu/ Department of Computer Science and Engineering (CSE)] at
+part of the [http://cse.ucsd.edu/ Department of Computer Science and Engineering (CSE)] and
+the [https://datascience.ucsd.edu/ Halicioglu Data Science Institute] at
 the [https://ucsd.edu/ University of California, San Diego (UCSD)].
 We are members of CSE's [https://dbucsd.github.io/ Database Lab] and affiliate
 members of the [http://ai.ucsd.edu/ Artificial Intelligence Group] and
@@ -81,7 +82,7 @@ Full list of lab news items here: [news.html *News*].
 ~~~
 {}{img_left}{images/arun.jpg}{}{100px}{}{}
 [http://cseweb.ucsd.edu/~arunkk *Arun Kumar*]\n
-Assistant Professor, CSE\n
+Assistant Professor, CSE and HDSI\n
 Email: arunkk \[at\] eng \[dot\] ucsd \[dot\] edu\n
 Office: CSE 3218
 ~~~
