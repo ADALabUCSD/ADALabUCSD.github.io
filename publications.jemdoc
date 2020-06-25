@@ -13,16 +13,6 @@ Supun Nakandala, Kabir Nagrecha, Arun Kumar, and Yannis Papakonstantinou\n
 ACM TODS 2020 (To appear) | [papers/2020_Krypton_TODS.pdf Paper PDF] | Code and Data coming soon\n
 +Invited Paper+
 
-- Vista: Optimized System for Declarative Feature Transfer from Deep CNNs at Scale\n
-Supun Nakandala and Arun Kumar\n
-ACM SIGMOD 2020 (To appear) | [papers/2020_Vista_SIGMOD.pdf Paper PDF] |
-[papers/TR_2020_Vista.pdf TechReport] | [vista.html Code and Data]
-
-- SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data\n
-Vraj Shah, Side Li, Arun Kumar, and Lawrence Saul\n
-ACM SIGMOD 2020 (To appear) | [papers/2020_SpeakQL_SIGMOD.pdf Paper PDF] |
-[papers/TR_2020_SpeakQL.pdf TechReport] | [https://drive.google.com/drive/folders/1tSxUTu2A7qy8fPtB81RnwkyakgykZ3iw?usp=sharing Dataset on Drive]
-
 - Panorama: A Data System for Unbounded Vocabulary Querying over Video\n
 Yuhao Zhang and Arun Kumar\n
 VLDB 2020 (To appear) | [http://www.vldb.org/pvldb/vol13/p477-zhang.pdf Paper PDF] |
@@ -31,6 +21,16 @@ VLDB 2020 (To appear) | [http://www.vldb.org/pvldb/vol13/p477-zhang.pdf Paper PD
 - Understanding and Benchmarking the Impact of GDPR on Database Systems\n
 Supreeth Shastri, Vinay Banakar, Melissa Wasserman, Arun Kumar, and Vijay Chidambaram\n
 VLDB 2020 (To appear) | [http://www.vldb.org/pvldb/vol13/p1064-shastri.pdf Paper PDF] | [https://04e19274-9945-4166-b1be-95d42dc718a3.filesusr.com/ugd/13b079_1e10e6be8e7045ee9b26afdcdae6f60b.pdf TechReport] | [https://www.gdprbench.org/ Webpage]
+
+- Vista: Optimized System for Declarative Feature Transfer from Deep CNNs at Scale\n
+Supun Nakandala and Arun Kumar\n
+ACM SIGMOD 2020 | [papers/2020_Vista_SIGMOD.pdf Paper PDF] |
+[papers/TR_2020_Vista.pdf TechReport] | [vista.html Code and Data]
+
+- SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data\n
+Vraj Shah, Side Li, Arun Kumar, and Lawrence Saul\n
+ACM SIGMOD 2020 | [papers/2020_SpeakQL_SIGMOD.pdf Paper PDF] |
+[papers/TR_2020_SpeakQL.pdf TechReport] | [https://drive.google.com/drive/folders/1tSxUTu2A7qy8fPtB81RnwkyakgykZ3iw?usp=sharing Dataset on Drive]
 
 - Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations\n
 Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
