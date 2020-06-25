@@ -14,7 +14,7 @@ Artificial Neural Networks (ANNs) are revolutionizing many machine learning (ML)
 In this project, we propose a new system for ANN model selection that /raises model selection throughput without raising resource costs/. Our target setting is /small clusters/ (say, 10s of nodes), which covers a vast majority (almost 90%) of parallel ML workloads in practice. We have 4 key system desiderata: /scalability/, /statistical convergence efficiency/, /reproducibility/, and /system generality/. To satisfy all these desiderata, we develop a novel parallel execution strategy we call /model hopper parallelism/ (MOP).
 
 ~~~
-Cerebro has now been open sourced under the Apache License v2.0! The installation and usage documentation are available here: [https://adalabucsd.github.io/cerebro-system *Cerebro System*]
+Cerebro has been open sourced under Apache License v2.0! Documentation for installation and usage documentation are available here: [https://adalabucsd.github.io/cerebro-system *Cerebro System*]
 ~~~
 
 === Downloads (Paper, Code, Data, etc.)
