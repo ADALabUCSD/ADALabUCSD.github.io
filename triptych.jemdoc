@@ -40,6 +40,11 @@ ML schema inference and automatic data preparation.
 
 === Publications
 
+- Cerebro: A Data System for Optimized Deep Learning Model Selection\n
+Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
+VLDB 2020 (To appear) | Paper PDF coming soon | [papers/TR_2020_Cerebro.pdf TechReport]
+| [https://adalabucsd.github.io/cerebro-system/ Source code and documentation]
+
 - Enabling and Optimizing Non-linear Feature Interactions in Factorized Linear Algebra\n
 Side Li, Lingjiao Chen, and Arun Kumar\n
 ACM SIGMOD 2019 | [papers/2019_MorpheusFI_SIGMOD.pdf Paper PDF] | [https://github.com/liside/MorpheusFI Code and Data on Github]
