@@ -23,7 +23,9 @@ Our first and current focus is on designing and implementing a new speech-driven
 - SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data\n
 Vraj Shah, Side Li, Arun Kumar, and Lawrence Saul\n
 ACM SIGMOD 2020 (To appear) | [papers/2020_SpeakQL_SIGMOD.pdf Paper PDF] |
-[papers/TR_2020_SpeakQL.pdf TechReport] | [https://drive.google.com/drive/folders/1tSxUTu2A7qy8fPtB81RnwkyakgykZ3iw?usp=sharing Dataset on Drive]
+[papers/TR_2020_SpeakQL.pdf TechReport] | 
+[https://adalabucsd.github.io/research-blog/research/2020/06/14/speakql.html Blog post] | 
+[https://drive.google.com/drive/folders/1tSxUTu2A7qy8fPtB81RnwkyakgykZ3iw?usp=sharing Dataset on Drive]
 
 - Demonstration of SpeakQL: Speech-driven Multimodal Querying of Structured Data\n
 Vraj Shah, Side Li, Kevin Yang, Arun Kumar, and Lawrence Saul\n

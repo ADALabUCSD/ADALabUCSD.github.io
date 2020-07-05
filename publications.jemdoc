@@ -6,6 +6,7 @@
 - Cerebro: A Data System for Optimized Deep Learning Model Selection\n
 Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
 VLDB 2020 (To appear) | [papers/2020_Cerebro_VLDB.pdf Paper PDF] | [papers/TR_2020_Cerebro.pdf TechReport]
+[https://adalabucsd.github.io/research-blog/cerebro.html Blog post] | [https://databricks.com/session_na20/resource-efficient-deep-learning-model-selection-on-apache-spark SAIS Talk video]
 | [https://adalabucsd.github.io/cerebro-system/ Source code and documentation]
 
 - Panorama: A Data System for Unbounded Vocabulary Querying over Video\n
@@ -30,16 +31,18 @@ ACM TODS 2020 (To appear) | [papers/2020_Krypton_TODS.pdf Paper PDF] | Code comi
 - Vista: Optimized System for Declarative Feature Transfer from Deep CNNs at Scale\n
 Supun Nakandala and Arun Kumar\n
 ACM SIGMOD 2020 | [papers/2020_Vista_SIGMOD.pdf Paper PDF] |
-[papers/TR_2020_Vista.pdf TechReport] | Code coming soon\n
+[papers/TR_2020_Vista.pdf TechReport] | [https://adalabucsd.github.io/research-blog/research/2020/06/14/vista.html Blog post] | Code coming soon
 
 - SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data\n
 Vraj Shah, Side Li, Arun Kumar, and Lawrence Saul\n
 ACM SIGMOD 2020 | [papers/2020_SpeakQL_SIGMOD.pdf Paper PDF] |
-[papers/TR_2020_SpeakQL.pdf TechReport] | [https://drive.google.com/drive/folders/1tSxUTu2A7qy8fPtB81RnwkyakgykZ3iw?usp=sharing Dataset on Drive]
+[papers/TR_2020_SpeakQL.pdf TechReport] | 
+[https://adalabucsd.github.io/research-blog/research/2020/06/14/speakql.html Blog post] | 
+[https://drive.google.com/drive/folders/1tSxUTu2A7qy8fPtB81RnwkyakgykZ3iw?usp=sharing Dataset on Drive]
 
 - Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations\n
 Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
-ACM SIGMOD 2019 | [papers/2019_Krypton_SIGMOD.pdf Paper PDF] | [papers/TR_2019_Krypton.pdf TechReport] | Code coming soon\n
+ACM SIGMOD 2019 | [papers/2019_Krypton_SIGMOD.pdf Paper PDF] | [papers/TR_2019_Krypton.pdf TechReport] | [ https://adalabucsd.github.io/research-blog/research/2019/06/07/krypton.html Blog post] | Code coming soon\n
 +Honorable Mention for Best Paper Award+
 
 - Enabling and Optimizing Non-linear Feature Interactions in Factorized Linear Algebra\n
@@ -57,10 +60,13 @@ ACM SIGMOD 2019 | [papers/2019_Nimbus_SIGMOD.pdf Paper PDF] | [papers/TR_2018_Ni
 - Cerebro: Efficient and Reproducible Model Selection on Deep Learning Systems\n
 Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
 ACM SIGMOD 2019 DEEM Workshop | [papers/2019_Cerebro_DEEM.pdf Paper PDF] | [papers/TR_2019_Cerebro.pdf TechReport]
+ | [https://adalabucsd.github.io/research-blog/cerebro.html Blog post]
 
 - The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML\n
 Vraj Shah and Arun Kumar\n
-ACM SIGMOD 2019 DEEM Workshop | [papers/2019_DataPrepZoo_DEEM.pdf Paper PDF] | [papers/TR_2019_DataPrepZoo.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo Data Prep Zoo Repository on GitHub]
+ACM SIGMOD 2019 DEEM Workshop | [papers/2019_DataPrepZoo_DEEM.pdf Paper PDF] | [papers/TR_2019_DataPrepZoo.pdf TechReport] 
+ | [https://adalabucsd.github.io/research-blog/research/2019/06/21/mldataprepzoo.html Blog post]
+ | [https://github.com/pvn25/ML-Data-Prep-Zoo Data Prep Zoo Repository on GitHub]
 
 - Demonstration of SpeakQL: Speech-driven Multimodal Querying of Structured Data\n
 Vraj Shah, Side Li, Kevin Yang, Arun Kumar, and Lawrence Saul\n

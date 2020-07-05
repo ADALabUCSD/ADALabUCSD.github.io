@@ -21,15 +21,15 @@ In this project, we apply the above philosophy on a ubiquitous data prep issue w
 Vraj Shah, Premanand Kumar, Kevin Yang, and Arun Kumar\n
 Under Submission | [papers/TR_2020_SortingHat.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/ML%20Feature%20Type%20Inference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/SortingHatLib Python library]
 
-
 - Towards Semi-Automatic Embedded Data Type Inference\n
 Jonathan Lacanlale, Vraj Shah, and Arun Kumar\n
-Preprint | [papers/TR_2019_Jonathan.pdf TechReport]
-
+[papers/TR_2019_Jonathan.pdf TechReport]
 
 - The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML\n
 Vraj Shah and Arun Kumar\n
-ACM SIGMOD 2019 DEEM Workshop | [papers/2019_DataPrepZoo_DEEM.pdf Paper PDF] | [papers/TR_2019_DataPrepZoo.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo Data Prep Zoo Repository on GitHub]
+ACM SIGMOD 2019 DEEM Workshop | [papers/2019_DataPrepZoo_DEEM.pdf Paper PDF] | [papers/TR_2019_DataPrepZoo.pdf TechReport]
+ | [https://adalabucsd.github.io/research-blog/research/2019/06/21/mldataprepzoo.html Blog post]
+ | [https://github.com/pvn25/ML-Data-Prep-Zoo Data Prep Zoo Repository on GitHub]
 
 
 === Student Contact
