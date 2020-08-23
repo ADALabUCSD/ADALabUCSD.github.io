@@ -66,7 +66,7 @@ ACM SIGMOD 2019 DEEM Workshop | [papers/2019_Cerebro_DEEM.pdf Paper PDF] | [pape
 Vraj Shah and Arun Kumar\n
 ACM SIGMOD 2019 DEEM Workshop | [papers/2019_DataPrepZoo_DEEM.pdf Paper PDF] | [papers/TR_2019_DataPrepZoo.pdf TechReport] 
  | [https://adalabucsd.github.io/research-blog/research/2019/06/21/mldataprepzoo.html Blog post]
- | [https://github.com/pvn25/ML-Data-Prep-Zoo Data Prep Zoo Repository on GitHub]
+ | [https://github.com/pvn25/MLDataPrepZoo Data Prep Zoo Repository on GitHub]
 
 - Demonstration of SpeakQL: Speech-driven Multimodal Querying of Structured Data\n
 Vraj Shah, Side Li, Kevin Yang, Arun Kumar, and Lawrence Saul\n
@@ -227,6 +227,10 @@ VLDB 2012 |
 
 
 == Manuscripts, Articles, and Dissertations
+
+- Towards Benchmarking Feature Type Inference for AutoML Platforms\n
+Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar\n
+Under Submission | [papers/TR_2020_SortingHat.pdf TechReport] | [https://github.com/pvn25/MLDataPrepZoo/tree/master/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/SortingHatLib Python library]
 
 - Towards A Polyglot Framework for Factorized ML\n
 David Justo, Lukas Stadler, Nadia Polikarpova, and Arun Kumar\n
