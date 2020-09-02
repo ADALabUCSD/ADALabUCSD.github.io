@@ -5,18 +5,20 @@
 
 - Cerebro: A Data System for Optimized Deep Learning Model Selection\n
 Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
-VLDB 2020 (To appear) | [papers/2020_Cerebro_VLDB.pdf Paper PDF] | [papers/TR_2020_Cerebro.pdf TechReport]
+VLDB 2020 | [papers/2020_Cerebro_VLDB.pdf Paper PDF] | [papers/TR_2020_Cerebro.pdf TechReport]
  | [https://adalabucsd.github.io/research-blog/cerebro.html Blog post] | [https://databricks.com/session_na20/resource-efficient-deep-learning-model-selection-on-apache-spark SAIS Talk video]
 | [https://adalabucsd.github.io/cerebro-system/ Source code and documentation]
+| Talk videos [https://www.youtube.com/watch?v=8PJic5FStGs Youtube] [https://www.bilibili.com/video/av329339128?p=198 Bilibili]
 
 - Panorama: A Data System for Unbounded Vocabulary Querying over Video\n
 Yuhao Zhang and Arun Kumar\n
-VLDB 2020 (To appear) | [http://www.vldb.org/pvldb/vol13/p477-zhang.pdf Paper PDF] |
-[papers/TR_2019_Panorama.pdf TechReport] | [https://github.com/makemebitter/Panorama-UCSD Source code on GitHub] | [https://adalabucsd.github.io/research-blog/panorama.html Blog post]
+VLDB 2020 | [http://www.vldb.org/pvldb/vol13/p477-zhang.pdf Paper PDF] |           
+[papers/TR_2019_Panorama.pdf TechReport] | [https://github.com/makemebitter/Panorama-UCSD Source code on GitHub] | [https://adalabucsd.github.io/research-blog/panorama.html Blog post] | [https://docs.google.com/presentation/d/1a9xHmfP1Gwg03CnVP8OWWf20v1IZ9O5eIhfa0dEdkcc/edit?usp=sharing Talk slides] | Talk videos [https://www.youtube.com/watch?v=gAGOp0fbUcU Youtube] [https://www.bilibili.com/video/av329339128?p=109 Bilibili]
 
 - Understanding and Benchmarking the Impact of GDPR on Database Systems\n
 Supreeth Shastri, Vinay Banakar, Melissa Wasserman, Arun Kumar, and Vijay Chidambaram\n
-VLDB 2020 (To appear) | [http://www.vldb.org/pvldb/vol13/p1064-shastri.pdf Paper PDF] | [https://04e19274-9945-4166-b1be-95d42dc718a3.filesusr.com/ugd/13b079_1e10e6be8e7045ee9b26afdcdae6f60b.pdf TechReport] | [https://www.gdprbench.org/ Webpage]
+VLDB 2020 | [http://www.vldb.org/pvldb/vol13/p1064-shastri.pdf Paper PDF] | [https://04e19274-9945-4166-b1be-95d42dc718a3.filesusr.com/ugd/13b079_1e10e6be8e7045ee9b26afdcdae6f60b.pdf TechReport] | [https://www.gdprbench.org/ Webpage] 
+| Talk videos: [https://www.youtube.com/watch?v=1O8_fVmzUUc Youtube] [https://www.bilibili.com/video/av329339128?p=188 Bilibili]
 
 - Query Optimization for Faster Deep CNN Explanations\n
 Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
