@@ -43,9 +43,9 @@ ML schema inference and automatic data preparation.
 - Cerebro: A Data System for Optimized Deep Learning Model Selection\n
 Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
 VLDB 2020 | [papers/2020_Cerebro_VLDB.pdf Paper PDF] | [papers/TR_2020_Cerebro.pdf TechReport]
+ | Talk videos: [https://www.youtube.com/watch?v=8PJic5FStGs Youtube] [https://www.bilibili.com/video/av329339128?p=198 Bilibili]
  | [https://adalabucsd.github.io/research-blog/cerebro.html Blog post] | [https://databricks.com/session_na20/resource-efficient-deep-learning-model-selection-on-apache-spark SAIS Talk video]
 | [https://adalabucsd.github.io/cerebro-system/ Source code and documentation]
-| Talk videos [https://www.youtube.com/watch?v=8PJic5FStGs Youtube] [https://www.bilibili.com/video/av329339128?p=198 Bilibili]
 
 - Enabling and Optimizing Non-linear Feature Interactions in Factorized Linear Algebra\n
 Side Li, Lingjiao Chen, and Arun Kumar\n
