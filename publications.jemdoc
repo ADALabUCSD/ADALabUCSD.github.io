@@ -36,7 +36,7 @@ ACM TODS 2020 | [papers/2020_Krypton_TODS.pdf Paper PDF] | Code coming soon\n
 - Vista: Optimized System for Declarative Feature Transfer from Deep CNNs at Scale\n
 Supun Nakandala and Arun Kumar\n
 ACM SIGMOD 2020 | [papers/2020_Vista_SIGMOD.pdf Paper PDF] |
-[papers/TR_2020_Vista.pdf TechReport] | [https://adalabucsd.github.io/research-blog/research/2020/06/14/vista.html Blog post] | Code coming soon
+[papers/TR_2020_Vista.pdf TechReport] | [https://adalabucsd.github.io/research-blog/research/2020/06/14/vista.html Blog post] | [https://github.com/ADALabUCSD/Vista Code]
 
 - SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data\n
 Vraj Shah, Side Li, Arun Kumar, and Lawrence Saul\n
@@ -47,7 +47,7 @@ ACM SIGMOD 2020 | [papers/2020_SpeakQL_SIGMOD.pdf Paper PDF] |
 
 - Incremental and Approximate Inference for Faster Occlusion-based Deep CNN Explanations\n
 Supun Nakandala, Arun Kumar, and Yannis Papakonstantinou\n
-ACM SIGMOD 2019 | [papers/2019_Krypton_SIGMOD.pdf Paper PDF] | [papers/TR_2019_Krypton.pdf TechReport] | [https://adalabucsd.github.io/research-blog/research/2019/06/07/krypton.html Blog post] | Code coming soon\n
+ACM SIGMOD 2019 | [papers/2019_Krypton_SIGMOD.pdf Paper PDF] | [papers/TR_2019_Krypton.pdf TechReport] | [https://adalabucsd.github.io/research-blog/research/2019/06/07/krypton.html Blog post] | [https://av.tib.eu/media/42901 Talk Video] | Code coming soon\n
 +Honorable Mention for Best Paper Award+
 
 - Enabling and Optimizing Non-linear Feature Interactions in Factorized Linear Algebra\n
