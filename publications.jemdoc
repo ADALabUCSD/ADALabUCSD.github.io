@@ -235,7 +235,7 @@ VLDB 2012 |
 
 - Towards Benchmarking Feature Type Inference for AutoML Platforms\n
 Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar\n
-Under Submission | [papers/TR_2020_SortingHat.pdf TechReport] | [https://github.com/pvn25/MLDataPrepZoo/tree/master/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/SortingHatLib Python library]
+Under Submission | [papers/TR_2020_SortingHat.pdf TechReport] | [https://github.com/mltypebench/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/mltypebench/MLFeatureTypeInference/tree/master/Library Python library]
 
 - Towards A Polyglot Framework for Factorized ML\n
 David Justo, Lukas Stadler, Nadia Polikarpova, and Arun Kumar\n
