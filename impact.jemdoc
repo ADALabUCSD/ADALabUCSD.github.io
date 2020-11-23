@@ -7,10 +7,10 @@
 *Note*: If our research software and\/or ideas have been helpful for your data analytics applications, we would love to hear from you on your use cases and feedback. We are also happy to mention your company\/organization in the list below.
 ~~~
 
+- 2019-20: [cerebro.html Cerebro] is being used to advance behavioral science research by our collaborators at the UCSD medical school.
+- 2019-20: [morpheus.html Morpheus] is being integrated into GraalVM by Oracle.
+- 2019-20: Google exploring integration of a model from [sortinghat.html SortingHat] with TensorFlow Data Validation.
 - 2019: [cerebro.html Cerebro] is being integrated into Greenplum and MADlib by Pivotal.
-- 2019: [cerebro.html Cerebro] is being used to advance behavioral science research by our collaborators at the UCSD medical school.
-- 2019: [morpheus.html Morpheus] is being integrated into GraalVM by Oracle.
-- 2019: Google expresses interest in integrating the models from [sortinghat.html SortingHat] with TensorFlow Data Validation.
 - 2019: [https://adalabucsd.github.io/papers/2017_BismarckBoltOnDP_SIGMOD.pdf Bolt-on DP-SGD] is being integrated with TensorFlow Privacy by Georgian Partners and Google.
 - 2018: [morpheus.html Morpheus] in Python explored for internal use by Avito of Russia (recommendation and other Web analytics).
 - 2018: [slab.html SLAB] results reveal new bugs and garner feature earmarks in IBM/Apache [https://systemml.apache.org/ SystemML].
