@@ -39,6 +39,8 @@ ML schema inference and automatic data preparation.
 
 
 === Publications
+- Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
+Under submission | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://github.com/makemebitter/cerebro-ds/ Code release]
 
 - Cerebro: A Layered Data Platform for Scalable Deep Learning\n
 Arun Kumar, Supun Nakandala, Yuhao Zhang, Side Li, Advitya Gemawat, and Kabir Nagrecha\n
