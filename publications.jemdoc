@@ -2,12 +2,10 @@
 = ADA Lab @ UCSD
 
 == Peer-reviewed Publications
-- Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
-Under submission | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://github.com/makemebitter/cerebro-ds/ Code release]
 
 - Cerebro: A Layered Data Platform for Scalable Deep Learning\n
 Arun Kumar, Supun Nakandala, Yuhao Zhang, Side Li, Advitya Gemawat, and Kabir Nagrecha\n
-CIDR 2021 (Vision paper; to appear) | PDF coming soon
+CIDR 2021 (Vision paper; to appear) | [papers/2021_Cerebro_CIDR.pdf Paper PDF]
 
 - Cerebro: A Data System for Optimized Deep Learning Model Selection\n
 Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
@@ -238,6 +236,10 @@ VLDB 2012 |
 
 
 == Manuscripts, Articles, and Dissertations
+
+- Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
+Yuhao Zhang, Arun Kumar, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, and Domino Valdano\n
+Under submission | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://github.com/makemebitter/cerebro-ds/ Code release]
 
 - Towards Benchmarking Feature Type Inference for AutoML Platforms\n
 Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar\n
