@@ -13,7 +13,7 @@ docs : $(HDOCS) $(HPROJS)
     # insert code for copying to server here.
 #    @echo ' done.' 
 
-%.html : %.jemdoc MENU MENU2; python2.7 jemdoc.py -o $@ $<
+%.html : %.jemdoc MENU MENU2; python2.7 jemdoc.py -o $@ $<; sh atext.sh
 
 .PHONY : clean
 clean : ; -rm -f *.html
