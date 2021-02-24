@@ -18,6 +18,10 @@ Cerebro is open sourced under Apache License v2.0. Code and deatiled documentati
 ~~~
 
 === Downloads (Paper, Code, Data, etc.)
+- Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification\n
+Supun Nakandala, Marta Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Andrea LaCroix, Sheri Hartman, Dori Rosenberg, Jingjing Zou, Arun Kumar, and Loki Natarajan\n
+Journal for the Measurement of Physical Behaviour | [https://doi.org/10.1123/jmpb.2020-0016 Paper PDF] | [https://github.com/ADALabUCSD/DeepPostures Code]
+
 
 - Cerebro: A Layered Data Platform for Scalable Deep Learning\n
 Arun Kumar, Supun Nakandala, Yuhao Zhang, Side Li, Advitya Gemawat, and Kabir Nagrecha\n
