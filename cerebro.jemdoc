@@ -18,18 +18,22 @@ Cerebro is open sourced under Apache License v2.0. Code and deatiled documentati
 ~~~
 
 === Downloads (Paper, Code, Data, etc.)
-- Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification\n
-Supun Nakandala, Marta Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Andrea LaCroix, Sheri Hartman, Dori Rosenberg, Jingjing Zou, Arun Kumar, and Loki Natarajan\n
-Journal for the Measurement of Physical Behaviour | [papers/2021_JMPB_CNN.pdf Paper PDF] | [https://github.com/ADALabUCSD/DeepPostures Code]
 
-
-- Cerebro: A Layered Data Platform for Scalable Deep Learning\n
-Arun Kumar, Supun Nakandala, Yuhao Zhang, Side Li, Advitya Gemawat, and Kabir Nagrecha\n
-CIDR 2021 (Vision paper) | [papers/2021_Cerebro_CIDR.pdf Paper PDF] | [https://www.youtube.com/watch?v=8QfMvdlmdic Talk video]
+- Optimizing Large-Scale Machine Learning over Groups\n
+Side Li and Arun Kumar\n
+Under submission | [papers/TR_2021_Kingpin.pdf TechReport]
 
 - Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
 Yuhao Zhang, Arun Kumar, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, and Domino Valdano\n
 Under submission | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://github.com/makemebitter/cerebro-ds/ Code release]
+
+- Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification\n
+Supun Nakandala, Marta Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Andrea LaCroix, Sheri Hartman, Dori Rosenberg, Jingjing Zou, Arun Kumar, and Loki Natarajan\n
+Journal for the Measurement of Physical Behaviour | [papers/2021_JMPB_CNN.pdf Paper PDF] | [https://github.com/ADALabUCSD/DeepPostures Code]
+
+- Cerebro: A Layered Data Platform for Scalable Deep Learning\n
+Arun Kumar, Supun Nakandala, Yuhao Zhang, Side Li, Advitya Gemawat, and Kabir Nagrecha\n
+CIDR 2021 (Vision paper) | [papers/2021_Cerebro_CIDR.pdf Paper PDF] | [https://www.youtube.com/watch?v=8QfMvdlmdic Talk video]
 
 - Cerebro: A Data System for Optimized Deep Learning Model Selection\n
 Supun Nakandala, Yuhao Zhang, and Arun Kumar\n

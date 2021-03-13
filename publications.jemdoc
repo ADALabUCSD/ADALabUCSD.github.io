@@ -2,7 +2,12 @@
 = ADA Lab @ UCSD
 
 == Peer-reviewed Publications
- - Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification\n
+
+- Towards Benchmarking Feature Type Inference for AutoML Platforms\n
+Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar\n
+SIGMOD 2021 (To appear) | PDF coming soon | [papers/TR_2021_SortingHat.pdf TechReport] | [https://github.com/mltypebench/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/mltypebench/MLFeatureTypeInference/tree/master/Library Python library]
+
+- Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification\n
  Supun Nakandala, Marta Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Andrea LaCroix, Sheri Hartman, Dori Rosenberg, Jingjing Zou, Arun Kumar, and Loki Natarajan\n
  Journal for the Measurement of Physical Behaviour | [papers/2021_JMPB_CNN.pdf Paper PDF]| [https://github.com/ADALabUCSD/DeepPostures Code]
 
@@ -248,13 +253,13 @@ Under submission | [papers/TR_2021_Kingpin.pdf TechReport]
 Yuhao Zhang, Arun Kumar, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, and Domino Valdano\n
 Under submission | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://github.com/makemebitter/cerebro-ds/ Code release]
 
-- Towards Benchmarking Feature Type Inference for AutoML Platforms\n
-Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar\n
-Under Submission | [papers/TR_2020_SortingHat.pdf TechReport] | [https://github.com/mltypebench/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/mltypebench/MLFeatureTypeInference/tree/master/Library Python library]
-
 - Towards A Polyglot Framework for Factorized ML\n
 David Justo, Shaoqing Yi, Lukas Stadler, Nadia Polikarpova, and Arun Kumar\n
 Under submission | [papers/TR_2021_Trinity.pdf TechReport]
+
+- Improving Feature Type Inference Accuracy of TFDV with SortingHat\n
+Vraj Shah, Kevin Yang, and Arun Kumar\n
+[papers/TR_2020_TFDV.pdf TechReport]
 
 - ML\/AI Systems and Applications: Is the SIGMOD\/VLDB Community Losing Relevance?\n
 Arun Kumar\n
