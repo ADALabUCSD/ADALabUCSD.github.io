@@ -3,7 +3,10 @@
 
 == News
 
-- 3\/21: The SortingHat paper is accepted to SIGMOD 2021. War is coming to ML platforms \/ AutoML land!
+- 3\/21: Arun receives the [http://tab.computer.org/tcde/tcdeawardsrecipients.html *IEEE TCDE Rising Star Award*].
+- 3\/21: Amazon supports our work on the ML Data Prep Zoo with a research award.
+- 3\/21: The first full research paper on [https://adalabucsd.github.io/sortinghat.html *SortingHat*] is accepted to SIGMOD 2021.
+This is likely the first research paper in SIGMOD's history focused primarily on a new benchmark dataset. 
 - 2\/21: A big thank you to VMware for supporting our work on [https://adalabucsd.github.io/cerebro.html *Cerebro*] with a second faculty research award gift, generously tripling their support!
 - 2\/21: ADALab has launched a new Tumblr page for fun posts on research, practice, and education in the world of systems for data management, analytics, ML, and data science.
 - 1\/21: Congrats to each of Advitya, Kabir, and Side for being selected for the second round of the SIGMOD 2021 Student Research Competition! It is pretty rare for three submissions from a single group to all get selected.
@@ -12,48 +15,48 @@
 - 11\/20: Arun joined a [https://www.youtube.com/watch?v=5QMoNBsR5mM&feature=emb_title panel discussion on AI ethics] organized by UCSD Office of Innovation and Commercialization.
 - 10\/20: Kabir and Advitya are both nominated to the CRA Outstanding Undergraduate Research Award by CSE and HDSI, respectively.
 - 10\/20: A paper on our long-term vision for Cerebro is accepted to CIDR 2021.
-- 09\/20: NSF supports our work on SortingHat with a Convergence Accelerator grant.
-- 07\/20: The Cerebro paper is accepted to VLDB 2020.
-- 07\/20: VMware supports our work on Cerebro with a research award.
-- 06\/20: Congrats to Kabir on the honorable mention for the CSE Undergraduate Research Award!
-- 06\/20: NSF supports our work on Cerebro with a [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1942724 *CAREER Award*] grant.
-- 06\/20: Krypton receives an ACM SIGMOD Research Highlights Award! A shorter version of the paper will be featured in SIGMOD Record later in 2020.
-- 04\/20: The invited extended version of the Krypton paper has been accepted to ACM TODS 2020. 
-- 04\/20: Google supports our work on the ML Data Prep Zoo with a research award.
-- 03\/20: Both the Vista and SpeakQL papers are accepted to ACM SIGMOD 2020! Let our data systems open their eyes and ears to the era of "database perception." 
-- 02\/20: The [https://www.gdprbench.org/ GDPRBench] paper is accepted to VLDB 2020!
-- 02\/20: Arun interviewed by UCSD's Data Science Student Society on [https://medium.com/ds3ucsd/faculty-spotlight-arun-kumar-scalable-analytics-academia-vs-industry-b591571f9e6b scalable analytics\/ML systems and career options] and on [https://medium.com/ds3ucsd/democratizing-technology-faculty-spotlight-arun-kumar-b79b1eed4116 risks\/benefits of AI and emerging tech].
-- 02\/20: Arun published a [https://bit.ly/2SDfdtr blog post on Inclusive CS Examples] to help raise awareness of the importance of inclusion and avoiding exclusionary examples in CS concepts.
-- 01\/20: Arun and ADALab students Supun, Vraj, and Yuhao launch [http://cseweb.ucsd.edu/~arunkk/dsc102_winter20/ DSC 102: Systems for Scalable Analytics], the first course of its kind in the world aimed at data science juniors/seniors. 
+- 9\/20: NSF supports our work on SortingHat with a Convergence Accelerator grant.
+- 7\/20: The Cerebro paper is accepted to VLDB 2020.
+- 7\/20: VMware supports our work on Cerebro with a research award.
+- 6\/20: Congrats to Kabir on the honorable mention for the CSE Undergraduate Research Award!
+- 6\/20: NSF supports our work on Cerebro with a [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1942724 *CAREER Award*] grant.
+- 6\/20: Krypton receives an ACM SIGMOD Research Highlights Award! A shorter version of the paper will be featured in SIGMOD Record later in 2020.
+- 4\/20: The invited extended version of the Krypton paper has been accepted to ACM TODS 2020. 
+- 4\/20: Google supports our work on the ML Data Prep Zoo with a research award.
+- 3\/20: Both the Vista and SpeakQL papers are accepted to ACM SIGMOD 2020! Let our data systems open their eyes and ears to the era of "database perception." 
+- 2\/20: The [https://www.gdprbench.org/ GDPRBench] paper is accepted to VLDB 2020!
+- 2\/20: Arun interviewed by UCSD's Data Science Student Society on [https://medium.com/ds3ucsd/faculty-spotlight-arun-kumar-scalable-analytics-academia-vs-industry-b591571f9e6b scalable analytics\/ML systems and career options] and on [https://medium.com/ds3ucsd/democratizing-technology-faculty-spotlight-arun-kumar-b79b1eed4116 risks\/benefits of AI and emerging tech].
+- 2\/20: Arun published a [https://bit.ly/2SDfdtr blog post on Inclusive CS Examples] to help raise awareness of the importance of inclusion and avoiding exclusionary examples in CS concepts.
+- 1\/20: Arun and ADALab students Supun, Vraj, and Yuhao launch [http://cseweb.ucsd.edu/~arunkk/dsc102_winter20/ DSC 102: Systems for Scalable Analytics], the first course of its kind in the world aimed at data science juniors/seniors. 
 - 12\/19: Congrats to Advitya on being named a recipient of the inaugural HDSI Undergraduate Scholarship!
 - 11\/19: The Panorama paper is accepted to VLDB 2020. Looking to expand our horizons to Tokyo!
 - 10\/19: Supun presents a talk on [cerebro.html Cerebro] at the Fall'19 CNS Research Review.
-- 09\/19: ADALab welcomes 2 new PhD students: Tara Mirmira and Side Li (returning BS graduate). Congrats to both on being awarded HDSI PhD Fellowships! Congrats to Side again on being awarded a UCSD JSOE PhD Fellowship in addition!
+- 9\/19: ADALab welcomes 2 new PhD students: Tara Mirmira and Side Li (returning BS graduate). Congrats to both on being awarded HDSI PhD Fellowships! Congrats to Side again on being awarded a UCSD JSOE PhD Fellowship in addition!
 - Summer 19: David interns at Oracle Labs to help integrate ideas from [morpheus.html Morpheus] into GraalVM. 
 Yuhao interns at Pivotal/MADlib to help integrate ideas from [cerebro.html Cerebro] into MADlib.
-- 06\/19: Blog posts galore related to SIGMOD 2019! [https://adalabucsd.github.io/research-blog/research/2019/06/23/sigmod2019.html Overview post on the ADALab presence at SIGMOD] by Arun, [https://adalabucsd.github.io/research-blog/research/2019/06/07/krypton.html Post on Krypton] by Supun, [https://adalabucsd.github.io/research-blog/cerebro.html Post on Cerebro] by Supun and Yuhao, [https://adalabucsd.github.io/research-blog/research/2019/06/21/mldataprepzoo.html Post on MLDataPrepZoo] by Vraj, and [https://adalabucsd.github.io/research-blog/research/2019/06/19/speakql.html Post on SpeakQL] by Vraj.
-- 05\/19: Supun's Krypton paper receives honorable mention as runner up for the Best Paper Award at SIGMOD 2019! A big thank you to the award committee and SIGMOD. 
-- 05\/19: A demo on Krypton is accepted to VLDB 2019.
-- 04\/19: Supun and Yuhao's short paper on Cerebro and Vraj's short paper on SortingHat are both accepted to the [http://deem-workshop.org/ DEEM Workshop] at SIGMOD 2019.
-- 04\/19: Supun presents a demo on Krypton at SysML 2019.
-- 03\/19: Oracle Labs supports our work on query optimization for ML systems with a research award.
-- 03\/19: Arun gives a [https://conferences.oreilly.com/strata/strata-ca/public/schedule/detail/72361 *talk at Strata Data Conference*] on Morpheus and Hamlet. Arun is also interviewed by SE Daily on the topic of ML systems ([https://softwareengineeringdaily.com/2019/04/10/machine-learning-joins-with-arun-kumar/ *podcast link*]). 
-- 03\/19: Vraj's demo on SpeakQL and Lingjiao's demo on Nimbus are both accepted to SIGMOD 2019.
-- 03\/19: Supun's paper on query optimization for explaining CNN predictions is accepted to SIGMOD 2019. A demo proposal is also accepted to SysML 2019.
-- 02\/19: Morgan \& Claypool publishes Arun's book /Data Management in ML Systems/, the first book on the emerging area of ML systems ([https://www.morganclaypool.com/doi/10.2200/S00895ED1V01Y201901DTM057 *PDF on M\&C webpage*]; [https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1366 *order hard copy*]).
-- 01/19: Side's paper on a non-linear variant of Morpheus gets a rare direct accept to SIGMOD 2019. 
+- 6\/19: Blog posts galore related to SIGMOD 2019! [https://adalabucsd.github.io/research-blog/research/2019/06/23/sigmod2019.html Overview post on the ADALab presence at SIGMOD] by Arun, [https://adalabucsd.github.io/research-blog/research/2019/06/07/krypton.html Post on Krypton] by Supun, [https://adalabucsd.github.io/research-blog/cerebro.html Post on Cerebro] by Supun and Yuhao, [https://adalabucsd.github.io/research-blog/research/2019/06/21/mldataprepzoo.html Post on MLDataPrepZoo] by Vraj, and [https://adalabucsd.github.io/research-blog/research/2019/06/19/speakql.html Post on SpeakQL] by Vraj.
+- 5\/19: Supun's Krypton paper receives honorable mention as runner up for the Best Paper Award at SIGMOD 2019! A big thank you to the award committee and SIGMOD. 
+- 5\/19: A demo on Krypton is accepted to VLDB 2019.
+- 4\/19: Supun and Yuhao's short paper on Cerebro and Vraj's short paper on SortingHat are both accepted to the [http://deem-workshop.org/ DEEM Workshop] at SIGMOD 2019.
+- 4\/19: Supun presents a demo on Krypton at SysML 2019.
+- 3\/19: Oracle Labs supports our work on query optimization for ML systems with a research award.
+- 3\/19: Arun gives a [https://conferences.oreilly.com/strata/strata-ca/public/schedule/detail/72361 *talk at Strata Data Conference*] on Morpheus and Hamlet. Arun is also interviewed by SE Daily on the topic of ML systems ([https://softwareengineeringdaily.com/2019/04/10/machine-learning-joins-with-arun-kumar/ *podcast link*]). 
+- 3\/19: Vraj's demo on SpeakQL and Lingjiao's demo on Nimbus are both accepted to SIGMOD 2019.
+- 3\/19: Supun's paper on query optimization for explaining CNN predictions is accepted to SIGMOD 2019. A demo proposal is also accepted to SysML 2019.
+- 2\/19: Morgan \& Claypool publishes Arun's book /Data Management in ML Systems/, the first book on the emerging area of ML systems ([https://www.morganclaypool.com/doi/10.2200/S00895ED1V01Y201901DTM057 *PDF on M\&C webpage*]; [https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1366 *order hard copy*]).
+- 1/19: Side's paper on a non-linear variant of Morpheus gets a rare direct accept to SIGMOD 2019. 
 - 11/18: The Nimbus and Tuple-Oriented Compression papers are both accepted to SIGMOD 2019! I amsterdam and all that.
 - 10/18: Supun, Vraj, and Yuhao present posters about their research at the inaugural [https://sites.google.com/eng.ucsd.edu/socaldb18/ *SoCal DB Day*]. Supun also presents a talk about his research at the Fall'18 CNS Research Review. 
-- 08/18: A blog post on the panel discussion moderated by Arun at SIGMOD DEEM Workshop 2018 is now live on the [http://wp.sigmod.org/?p=2454 *ACM SIGMOD Blog*].
-- 08/18: The [slab.html *SLAB*] paper is accepted to VLDB 2018 (or 2019?). Hit your ML system with SLAB to prove it is worthy.
-- 07/18: A big thank you to NSF for funding [speakql.html *Project SpeakQL*]!
-- 06/18: The [https://arxiv.org/abs/1801.06027 *DAnA* paper] is accepted to VLDB 2018. Database meets ML meets computer architecture in Rio!
-- 06/18: Arun receives a [http://evc.ucsd.edu/faculty/awards/hellman/ *2018 Hellman Fellowship*] and a 2018 Faculty of the Year award from [http://jacobsschool.ucsd.edu/idea/studentlife/orgs/ostem.shtml *oSTEM UCSD Chapter*]. A big thank you to the university and to the students oSTEM!
-- 04/18: Lingjiao Chen receives a [https://research.googleblog.com/2018/04/announcing-2018-google-phd-fellows-for.html *2018 Google PhD Fellowship*], the only student in the database area! Congratulations to Lingjiao and thank you to Google!
-- 02/18: Arun interviewed on the topic of advanced data analytics and ML systems for a [http://wp.sigmod.org/?p=2243 *SIGMOD blog post*].
-- 02/18: Supun presents a poster on [https://adalabucsd.github.io/vista.html *Vista*] at the inaugural [http://www.sysml.cc/ *SysML*] mini-conference.
-- 02/18: Preprints of the [https://adalabucsd.github.io/vista.html *Vista*] and [https://adalabucsd.github.io/slab.html *SLAB*] papers are out.
-- 01/18: Preprint of the [https://arxiv.org/abs/1801.06027 *DAnA*] paper, a collaboration with [http://cseweb.ucsd.edu/~hadi/ *Hadi Esmaeilzadeh*], is out.
+- 8/18: A blog post on the panel discussion moderated by Arun at SIGMOD DEEM Workshop 2018 is now live on the [http://wp.sigmod.org/?p=2454 *ACM SIGMOD Blog*].
+- 8/18: The [slab.html *SLAB*] paper is accepted to VLDB 2018 (or 2019?). Hit your ML system with SLAB to prove it is worthy.
+- 7/18: A big thank you to NSF for funding [speakql.html *Project SpeakQL*]!
+- 6/18: The [https://arxiv.org/abs/1801.06027 *DAnA* paper] is accepted to VLDB 2018. Database meets ML meets computer architecture in Rio!
+- 6/18: Arun receives a [http://evc.ucsd.edu/faculty/awards/hellman/ *2018 Hellman Fellowship*] and a 2018 Faculty of the Year award from [http://jacobsschool.ucsd.edu/idea/studentlife/orgs/ostem.shtml *oSTEM UCSD Chapter*]. A big thank you to the university and to the students oSTEM!
+- 4/18: Lingjiao Chen receives a [https://research.googleblog.com/2018/04/announcing-2018-google-phd-fellows-for.html *2018 Google PhD Fellowship*], the only student in the database area! Congratulations to Lingjiao and thank you to Google!
+- 2/18: Arun interviewed on the topic of advanced data analytics and ML systems for a [http://wp.sigmod.org/?p=2243 *SIGMOD blog post*].
+- 2/18: Supun presents a poster on [https://adalabucsd.github.io/vista.html *Vista*] at the inaugural [http://www.sysml.cc/ *SysML*] mini-conference.
+- 2/18: Preprints of the [https://adalabucsd.github.io/vista.html *Vista*] and [https://adalabucsd.github.io/slab.html *SLAB*] papers are out.
+- 1/18: Preprint of the [https://arxiv.org/abs/1801.06027 *DAnA*] paper, a collaboration with [http://cseweb.ucsd.edu/~hadi/ *Hadi Esmaeilzadeh*], is out.
 - 10/17: The [hamlet.html *Hamlet\+\+*] paper is accepted to VLDB 2018. Congrats, Vraj!
 - 10/17: Anthony and Supun present short talks about their research at the Fall'17 CNS Research Review.
 - 10/17: ADALab webpage goes live!
