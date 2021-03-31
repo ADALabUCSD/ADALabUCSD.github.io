@@ -5,7 +5,7 @@
 
 - Towards Benchmarking Feature Type Inference for AutoML Platforms\n
 Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar\n
-SIGMOD 2021 (To appear) | PDF coming soon | [papers/TR_2021_SortingHat.pdf TechReport] | [https://github.com/mltypebench/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/mltypebench/MLFeatureTypeInference/tree/master/Library Python library]
+SIGMOD 2021 (To appear) | [papers/2021_SortingHat_SIGMOD.pdf Paper PDF] | [papers/TR_2021_SortingHat.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference/Library Python library]
 
 - Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification\n
  Supun Nakandala, Marta Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Andrea LaCroix, Sheri Hartman, Dori Rosenberg, Jingjing Zou, Arun Kumar, and Loki Natarajan\n
