@@ -68,13 +68,13 @@ The list of ADALab publications is here: [publications.html *Publications*].
 
 == Recent ADALab News
 
+- 4\/21: The Trinity paper integrating [https://adalabucsd.github.io/morpheus.html *Morpheus*] with Oracle's GraalVM is accepted to VLDB 2021 Industrial Track.
 - 3\/21: Arun receives the [http://tab.computer.org/tcde/tcdeawardsrecipients.html *IEEE TCDE Rising Star Award*].
 - 3\/21: Amazon supports our work on the ML Data Prep Zoo with a research award.
 - 3\/21: The first full research paper on [https://adalabucsd.github.io/sortinghat.html *SortingHat*] is accepted to SIGMOD 2021.  
 This is likely the first research paper in SIGMOD's history focused primarily on a new benchmark dataset. 
 - 2\/21: A big thank you to VMware for supporting our work on [https://adalabucsd.github.io/cerebro.html *Cerebro*] with a second faculty research award gift, generously tripling their support!
 - 2\/21: ADALab has launched a new Tumblr page for fun posts on research, practice, and education in the world of systems for data management, analytics, ML, and data science.
-- 1\/21: Congrats to each of Advitya, Kabir, and Side for being selected for the second round of the SIGMOD 2021 Student Research Competition! It is pretty rare for three submissions from a single group to all get selected.
 
 Full list of lab news items here: [news.html *News*].\n
 
