@@ -14,6 +14,7 @@ To tackle this challenge, we envision a new line of research to dramatically red
 
 In this project, we apply the above philosophy on a ubiquitous data prep issue when applying ML over relation data: /ML Schema Extraction/. Datasets are typically exported from DBMSs into tools such as Python and R as CSV files. This creates a semantic gap between attribute types in a DB schema (such as strings or integers) and feature types in a ML schema (such as numeric or categorical). Hence, the data scientist is forced to manually extract the ML schema.  SortingHat cast this task as ML classification problem and allow users to quickly dispose of easy features, and repriortize their effort towards features that need more human attention.
 
+Long talk on vision and first task: [https://www.youtube.com/watch?v=NVrYZQ3YCuw *Youtube video*].
 
 === Downloads (Paper, Code, Data, etc.)
 
