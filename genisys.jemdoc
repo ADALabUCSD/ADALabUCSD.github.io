@@ -45,7 +45,7 @@ Enabling data systems to truly see image and video data for efficient multimodal
 
 - Panorama: A Data System for Unbounded Vocabulary Querying over Video\n
 Yuhao Zhang and Arun Kumar\n
-VLDB 2020 | [http://www.vldb.org/pvldb/vol13/p477-zhang.pdf Paper PDF] |
+VLDB 2020 | [http://www.vldb.org/pvldb/vol13/p477-zhang.pdf Paper PDF] and [papers/2019_Panorama_VLDB.txt BibTeX]|
 [papers/TR_2019_Panorama.pdf TechReport] 
  | [https://docs.google.com/presentation/d/1a9xHmfP1Gwg03CnVP8OWWf20v1IZ9O5eIhfa0dEdkcc/edit?usp=sharing Talk slides] | Talk videos: [https://www.youtube.com/watch?v=gAGOp0fbUcU Youtube] [https://www.bilibili.com/video/av329339128?p=109 Bilibili]
  | [https://adalabucsd.github.io/research-blog/panorama.html Blog post]

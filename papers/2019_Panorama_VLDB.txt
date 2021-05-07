@@ -1,0 +1,10 @@
+@article{2019panoramavldb,
+  author    = {Yuhao Zhang and
+               Arun Kumar},
+  title     = {Panorama: {A} Data System for Unbounded Vocabulary Querying over Video},
+  journal   = {Proc. {VLDB} Endow.},
+  volume    = {13},
+  number    = {4},
+  pages     = {477--491},
+  year      = {2019}
+}
