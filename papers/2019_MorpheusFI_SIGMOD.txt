@@ -1,0 +1,17 @@
+@inproceedings{2019morpheusfisigmod,
+	title        = {Enabling and Optimizing Non-Linear Feature Interactions in Factorized Linear Algebra},
+	author       = {Li, Side and Chen, Lingjiao and Kumar, Arun},
+	year         = 2019,
+	booktitle    = {Proceedings of the 2019 International Conference on Management of Data},
+	location     = {Amsterdam, Netherlands},
+	publisher    = {Association for Computing Machinery},
+	address      = {New York, NY, USA},
+	series       = {SIGMOD '19},
+	pages        = {1571–1588},
+	doi          = {10.1145/3299869.3319878},
+	isbn         = 9781450356435,
+	url          = {https://doi.org/10.1145/3299869.3319878},
+	numpages     = 18,
+	keywords     = {data management for ml, linear algebra, feature interactions, factorized ml}
+}
+

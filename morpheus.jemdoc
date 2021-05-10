@@ -24,7 +24,7 @@ VLDB 2021 (Industrial Track; to appear) | Paper PDF coming soon | [papers/TR_202
 
 - Enabling and Optimizing Non-linear Feature Interactions in Factorized Linear Algebra\n
 Side Li, Lingjiao Chen, and Arun Kumar\n
-ACM SIGMOD 2019 | [papers/2019_MorpheusFI_SIGMOD.pdf Paper PDF] | [https://github.com/liside/MorpheusFI Code and Data on Github]
+ACM SIGMOD 2019 | [papers/2019_MorpheusFI_SIGMOD.pdf Paper PDF] and [papers/2019_MorpheusFI_SIGMOD.txt BibTeX] | [https://github.com/liside/MorpheusFI Code and Data on Github]
 
 - Towards Linear Algebra over Normalized Data\n
 Lingjiao Chen, Arun Kumar, Jeffrey Naughton, and Jignesh Patel\n

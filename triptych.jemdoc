@@ -65,7 +65,7 @@ VLDB 2020 | [papers/2020_Cerebro_VLDB.pdf Paper PDF] | [papers/2020_Cerebro_VLDB
 
 - Enabling and Optimizing Non-linear Feature Interactions in Factorized Linear Algebra\n
 Side Li, Lingjiao Chen, and Arun Kumar\n
-ACM SIGMOD 2019 | [papers/2019_MorpheusFI_SIGMOD.pdf Paper PDF] | [https://github.com/liside/MorpheusFI Code and Data on Github]
+ACM SIGMOD 2019 | [papers/2019_MorpheusFI_SIGMOD.pdf Paper PDF] and [papers/2019_MorpheusFI_SIGMOD.txt BibTeX] | [https://github.com/liside/MorpheusFI Code and Data on Github]
 
 - Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent\n
 Fengan Li, Lingjiao Chen, Yijing Zeng, Arun Kumar, Jeffrey Naughton, Jignesh Patel, and Xi Wu\n
