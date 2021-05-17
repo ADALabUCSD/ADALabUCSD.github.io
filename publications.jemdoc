@@ -7,13 +7,17 @@
 Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar\n
 SIGMOD 2021 (To appear) | [papers/2021_SortingHat_SIGMOD.pdf Paper PDF] | [papers/TR_2021_SortingHat.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference/Library Python library]
 
+- Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
+Yuhao Zhang, Arun Kumar, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, and Domino Valdano\n
+VLDB 2021 (To appear) | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://github.com/makemebitter/cerebro-ds/ Code release]
+
 - Towards A Polyglot Framework for Factorized ML\n
 David Justo, Shaoqing Yi, Lukas Stadler, Nadia Polikarpova, and Arun Kumar\n
 VLDB 2021 (Industrial Track; to appear) | Paper PDF coming soon | [papers/TR_2021_Trinity.pdf TechReport] | Code coming soon
 
 - Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification\n
  Supun Nakandala, Marta Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Andrea LaCroix, Sheri Hartman, Dori Rosenberg, Jingjing Zou, Arun Kumar, and Loki Natarajan\n
- Journal for the Measurement of Physical Behaviour | [papers/2021_JMPB_CNN.pdf Paper PDF]| [https://github.com/ADALabUCSD/DeepPostures Code]
+ Journal for the Measurement of Physical Behaviour, 2021 | [papers/2021_JMPB_CNN.pdf Paper PDF]| [https://github.com/ADALabUCSD/DeepPostures Code]
 
 - Cerebro: A Layered Data Platform for Scalable Deep Learning\n
 Arun Kumar, Supun Nakandala, Yuhao Zhang, Side Li, Advitya Gemawat, and Kabir Nagrecha\n
@@ -256,10 +260,6 @@ Under submission | [papers/TR_2021_Intermittent_HIL_MS.pdf TechReport] | [https:
 - Optimizing Large-Scale Machine Learning over Groups\n
 Side Li and Arun Kumar\n
 Under submission | [papers/TR_2021_Kingpin.pdf TechReport]
-
-- Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
-Yuhao Zhang, Arun Kumar, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, and Domino Valdano\n
-Under submission | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://github.com/makemebitter/cerebro-ds/ Code release]
 
 - Improving Feature Type Inference Accuracy of TFDV with SortingHat\n
 Vraj Shah, Kevin Yang, and Arun Kumar\n
