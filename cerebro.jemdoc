@@ -18,17 +18,22 @@ Cerebro is open sourced under Apache License v2.0. Code and deatiled documentati
 ~~~
 
 === Downloads (Paper, Code, Data, etc.)
-- Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration\n
-Liangde Li, Supun Nakandala, and Arun Kumar\n
-Under submission | [papers/TR_2021_Intermittent_HIL_MS.pdf TechReport] | [https://youtu.be/K3THQy5McXc Video]
 
 - Optimizing Large-Scale Machine Learning over Groups\n
 Side Li and Arun Kumar\n
 Under submission | [papers/TR_2021_Kingpin.pdf TechReport]
 
+- Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration\n
+Liangde Li, Supun Nakandala, and Arun Kumar\n
+VLDB 2021 Demo (To appear) | Paper PDF coming soon | [papers/TR_2021_Intermittent_HIL_MS.pdf TechReport] | [https://youtu.be/K3THQy5McXc Video]
+
 - Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
 Yuhao Zhang, Arun Kumar, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, and Domino Valdano\n
-VLDB 2021 (To appear) | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://github.com/makemebitter/cerebro-ds/ Code release]
+VLDB 2021 (To appear) | Paper PDF coming soon | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://github.com/makemebitter/cerebro-ds/ Code release]
+
+- The CNN Hip Accelerometer Posture (CHAP) Method for Classifying Sitting Patterns from Hip Accelerometers: A Validation Study\n
+Mikael Anne Greenwood-Hickman, Supun Nakandala, Marta M. Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Paul R. Hibbing, Jingjing Zou, Andrea Z. LaCroix, Arun Kumar, and Loki Natarajan\n
+Medicine and Science in Sports and Exercise Journal, 2021 (To appear) | Paper PDF coming soon | [https://github.com/ADALabUCSD/DeepPostures Code]
 
 - Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification\n
 Supun Nakandala, Marta Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Andrea LaCroix, Sheri Hartman, Dori Rosenberg, Jingjing Zou, Arun Kumar, and Loki Natarajan\n
