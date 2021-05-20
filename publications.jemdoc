@@ -15,13 +15,13 @@ VLDB 2021 Demo (To appear) | Paper PDF coming soon | [papers/TR_2021_Intermitten
 Yuhao Zhang, Arun Kumar, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, and Domino Valdano\n
 VLDB 2021 (To appear) | Paper PDF coming soon | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://github.com/makemebitter/cerebro-ds/ Code release]
 
-- The CNN Hip Accelerometer Posture (CHAP) Method for Classifying Sitting Patterns from Hip Accelerometers: A Validation Study\n
-Mikael Anne Greenwood-Hickman, Supun Nakandala, Marta M. Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Paul R. Hibbing, Jingjing Zou, Andrea Z. LaCroix, Arun Kumar, and Loki Natarajan\n
-Medicine and Science in Sports and Exercise Journal, 2021 (To appear) | Paper PDF coming soon | [https://github.com/ADALabUCSD/DeepPostures Code]
-
 - Towards A Polyglot Framework for Factorized ML\n
 David Justo, Shaoqing Yi, Lukas Stadler, Nadia Polikarpova, and Arun Kumar\n
 VLDB 2021 (Industrial Track; to appear) | Paper PDF coming soon | [papers/TR_2021_Trinity.pdf TechReport] | Code coming soon
+
+- The CNN Hip Accelerometer Posture (CHAP) Method for Classifying Sitting Patterns from Hip Accelerometers: A Validation Study\n
+Mikael Anne Greenwood-Hickman, Supun Nakandala, Marta M. Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Paul R. Hibbing, Jingjing Zou, Andrea Z. LaCroix, Arun Kumar, and Loki Natarajan\n
+Medicine and Science in Sports and Exercise Journal, 2021 (To appear) | Paper PDF coming soon | [https://github.com/ADALabUCSD/DeepPostures Code]
 
 - Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification\n
  Supun Nakandala, Marta Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Andrea LaCroix, Sheri Hartman, Dori Rosenberg, Jingjing Zou, Arun Kumar, and Loki Natarajan\n
