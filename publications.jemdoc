@@ -7,13 +7,13 @@
 Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar\n
 SIGMOD 2021 (To appear) | [papers/2021_SortingHat_SIGMOD.pdf Paper PDF] | [papers/TR_2021_SortingHat.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference/Library Python library]
 
+- Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
+Yuhao Zhang, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, Domino Valdano, and Arun Kumar\n
+VLDB 2021 (To appear) | Paper PDF coming soon | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://github.com/makemebitter/cerebro-ds/ Code release]
+
 - Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration\n
 Liangde Li, Supun Nakandala, and Arun Kumar\n
 VLDB 2021 Demo (To appear) | Paper PDF coming soon | [papers/TR_2021_Intermittent_HIL_MS.pdf TechReport] | [https://youtu.be/K3THQy5McXc Video]
-
-- Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
-Yuhao Zhang, Arun Kumar, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, and Domino Valdano\n
-VLDB 2021 (To appear) | Paper PDF coming soon | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://github.com/makemebitter/cerebro-ds/ Code release]
 
 - Towards A Polyglot Framework for Factorized ML\n
 David Justo, Shaoqing Yi, Lukas Stadler, Nadia Polikarpova, and Arun Kumar\n
