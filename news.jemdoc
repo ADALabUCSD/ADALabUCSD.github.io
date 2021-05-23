@@ -3,6 +3,10 @@
 
 == News
 
+- 5\/21: Three papers are accepted in the same week from the [https://adalabucsd.github.io/cerebro.html *Cerebro*] project!
+The first is a full research paper at VLDB 2021 explaining the tradeoffs of bringing deep learning to scalable data systems.
+The second is a demo of Cerebro's new user interface for intermittent human-in-the-loop model selection, also at VLDB 2021.
+The third is an application of Cerebro to a public health analytics task, yielding state-of-the-art results, at the MSSE journal.
 - 4\/21: The Trinity paper integrating [https://adalabucsd.github.io/morpheus.html *Morpheus*] with Oracle's GraalVM is accepted to VLDB 2021 Industrial Track.
 - 3\/21: Arun receives the [http://tab.computer.org/tcde/tcdeawardsrecipients.html *IEEE TCDE Rising Star Award*].
 - 3\/21: Amazon supports our work on the ML Data Prep Zoo with a research award.
