@@ -1,0 +1,23 @@
+@inproceedings{2020vistasigmod,
+  author    = {Supun Nakandala and
+               Arun Kumar},
+  editor    = {David Maier and
+               Rachel Pottinger and
+               AnHai Doan and
+               Wang{-}Chiew Tan and
+               Abdussalam Alawini and
+               Hung Q. Ngo},
+  title     = {Vista: Optimized System for Declarative Feature Transfer from Deep
+               CNNs at Scale},
+  booktitle = {Proceedings of the 2020 International Conference on Management of
+               Data, {SIGMOD} Conference 2020, online conference [Portland, OR, USA],
+               June 14-19, 2020},
+  pages     = {1685--1700},
+  publisher = {{ACM}},
+  year      = {2020},
+  url       = {https://doi.org/10.1145/3318464.3389709},
+  doi       = {10.1145/3318464.3389709},
+  timestamp = {Tue, 23 Mar 2021 15:33:11 +0100},
+  biburl    = {https://dblp.org/rec/conf/sigmod/NakandalaK20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
