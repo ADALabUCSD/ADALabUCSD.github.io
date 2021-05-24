@@ -1,0 +1,18 @@
+@article{2019kryptonvldb,
+  author    = {Allen Ordookhanians and
+               Xin Li and
+               Supun Nakandala and
+               Arun Kumar},
+  title     = {Demonstration of Krypton: Optimized {CNN} Inference for Occlusion-based
+               Deep {CNN} Explanations},
+  journal   = {Proc. {VLDB} Endow.},
+  volume    = {12},
+  number    = {12},
+  pages     = {1894--1897},
+  year      = {2019},
+  url       = {http://www.vldb.org/pvldb/vol12/p1894-ordookhanians.pdf},
+  doi       = {10.14778/3352063.3352093},
+  timestamp = {Tue, 23 Mar 2021 15:33:12 +0100},
+  biburl    = {https://dblp.org/rec/journals/pvldb/OrdookhaniansLN19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

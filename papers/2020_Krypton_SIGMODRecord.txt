@@ -1,0 +1,16 @@
+@article{2020kryptonsigmodrecord,
+  author    = {Supun Nakandala and
+               Arun Kumar and
+               Yannis Papakonstantinou},
+  title     = {Query Optimization for Faster Deep {CNN} Explanations},
+  journal   = {{SIGMOD} Rec.},
+  volume    = {49},
+  number    = {1},
+  pages     = {61--68},
+  year      = {2020},
+  url       = {https://doi.org/10.1145/3422648.3422663},
+  doi       = {10.1145/3422648.3422663},
+  timestamp = {Tue, 23 Mar 2021 15:33:12 +0100},
+  biburl    = {https://dblp.org/rec/journals/sigmod/NakandalaKP20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

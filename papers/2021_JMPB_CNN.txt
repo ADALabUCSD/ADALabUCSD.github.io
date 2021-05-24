@@ -1,0 +1,10 @@
+@article{2021jmpbcnn,
+  title={Application of convolutional neural network algorithms for advancing sedentary and activity bout classification},
+  author={Nakandala, Supun and Jankowska, Marta M and Tuz-Zahra, Fatima and Bellettiere, John and Carlson, Jordan A and LaCroix, Andrea Z and Hartman, Sheri J and Rosenberg, Dori E and Zou, Jingjing and Kumar, Arun and others},
+  journal={Journal for the Measurement of Physical Behaviour},
+  volume={1},
+  number={aop},
+  pages={1--9},
+  year={2021},
+  publisher={Human Kinetics}
+}

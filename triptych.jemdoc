@@ -60,9 +60,9 @@ VLDB 2021 (Industrial Track; to appear) | Paper PDF coming soon | [papers/TR_202
 Mikael Anne Greenwood-Hickman, Supun Nakandala, Marta M. Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Paul R. Hibbing, Jingjing Zou, Andrea Z. LaCroix, Arun Kumar, and Loki Natarajan\n
 Medicine and Science in Sports and Exercise Journal, 2021 (To appear) | Paper PDF coming soon | [https://github.com/ADALabUCSD/DeepPostures Code]
 
- - Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification\n
+- Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification\n
  Supun Nakandala, Marta Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Andrea LaCroix, Sheri Hartman, Dori Rosenberg, Jingjing Zou, Arun Kumar, and Loki Natarajan\n
- Journal for the Measurement of Physical Behaviour, 2021 | [papers/2021_JMPB_CNN.pdf Paper PDF] | [https://github.com/ADALabUCSD/DeepPostures Code]
+ Journal for the Measurement of Physical Behaviour, 2021 | [papers/2021_JMPB_CNN.pdf Paper PDF] and [papers/2021_JMPB_CNN.txt BibTeX] | [https://github.com/ADALabUCSD/DeepPostures Code]
 
 - Cerebro: A Layered Data Platform for Scalable Deep Learning\n
 Arun Kumar, Supun Nakandala, Yuhao Zhang, Side Li, Advitya Gemawat, and Kabir Nagrecha\n
@@ -70,7 +70,7 @@ CIDR 2021 (Vision paper) | [papers/2021_Cerebro_CIDR.pdf Paper PDF] and [papers/
 
 - Cerebro: A Data System for Optimized Deep Learning Model Selection\n
 Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
-VLDB 2020 | [papers/2020_Cerebro_VLDB.pdf Paper PDF] | [papers/2020_Cerebro_VLDB_Errata.pdf Errata] | [papers/TR_2020_Cerebro.pdf TechReport]
+VLDB 2020 | [papers/2020_Cerebro_VLDB.pdf Paper PDF] and [papers/2020_Cerebro_VLDB.txt BibTeX] | [papers/2020_Cerebro_VLDB_Errata.pdf Errata] | [papers/TR_2020_Cerebro.pdf TechReport]
  | Talk videos: [https://www.youtube.com/watch?v=8PJic5FStGs Youtube] [https://www.bilibili.com/video/av329339128?p=198 Bilibili]
  | [https://adalabucsd.github.io/research-blog/cerebro.html Blog post] | [https://databricks.com/session_na20/resource-efficient-deep-learning-model-selection-on-apache-spark SAIS Talk video]
 | [https://adalabucsd.github.io/cerebro-system/ Source code and documentation]
@@ -89,7 +89,7 @@ ACM SIGMOD 2019 | [papers/2019_Nimbus_SIGMOD.pdf Paper PDF] | [papers/TR_2018_Ni
 
 - Cerebro: Efficient and Reproducible Model Selection on Deep Learning Systems\n
 Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
-ACM SIGMOD 2019 DEEM Workshop | [papers/2019_Cerebro_DEEM.pdf Paper PDF] | [papers/TR_2019_Cerebro.pdf TechReport]
+ACM SIGMOD 2019 DEEM Workshop | [papers/2019_Cerebro_DEEM.pdf Paper PDF] and [papers/2019_Cerebro_DEEM.txt BibTeX] | [papers/TR_2019_Cerebro.pdf TechReport]
  | [https://adalabucsd.github.io/research-blog/cerebro.html Blog post]
 
 - The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML\n

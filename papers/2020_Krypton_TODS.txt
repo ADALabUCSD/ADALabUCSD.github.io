@@ -1,0 +1,18 @@
+@article{2020kryptontods,
+  author    = {Supun Nakandala and
+               Kabir Nagrecha and
+               Arun Kumar and
+               Yannis Papakonstantinou},
+  title     = {Incremental and Approximate Computations for Accelerating Deep {CNN}
+               Inference},
+  journal   = {{ACM} Trans. Database Syst.},
+  volume    = {45},
+  number    = {4},
+  pages     = {16:1--16:42},
+  year      = {2020},
+  url       = {https://doi.org/10.1145/3397461},
+  doi       = {10.1145/3397461},
+  timestamp = {Tue, 23 Mar 2021 15:33:12 +0100},
+  biburl    = {https://dblp.org/rec/journals/tods/NakandalaNKP20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

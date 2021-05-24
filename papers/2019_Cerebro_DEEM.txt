@@ -1,0 +1,22 @@
+@inproceedings{2019cerebrodeem,
+  author    = {Supun Nakandala and
+               Yuhao Zhang and
+               Arun Kumar},
+  editor    = {Sebastian Schelter and
+               Neoklis Polyzotis and
+               Stephan Seufert and
+               Manasi Vartak},
+  title     = {Cerebro: Efficient and Reproducible Model Selection on Deep Learning
+               Systems},
+  booktitle = {Proceedings of the 3rd International Workshop on Data Management for
+               End-to-End Machine Learning, DEEM@SIGMOD 2019, Amsterdam, The Netherlands,
+               June 30, 2019},
+  pages     = {6:1--6:4},
+  publisher = {{ACM}},
+  year      = {2019},
+  url       = {https://doi.org/10.1145/3329486.3329496},
+  doi       = {10.1145/3329486.3329496},
+  timestamp = {Tue, 23 Mar 2021 15:33:11 +0100},
+  biburl    = {https://dblp.org/rec/conf/sigmod/NakandalaZK19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
