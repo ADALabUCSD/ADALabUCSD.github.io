@@ -20,7 +20,7 @@ Long talk on vision and first task: [https://www.youtube.com/watch?v=NVrYZQ3YCuw
 
 - Towards Benchmarking Feature Type Inference for AutoML Platforms\n
 Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar\n
-SIGMOD 2021 (To appear) | [papers/2021_SortingHat_SIGMOD.pdf Paper PDF] | [papers/TR_2021_SortingHat.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference/Library Python library]
+ACM SIGMOD 2021 (To appear) | [papers/2021_SortingHat_SIGMOD.pdf Paper PDF] | [papers/TR_2021_SortingHat.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference/Library Python library]
 
 - Improving Feature Type Inference Accuracy of TFDV with SortingHat\n
 Vraj Shah, Kevin Yang, and Arun Kumar\n
