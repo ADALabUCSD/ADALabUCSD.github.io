@@ -72,7 +72,7 @@ ACM SIGMOD 2020 | [papers/2020_Vista_SIGMOD.pdf Paper PDF] and [papers/2020_Vist
 
 - SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data\n
 Vraj Shah, Side Li, Arun Kumar, and Lawrence Saul\n
-ACM SIGMOD 2020 | [papers/2020_SpeakQL_SIGMOD.pdf Paper PDF] |
+ACM SIGMOD 2020 | [papers/2020_SpeakQL_SIGMOD.pdf Paper PDF]  and [papers/2020_SpeakQL_SIGMOD.txt BibTeX]|
 [papers/TR_2020_SpeakQL.pdf TechReport] | 
 [https://adalabucsd.github.io/research-blog/research/2020/06/14/speakql.html Blog post] | 
 [https://drive.google.com/drive/folders/1tSxUTu2A7qy8fPtB81RnwkyakgykZ3iw?usp=sharing Dataset on Drive]
@@ -101,13 +101,13 @@ ACM SIGMOD 2019 DEEM Workshop | [papers/2019_Cerebro_DEEM.pdf Paper PDF] and [pa
 
 - The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML\n
 Vraj Shah and Arun Kumar\n
-ACM SIGMOD 2019 DEEM Workshop | [papers/2019_DataPrepZoo_DEEM.pdf Paper PDF] | [papers/TR_2019_DataPrepZoo.pdf TechReport] 
+ACM SIGMOD 2019 DEEM Workshop | [papers/2019_DataPrepZoo_DEEM.pdf Paper PDF] and [papers/2019_DataPrepZoo_SIGMOD.txt BibTeX]| [papers/TR_2019_DataPrepZoo.pdf TechReport] 
  | [https://adalabucsd.github.io/research-blog/research/2019/06/21/mldataprepzoo.html Blog post]
  | [https://github.com/pvn25/ML-Data-Prep-Zoo Data Prep Zoo Repository on GitHub]
 
 - Demonstration of SpeakQL: Speech-driven Multimodal Querying of Structured Data\n
 Vraj Shah, Side Li, Kevin Yang, Arun Kumar, and Lawrence Saul\n
-ACM SIGMOD 2019 Demo | [papers/2019_SpeakQL_SIGMOD.pdf Paper PDF] | [https://vimeo.com/295693078 Video]
+ACM SIGMOD 2019 Demo | [papers/2019_SpeakQL_SIGMOD.pdf Paper PDF] and [papers/2019_SpeakQL_SIGMOD.txt BibTeX] | [https://vimeo.com/295693078 Video]
 
 - Demonstration of Nimbus: Model-based Pricing for Machine Learning in a Data Marketplace\n
 Lingjiao Chen, Hongyi Wang, Leshang Chen, Paraschos Koutris, and Arun Kumar\n
@@ -147,7 +147,7 @@ VLDB 2018 | [papers/2018_DANA_VLDB.pdf Paper PDF] |
 
 - Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?\n
 Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
-VLDB 2018 |
+VLDB 2018 and [papers/2018_Hamlet_VLDB.txt BibTeX]|
 [papers/2018_Hamlet_VLDB.pdf Paper PDF] |
 [papers/TR_2017_HamletPlusPlus.pdf TechReport] |
 [hamlet.html Code and Data]
@@ -179,7 +179,7 @@ ACM SIGMOD 2017 Tutorial |
 - SpeakQL: Towards Speech-driven Multi-modal Querying\n
 Dharmil Chandarana, Vraj Shah, Arun Kumar, and Lawrence Saul\n
 ACM SIGMOD 2017 HILDA Workshop |
-[papers/2017_SpeakQL_HILDA.pdf Paper PDF]
+[papers/2017_SpeakQL_HILDA.pdf Paper PDF] and [papers/2017_SpeakQL_SIGMOD.txt BibTeX]
 
 - Model-based Pricing: Do Not Pay for More than What You Learn!\n
 Lingjiao Chen, Paraschos Koutris, and Arun Kumar\n
@@ -194,7 +194,7 @@ CIDR 2017 Abstract |
 - To Join or Not to Join? Thinking Twice about Joins before Feature Selection\n
 Arun Kumar, Jeffrey Naughton, Jignesh M. Patel, and Xiaojin Zhu\n
 ACM SIGMOD 2016 |
-[papers/2016_Hamlet_SIGMOD.pdf Paper PDF] |
+[papers/2016_Hamlet_SIGMOD.pdf Paper PDF] and [papers/2016_Hamlet_SIGMOD.txt BibTeX]|
 [papers/TR_2016_Hamlet.pdf TechReport] |
 [hamlet.html Code and Data]
 
