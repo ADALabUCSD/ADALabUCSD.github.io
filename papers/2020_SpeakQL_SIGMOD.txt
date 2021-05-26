@@ -1,0 +1,24 @@
+@inproceedings{2020speakqlsigmod,
+  author    = {Vraj Shah and
+               Side Li and
+               Arun Kumar and
+               Lawrence K. Saul},
+  editor    = {David Maier and
+               Rachel Pottinger and
+               AnHai Doan and
+               Wang{-}Chiew Tan and
+               Abdussalam Alawini and
+               Hung Q. Ngo},
+  title     = {SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data},
+  booktitle = {Proceedings of the 2020 International Conference on Management of
+               Data, {SIGMOD} Conference 2020, online conference [Portland, OR, USA],
+               June 14-19, 2020},
+  pages     = {2363--2374},
+  publisher = {{ACM}},
+  year      = {2020},
+  url       = {https://doi.org/10.1145/3318464.3389777},
+  doi       = {10.1145/3318464.3389777},
+  timestamp = {Mon, 18 Jan 2021 08:56:36 +0100},
+  biburl    = {https://dblp.org/rec/conf/sigmod/ShahL0S20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

@@ -1,0 +1,21 @@
+@inproceedings{2019sortinghatsigmod,
+  author    = {Vraj Shah and
+               Arun Kumar},
+  editor    = {Sebastian Schelter and
+               Neoklis Polyzotis and
+               Stephan Seufert and
+               Manasi Vartak},
+  title     = {The {ML} Data Prep Zoo: Towards Semi-Automatic Data Preparation for
+               {ML}},
+  booktitle = {Proceedings of the 3rd International Workshop on Data Management for
+               End-to-End Machine Learning, DEEM@SIGMOD 2019, Amsterdam, The Netherlands,
+               June 30, 2019},
+  pages     = {11:1--11:4},
+  publisher = {{ACM}},
+  year      = {2019},
+  url       = {https://doi.org/10.1145/3329486.3329499},
+  doi       = {10.1145/3329486.3329499},
+  timestamp = {Wed, 05 Jun 2019 14:54:54 +0200},
+  biburl    = {https://dblp.org/rec/conf/sigmod/Shah019.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

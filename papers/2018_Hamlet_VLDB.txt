@@ -1,0 +1,17 @@
+@article{2018hamletvldb,
+  author    = {Vraj Shah and
+               Arun Kumar and
+               Xiaojin Zhu},
+  title     = {Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity
+               Classifiers?},
+  journal   = {Proc. {VLDB} Endow.},
+  volume    = {11},
+  number    = {3},
+  pages     = {366--379},
+  year      = {2017},
+  url       = {http://www.vldb.org/pvldb/vol11/p366-shah.pdf},
+  doi       = {10.14778/3157794.3157804},
+  timestamp = {Sat, 25 Apr 2020 13:58:54 +0200},
+  biburl    = {https://dblp.org/rec/journals/pvldb/ShahKZ17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
