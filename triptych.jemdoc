@@ -94,7 +94,7 @@ ACM SIGMOD 2019 DEEM Workshop | [papers/2019_Cerebro_DEEM.pdf Paper PDF] and [pa
 
 - The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML\n
 Vraj Shah and Arun Kumar\n
-ACM SIGMOD 2019 DEEM Workshop | [papers/2019_DataPrepZoo_DEEM.pdf Paper PDF] | [papers/TR_2019_DataPrepZoo.pdf TechReport] 
+ACM SIGMOD 2019 DEEM Workshop | [papers/2019_DataPrepZoo_DEEM.pdf Paper PDF] and [papers/2019_DataPrepZoo_SIGMOD.txt BibTeX] | [papers/TR_2019_DataPrepZoo.pdf TechReport] 
  | [https://adalabucsd.github.io/research-blog/research/2019/06/21/mldataprepzoo.html Blog post]
  | [https://github.com/pvn25/ML-Data-Prep-Zoo Data Prep Zoo Repository on GitHub]
 
@@ -110,7 +110,7 @@ VLDB 2018/2019  | [papers/2019_SLAB_VLDB.pdf Paper PDF] |
 - Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?\n
 Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
 VLDB 2018 |
-[papers/2018_Hamlet_VLDB.pdf Paper PDF] |
+[papers/2018_Hamlet_VLDB.pdf Paper PDF] and [papers/2018_Hamlet_VLDB.txt BibTeX]|
 [papers/TR_2017_HamletPlusPlus.pdf TechReport] |
 [hamlet.html Code and Data]
 
@@ -134,7 +134,7 @@ CIDR 2017 Abstract |
 - To Join or Not to Join? Thinking Twice about Joins before Feature Selection\n
 Arun Kumar, Jeffrey Naughton, Jignesh M. Patel, and Xiaojin Zhu\n
 ACM SIGMOD 2016 |
-[papers/2016_Hamlet_SIGMOD.pdf Paper PDF] |
+[papers/2016_Hamlet_SIGMOD.pdf Paper PDF] and [papers/2016_Hamlet_SIGMOD.txt BibTeX] |
 [papers/TR_2016_Hamlet.pdf TechReport] |
 [hamlet.html Code and Data]
 

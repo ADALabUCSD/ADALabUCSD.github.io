@@ -1,0 +1,22 @@
+@inproceedings{2016hamletsigmod,
+  author    = {Arun Kumar and
+               Jeffrey F. Naughton and
+               Jignesh M. Patel and
+               Xiaojin Zhu},
+  editor    = {Fatma {\"{O}}zcan and
+               Georgia Koutrika and
+               Sam Madden},
+  title     = {To Join or Not to Join?: Thinking Twice about Joins before Feature
+               Selection},
+  booktitle = {Proceedings of the 2016 International Conference on Management of
+               Data, {SIGMOD} Conference 2016, San Francisco, CA, USA, June 26 -
+               July 01, 2016},
+  pages     = {19--34},
+  publisher = {{ACM}},
+  year      = {2016},
+  url       = {https://doi.org/10.1145/2882903.2882952},
+  doi       = {10.1145/2882903.2882952},
+  timestamp = {Wed, 14 Nov 2018 10:56:20 +0100},
+  biburl    = {https://dblp.org/rec/conf/sigmod/KumarNPZ16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

@@ -25,7 +25,7 @@ The ideas from this work have been protoyped and\/or adopted for applications at
 - Are Key-Foreign Key Joins Safe to Avoid when Learning High-Capacity Classifiers?\n
 Vraj Shah, Arun Kumar, and Xiaojin Zhu.\n
 VLDB 2018 (To appear) |
-[papers/2018_Hamlet_VLDB.pdf Paper PDF] | 
+[papers/2018_Hamlet_VLDB.pdf Paper PDF] and [papers/2018_Hamlet_VLDB.txt BibTeX] | 
 [papers/TR_2017_HamletPlusPlus.pdf TechReport]
 
 - [https://github.com/pvn25/Hamlet_Extension Source code on GitHub] (Python code for simulations; TensorFlow scripts for neural networks and R scripts for other models with the real-world datasets)
@@ -38,7 +38,7 @@ VLDB 2018 (To appear) |
 - To Join or Not to Join? Thinking Twice about Joins before Feature Selection\n
 Arun Kumar, Jeffrey Naughton, Jignesh M. Patel, and Xiaojin Zhu\n
 ACM SIGMOD 2016 |
-[papers/2016_Hamlet_SIGMOD.pdf Paper PDF] |
+[papers/2016_Hamlet_SIGMOD.pdf Paper PDF] and [papers/2016_Hamlet_SIGMOD.txt BibTeX]|
 [papers/TR_2016_Hamlet.pdf TechReport]
 
 - [https://github.com/arunkk09/hamlet Source code on GitHub] (Python code for simulations; R scripts for Naive Bayes and logistic regression with the real-world datasets)
