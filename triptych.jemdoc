@@ -42,7 +42,7 @@ ML schema inference and automatic data preparation.
 
 - Towards Benchmarking Feature Type Inference for AutoML Platforms\n
 Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar\n
-ACM SIGMOD 2021 (To appear) | [papers/2021_SortingHat_SIGMOD.pdf Paper PDF] | [papers/TR_2021_SortingHat.pdf TechReport] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference/Library Python library]
+ACM SIGMOD 2021 (To appear) | [papers/2021_SortingHat_SIGMOD.pdf Paper PDF] | [papers/TR_2021_SortingHat.pdf TechReport] | Talk Videos: [https://youtu.be/KAs-uU59AEM Short Talk] [https://youtu.be/dpx74zQyU3k Long Talk] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference/Library Python library]
 
 - Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
 Yuhao Zhang, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, Domino Valdano, and Arun Kumar\n
