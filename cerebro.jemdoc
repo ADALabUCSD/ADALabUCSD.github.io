@@ -19,7 +19,7 @@ Cerebro is open sourced under Apache License v2.0. Code and deatiled documentati
 
 === Downloads (Paper, Code, Data, etc.)
 
-- Optimizing Large-Scale Machine Learning over Groups\n
+- Towards an Optimized GROUP BY Abstraction for Large-Scale Machine Learning\n
 Side Li and Arun Kumar\n
 Under submission | [papers/TR_2021_Kingpin.pdf TechReport]
 
