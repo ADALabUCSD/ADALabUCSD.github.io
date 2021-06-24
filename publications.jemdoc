@@ -3,14 +3,6 @@
 
 == Peer-reviewed Publications
 
-- Towards Benchmarking Feature Type Inference for AutoML Platforms\n
-Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar\n
-ACM SIGMOD 2021 (To appear) | [papers/2021_SortingHat_SIGMOD.pdf Paper PDF] | [papers/TR_2021_SortingHat.pdf TechReport] | Talk Videos: [https://youtu.be/KAs-uU59AEM Short Talk] [https://youtu.be/dpx74zQyU3k Long Talk] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference/Library Python library]
-
-- Automation of Data Prep, ML, and Data Science: New Cure or Snake Oil?\n
-Arun Kumar\n
-ACM SIGMOD 2021 Panel (To appear) | [papers/2021_Panel_SIGMOD.pdf Paper PDF]
-
 - Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
 Yuhao Zhang, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, Domino Valdano, and Arun Kumar\n
 VLDB 2021 (To appear) | [papers/2021_Cerebro-DS.pdf Paper PDF] | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://github.com/makemebitter/cerebro-ds/ Code release]
@@ -22,6 +14,14 @@ VLDB 2021 Demo (To appear) | Paper PDF coming soon | [papers/TR_2021_Intermitten
 - Towards A Polyglot Framework for Factorized ML\n
 David Justo, Shaoqing Yi, Lukas Stadler, Nadia Polikarpova, and Arun Kumar\n
 VLDB 2021 (Industrial Track; to appear) | Paper PDF coming soon | [papers/TR_2021_Trinity.pdf TechReport] | Code coming soon
+
+- Towards Benchmarking Feature Type Inference for AutoML Platforms\n
+Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar\n
+ACM SIGMOD 2021 | [papers/2021_SortingHat_SIGMOD.pdf Paper PDF] | [papers/TR_2021_SortingHat.pdf TechReport] | Talk Videos: [https://youtu.be/KAs-uU59AEM Short Talk] [https://youtu.be/dpx74zQyU3k Long Talk] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference/Library Python library]
+
+- Automation of Data Prep, ML, and Data Science: New Cure or Snake Oil?\n
+Arun Kumar\n
+ACM SIGMOD 2021 Panel | [papers/2021_Panel_SIGMOD.pdf Paper PDF]
 
 - The CNN Hip Accelerometer Posture (CHAP) Method for Classifying Sitting Patterns from Hip Accelerometers: A Validation Study\n
 Mikael Anne Greenwood-Hickman, Supun Nakandala, Marta M. Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Paul R. Hibbing, Jingjing Zou, Andrea Z. LaCroix, Arun Kumar, and Loki Natarajan\n
