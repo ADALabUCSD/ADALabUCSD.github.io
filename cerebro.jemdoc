@@ -19,6 +19,10 @@ Cerebro is open sourced under Apache License v2.0. Code and deatiled documentati
 
 === Downloads (Paper, Code, Data, etc.)
 
+- Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets
+Supun Nakandala and Arun Kumar\n
+Under submission | [papers/TR_2021_Nautilus.pdf TechReport]
+
 - Towards an Optimized GROUP BY Abstraction for Large-Scale Machine Learning\n
 Side Li and Arun Kumar\n
 Under submission | [papers/TR_2021_Kingpin.pdf TechReport]
