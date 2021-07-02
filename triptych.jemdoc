@@ -39,9 +39,6 @@ ML schema inference and automatic data preparation.
 
 
 === Publications
-- Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets\n
-Supun Nakandala and Arun Kumar\n
-Under submission | [papers/TR_2021_Nautilus.pdf TechReport]
 
 - Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
 Yuhao Zhang, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, Domino Valdano, and Arun Kumar\n
@@ -147,6 +144,14 @@ ACM SIGMOD Record Dec 2015 Vision Track |
 [papers/2015_MSMS_SIGMODRecord.pdf Paper PDF]
 
 === Technical Reports
+
+- Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets\n
+Supun Nakandala and Arun Kumar\n
+Under submission | [papers/TR_2021_Nautilus.pdf TechReport]
+
+- SystemX: A Scalable and Optimized Data System for Large Multi-Model Deep Learning\n
+Kabir Nagrecha and Arun Kumar\n
+Under submission | [papers/TR_2021_SystemX.pdf TechReport]
 
 - Towards an Optimized GROUP BY Abstraction for Large-Scale Machine Learning\n
 Side Li and Arun Kumar\n
