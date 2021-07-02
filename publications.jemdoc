@@ -2,9 +2,6 @@
 = ADA Lab @ UCSD
 
 == Peer-reviewed Publications
-- Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets\n
-Supun Nakandala and Arun Kumar\n
-Under submission | [papers/TR_2021_Nautilus.pdf TechReport]
 
 - Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
 Yuhao Zhang, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, Domino Valdano, and Arun Kumar\n
@@ -266,6 +263,14 @@ VLDB 2012 |
 
 
 == Manuscripts, Articles, and Dissertations
+
+- Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets\n
+Supun Nakandala and Arun Kumar\n
+Under submission | [papers/TR_2021_Nautilus.pdf TechReport]
+
+- SystemX: A Scalable and Optimized Data System for Large Multi-Model Deep Learning\n
+Kabir Nagrecha and Arun Kumar\n
+Under submission | [papers/TR_2021_SystemX.pdf TechReport]
 
 - Towards an Optimized GROUP BY Abstraction for Large-Scale Machine Learning\n
 Side Li and Arun Kumar\n
