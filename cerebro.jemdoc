@@ -17,6 +17,10 @@ In this project, we propose a new system for ANN model selection that /raises mo
 Cerebro is open sourced under Apache License v2.0. Code and deatiled documentation are available here: [https://adalabucsd.github.io/cerebro-system *Cerebro System*]
 ~~~
 
+~~~
+Most recent long talk on overall system vision: [https://www.youtube.com/watch?v=ERKyvLT4Wik *Youtube video*].
+~~~
+
 === Downloads (Paper, Code, Data, etc.)
 
 - Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets\n

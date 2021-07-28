@@ -56,7 +56,14 @@
 <p>Data preparation time still remains a major roadblock for real-world ML applications, since it is ususally handled fully manually by data scientists. The grunt work of data prep involves diverse tasks such as identifying features types for ML, standardizing and cleaning feature values, and feature transformations. This reduces data scientists&rsquo; productivity and raises costs. It is also an impediment to industrial-scale AutoML platforms that build ML models on millions of datasets.</p>
 <p>To tackle this challenge, we envision a new line of research to dramatically reduce the human effort need in data prep for ML: <i>using ML to automate data prep for ML</i>. We abstract specific ML data prep tasks and cast them as applied ML tasks. We present the <i>ML Data Prep Zoo</i>, a community-led repository of benchmark labeled datasets, and pre-trained ML models for ML data prep tasks.</p>
 <p>In this project, we apply the above philosophy on a ubiquitous data prep issue when applying ML over relation data: <i>ML Schema Extraction</i>. Datasets are typically exported from DBMSs into tools such as Python and R as CSV files. This creates a semantic gap between attribute types in a DB schema (such as strings or integers) and feature types in a ML schema (such as numeric or categorical). Hence, the data scientist is forced to manually extract the ML schema.  SortingHat cast this task as ML classification problem and allow users to quickly dispose of easy features, and repriortize their effort towards features that need more human attention.</p>
-<p>Long talk on vision and first task: <a href="https://www.youtube.com/watch?v=NVrYZQ3YCuw" target=_blank><b>Youtube video</b></a>.</p>
+<div class="infoblock">
+<div class="blockcontent">
+<p>All of our labeled datasets, pre-trained models, code, and documentation are available here: <a href="https://github.com/pvn25/ML-Data-Prep-Zoo" target=_blank><b>ML Data Prep Zoo</b></a></p>
+</div></div>
+<div class="infoblock">
+<div class="blockcontent">
+<p>Recent long talk on vision and first task: <a href="https://www.youtube.com/watch?v=NVrYZQ3YCuw" target=_blank><b>Youtube video</b></a>.</p>
+</div></div>
 <h3>Downloads (Paper, Code, Data, etc.)</h3>
 <ul>
 <li><p>Towards Benchmarking Feature Type Inference for AutoML Platforms<br />
