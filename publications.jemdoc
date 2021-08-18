@@ -3,25 +3,27 @@
 
 == Peer-reviewed Publications
 
+- Some Damaging Delusions of Deep Learning Practice (and How to Avoid Them)\n
+Arun Kumar, Supun Nakandala, and Yuhao Zhang\n
+KDD 2021 Deep Learning Day | [papers/2021_DLDelusions_KDD.pdf Extended Abstract PDF] 
+| [papers/2021_DLDelusions_KDD_Slides.pdf Talk slides] 
+| [https://www.youtube.com/watch?v=UP9__WsfSuc Talk video]
+
 - Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
 Yuhao Zhang, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, Domino Valdano, and Arun Kumar\n
-VLDB 2021 (To appear) | [papers/2021_Cerebro-DS.pdf Paper PDF] | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://github.com/makemebitter/cerebro-ds/ Code release]
+VLDB 2021 | [papers/2021_Cerebro-DS.pdf Paper PDF] | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://github.com/makemebitter/cerebro-ds/ Code release]
 
 - Towards an Optimized GROUP BY Abstraction for Large-Scale Machine Learning\n
 Side Li and Arun Kumar\n
-VLDB 2021 (To appear) | [papers/2021_Kingpin_VLDB.pdf Paper PDF] | [papers/TR_2021_Kingpin.pdf TechReport] | Code coming soon
+VLDB 2021 | [papers/2021_Kingpin_VLDB.pdf Paper PDF] | [papers/TR_2021_Kingpin.pdf TechReport] | Code coming soon
 
 - Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration\n
 Liangde Li, Supun Nakandala, and Arun Kumar\n
-VLDB 2021 Demo (To appear) | [papers/2021_Cerebro_VLDB_Demo.pdf Paper PDF] | [papers/TR_2021_Intermittent_HIL_MS.pdf TechReport] | [https://youtu.be/K3THQy5McXc Video]
+VLDB 2021 Demo | [papers/2021_Cerebro_VLDB_Demo.pdf Paper PDF] | [papers/TR_2021_Intermittent_HIL_MS.pdf TechReport] | [https://youtu.be/K3THQy5McXc Video]
 
 - Towards A Polyglot Framework for Factorized ML\n
 David Justo, Shaoqing Yi, Lukas Stadler, Nadia Polikarpova, and Arun Kumar\n
-VLDB 2021 (Industrial Track; to appear) | Paper PDF coming soon | [papers/TR_2021_Trinity.pdf TechReport] | Code coming soon
-
-- Some Damaging Delusions of Deep Learning Practice (and How to Avoid Them)\n
-Arun Kumar, Supun Nakandala, and Yuhao Zhang\n
-KDD 2021 Deep Learning Day | [papers/2021_DLDelusions_KDD.pdf Extended Abstract PDF]
+VLDB 2021 (Industrial Track) | [papers/2021_Trinity_VLDB.pdf Paper PDF] | [papers/TR_2021_Trinity.pdf TechReport] | Code coming soon
 
 - Towards Benchmarking Feature Type Inference for AutoML Platforms\n
 Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar\n
