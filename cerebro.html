@@ -32,10 +32,10 @@
 <div class="menu-item"><a href="sortinghat.html">SortingHat</a></div>
 <div class="menu-item"><a href="genisys.html"><br /> Project&nbsp;Genisys</a></div>
 <div class="menu-item"><a href="krypton.html">Krypton</a></div>
-<div class="menu-item"><a href="panorama.html">Panorama</a></div>
 <div class="menu-item"><a href="speakql.html">SpeakQL</a></div>
 <div class="menu-item"><a href="vista.html">Vista</a></div>
 <div class="menu-category"><br /> Past Projects</div>
+<div class="menu-item"><a href="panorama.html">Panorama</a></div>
 <div class="menu-item"><a href="hamlet.html">Hamlet</a></div>
 <div class="menu-item"><a href="nimbus.html">Nimbus</a></div>
 <div class="menu-item"><a href="slab.html">SLAB</a></div>
@@ -53,8 +53,37 @@
 <td align="left"><h2>Project Cerebro</h2>
 </td></tr></table>
 <h3>Overview</h3>
-<p>Artificial Neural Networks (ANNs) are revolutionizing many machine learning (ML) applications. Their success at major Web companies has created excitement among many enterprises and domain scientists to try ANNs for their applications. But training ANNs is a notoriously painful empirical process, since accuracy is tied to the ANN architecture and hyper-parameter settings. The common practice to choose these settings is to <i>empirically compare as many training configurations as feasible</i> for the application. This process is called <i>model selection</i>, and it is <i>unavoidable</i> because it is how one controls underfitting vs overfitting. Model selection is a major bottleneck for adoption of ANNs among enterprises and domain scientists due to both the <i>time spent</i> and <i>resource costs</i>.</p>
-<p>In this project, we propose a new system for ANN model selection that <i>raises model selection throughput without raising resource costs</i>. Our target setting is <i>small clusters</i> (say, 10s of nodes), which covers a vast majority (almost 90%) of parallel ML workloads in practice. We have 4 key system desiderata: <i>scalability</i>, <i>statistical convergence efficiency</i>, <i>reproducibility</i>, and <i>system generality</i>. To satisfy all these desiderata, we develop a novel parallel execution strategy we call <i>model hopper parallelism</i> (MOP).</p>
+<p>Artificial neural networks in the form of deep learning (DL) are revolutionizing 
+many machine learning (ML) applications. Their success at major Web companies 
+has created excitement among many enterprises and domain scientists to try DL 
+for their applications. But training DL is a notoriously painful empirical process, 
+since accuracy is tied to the data representation, neural architecture, and 
+hyper-parameter settings. The common practice to choose these settings is to 
+<i>empirically compare as many training configurations as feasible</i> for the application, 
+a central process in ML called <i>model selection</i>. This process is <i>inevitable</i> 
+because it is how one controls underfitting vs overfitting. 
+Model selection is a major bottleneck for adoption of DL among enterprises and 
+domain scientists due to both the <i>time spent</i> and <i>resource costs</i>.</p>
+<p>In this project, we are building a first-of-its-kind model selection-first platform 
+for scalable DL that <i>raises model selection throughput without raising resource costs</i>. 
+Our target setting is <i>small clusters</i> (say, 10s of nodes), which covers a vast 
+majority (over 90%) of parallel ML workloads in practice. 
+We have 4 key system desiderata: <i>scalability</i>, <i>statistical convergence efficiency</i>, 
+<i>reproducibility</i>, and <i>system generality</i>. 
+To satisfy all these desiderata, we have been building a suite of novel parallel 
+execution approaches to enable resource-efficient scalabilty at <i>all levels of 
+the memory hierarchy</i>-clusters, cloud, local disks, DRAM, and GPU memory-and for 
+<i>all axes of scalability</i> in DL workloads: data sizes, model sizes, number of models
+and tasks, number of data subgroups, and more.</p>
+<p>Check out the CIDR 2021 paper below for an overview of our vision for Cerebro. 
+Our techniques are inspired by classical lessons in RDBMS design and implementation
+and operations research, including <i>multi-query optimization</i>, <i>materialized views</i>,
+and <i>hybrid parallelism</i>. The technical papers cover our suite of new 
+execution approaches, including <i>model hopper</i> parallelism (MOP), 
+<i>gradient accumulation</i> parallelism (GAP), <i>shard alternation</i> parallelism (SHARP), 
+model fusion, and DL feature materialization.
+All of our techniques are amenable to <i>non-disruptive integration</i> with existing
+DL frameworks such as TensorFlow and PyTorch, which makes practical adoption easier.</p>
 <div class="infoblock">
 <div class="blockcontent">
 <p>Cerebro is open sourced under Apache License v2.0. Code and deatiled documentation are available here: <a href="https://adalabucsd.github.io/cerebro-system" target=_blank><b>Cerebro System</b></a></p>

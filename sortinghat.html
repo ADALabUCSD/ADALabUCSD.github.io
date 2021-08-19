@@ -32,10 +32,10 @@
 <div class="menu-item"><a href="sortinghat.html" class="current">SortingHat</a></div>
 <div class="menu-item"><a href="genisys.html"><br /> Project&nbsp;Genisys</a></div>
 <div class="menu-item"><a href="krypton.html">Krypton</a></div>
-<div class="menu-item"><a href="panorama.html">Panorama</a></div>
 <div class="menu-item"><a href="speakql.html">SpeakQL</a></div>
 <div class="menu-item"><a href="vista.html">Vista</a></div>
 <div class="menu-category"><br /> Past Projects</div>
+<div class="menu-item"><a href="panorama.html">Panorama</a></div>
 <div class="menu-item"><a href="hamlet.html">Hamlet</a></div>
 <div class="menu-item"><a href="nimbus.html">Nimbus</a></div>
 <div class="menu-item"><a href="slab.html">SLAB</a></div>
@@ -53,9 +53,30 @@
 <td align="left"><h2>Project SortingHat</h2>
 </td></tr></table>
 <h3>Overview</h3>
-<p>Data preparation time still remains a major roadblock for real-world ML applications, since it is ususally handled fully manually by data scientists. The grunt work of data prep involves diverse tasks such as identifying features types for ML, standardizing and cleaning feature values, and feature transformations. This reduces data scientists&rsquo; productivity and raises costs. It is also an impediment to industrial-scale AutoML platforms that build ML models on millions of datasets.</p>
-<p>To tackle this challenge, we envision a new line of research to dramatically reduce the human effort need in data prep for ML: <i>using ML to automate data prep for ML</i>. We abstract specific ML data prep tasks and cast them as applied ML tasks. We present the <i>ML Data Prep Zoo</i>, a community-led repository of benchmark labeled datasets, and pre-trained ML models for ML data prep tasks.</p>
-<p>In this project, we apply the above philosophy on a ubiquitous data prep issue when applying ML over relation data: <i>ML Schema Extraction</i>. Datasets are typically exported from DBMSs into tools such as Python and R as CSV files. This creates a semantic gap between attribute types in a DB schema (such as strings or integers) and feature types in a ML schema (such as numeric or categorical). Hence, the data scientist is forced to manually extract the ML schema.  SortingHat cast this task as ML classification problem and allow users to quickly dispose of easy features, and repriortize their effort towards features that need more human attention.</p>
+<p>Data preparation (prep) time still remains a major roadblock for real-world ML 
+applications, since it is ususally handled fully manually by data scientists. 
+The grunt work of data prep involves diverse tasks such as identifying features 
+types for ML, standardizing and cleaning feature values, and feature transformations. 
+This reduces data scientists&rsquo; productivity and raises costs. It is also a major
+impediment to the effectiveness of emerging industrial end-to-end AutoML platforms 
+that build ML models on millions of datasets for enterprises, Web companies, and more.</p>
+<p>To tackle the above challenge, we envision a new line of research to dramatically 
+reduce the human effort needed in data prep for ML, as well as to accurately benchmark
+the automation of data prep in AutoML platforms: <i>create benchmarks and labeled datasets</i> 
+and <i>use ML to automate ML data prep</i>. We abstract a series of specific and ubiquitous 
+ML data prep tasks and formalize them as prediction tasks. 
+We present the <i>ML Data Prep Zoo</i>, a community-led repository of our benchmark 
+labeled datasets and pre-trained ML models for such ML data prep tasks.</p>
+<p>So far, we have applied the above philosophy to a gateway step in ML data prep for 
+tabular data: <i>ML Schema Extraction</i>. Datasets are typically exported from DBMSs into 
+tools such as Python as CSV files. This creates a semantic gap between attribute types 
+in a DB schema (such as strings or integers) and feature types in a ML schema (such as 
+numeric or categorical). Hence, data scientists or AutoML platform users are forced to 
+manually extract the ML schema, which is tedious, slow, and error-prone. 
+We cast this task as a multi-class ML classification problem for the first time and 
+allow users to quickly dispose of easy features, repriortize their effort towards 
+features that need more human attention, and enable AutoML platforms to more accurately
+and robustly identify feature types, which in turn boosts their downstream model building.</p>
 <div class="infoblock">
 <div class="blockcontent">
 <p>All of our labeled datasets, pre-trained models, code, and documentation are available here: <a href="https://github.com/pvn25/ML-Data-Prep-Zoo" target=_blank><b>ML Data Prep Zoo</b></a></p>
