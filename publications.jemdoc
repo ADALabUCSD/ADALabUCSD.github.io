@@ -11,11 +11,11 @@ KDD 2021 Deep Learning Day | [papers/2021_DLDelusions_KDD.pdf Extended Abstract 
 
 - Towards an Optimized GROUP BY Abstraction for Large-Scale Machine Learning\n
 Side Li and Arun Kumar\n
-VLDB 2021 | [papers/2021_Kingpin_VLDB.pdf Paper PDF] | [papers/TR_2021_Kingpin.pdf TechReport] | [https://www.youtube.com/watch?v=OlTknBfBmvM Talk video] Code coming soon
+VLDB 2021 | [papers/2021_Kingpin_VLDB.pdf Paper PDF] | [papers/TR_2021_Kingpin.pdf TechReport] | [https://www.youtube.com/watch?v=OlTknBfBmvM Talk video] | Code coming soon
 
 - Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
 Yuhao Zhang, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, Domino Valdano, and Arun Kumar\n
-VLDB 2021 | [papers/2021_Cerebro-DS.pdf Paper PDF] | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://youtu.be/SK9wTzO4K7M Talk video] [https://github.com/makemebitter/cerebro-ds/ Code release]
+VLDB 2021 | [papers/2021_Cerebro-DS.pdf Paper PDF] | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://youtu.be/SK9wTzO4K7M Talk video] | [https://github.com/makemebitter/cerebro-ds/ Code release]
 
 - Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration\n
 Liangde Li, Supun Nakandala, and Arun Kumar\n
