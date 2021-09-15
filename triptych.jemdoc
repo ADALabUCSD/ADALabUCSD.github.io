@@ -155,6 +155,10 @@ ACM SIGMOD Record Dec 2015 Vision Track |
 
 === Technical Reports
 
+- An Empirical Study on the (Non-)Importance of Cleaning Categorical Duplicates before ML\n
+Vraj Shah, Thomas Parashos, and Arun Kumar\n 
+Under submission | [papers/TR_2021_CategDedup.pdf TechReport]
+
 - Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets\n
 Supun Nakandala and Arun Kumar\n
 Under submission | [papers/TR_2021_Nautilus.pdf TechReport]
