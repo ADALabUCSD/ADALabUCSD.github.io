@@ -68,16 +68,13 @@ The list of ADALab publications is here: [publications.html *Publications*].
 
 == Recent ADALab News
 
+- 9\/21: Arun is tenured and promoted to Associate Professor at UC San Diego.
 - 8\/21: A new [https://adalabucsd.github.io/research-blog/research/2021/08/13/vldb2021.html *blog post*] summarizing the papers, talks, demo, and panel discussions at VLDB and KDD by ADALab members.
 - 7\/21: The Kingpin paper on optimized execution of mass ML model building over data sub-groups, 
 part of the [https://adalabucsd.github.io/cerebro.html *Cerebro*] project, is accepted to VLDB 2021.
 - 6\/21: Huge congrats to Kabir on winning 1st place at the undergraduate level and to 
 Side on winning 2nd place at the graduate level of the SIGMOD 2021 Student Research Competition!
 This is the strongest showing ever at the SIGMOD SRC by Database Lab students.
-- 6\/21: Congrats to Advitya and Kabir on bagging top undergraduate research honors of their respective departments!
-Advitya is accorded the HDSI Undergraduate Scholarship Project Award and 
-Kabir is accorded the CSE Undergraduate Award for Excellence in Research.
-This is the first time these honors go to Database Lab students, let alone both in the same year!
 
 Full list of lab news items here: [news.html *News*].\n
 
@@ -88,7 +85,7 @@ Full list of lab news items here: [news.html *News*].\n
 ~~~
 {}{img_left}{images/arun.jpg}{}{100px}{}{}
 [http://cseweb.ucsd.edu/~arunkk *Arun Kumar*]\n
-Assistant Professor, CSE and HDSI\n
+Associate Professor, CSE and HDSI\n
 Email: arunkk \[at\] eng \[dot\] ucsd \[dot\] edu\n
 Office: CSE 3218
 ~~~
