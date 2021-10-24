@@ -56,9 +56,9 @@ Most recent long talk on overall system vision: [https://www.youtube.com/watch?v
 Supun Nakandala and Arun Kumar\n
 Under submission | [papers/TR_2021_Nautilus.pdf TechReport]
 
-- Hydra: A Scalable and Optimized Data System for Large Multi-Model Deep Learning\n
+- Hydra: A Data System for Large Multi-Model Deep Learning\n
 Kabir Nagrecha and Arun Kumar\n
-Under submission | [papers/TR_2021_Hydra.pdf TechReport]
+Under submission | [https://arxiv.org/abs/2110.08633 TechReport]
 
 - Some Damaging Delusions of Deep Learning Practice (and How to Avoid Them)\n
 Arun Kumar, Supun Nakandala, and Yuhao Zhang\n
@@ -69,6 +69,10 @@ KDD 2021 Deep Learning Day | [papers/2021_DLDelusions_KDD.pdf Extended Abstract 
 - Towards an Optimized GROUP BY Abstraction for Large-Scale Machine Learning\n
 Side Li and Arun Kumar\n
 VLDB 2021 | [papers/2021_Kingpin_VLDB.pdf Paper PDF] | [papers/TR_2021_Kingpin.pdf TechReport] | [https://www.youtube.com/watch?v=OlTknBfBmvM Talk video] | [https://github.com/liside/Kingpin Code Release]
+
+- Model Parallel Model Selection for Deep Learning Systems\n
+Kabir Nagrecha and Arun Kumar\n
+SIGMOD 2021 (Student Research Competition Winner) | [https://arxiv.org/abs/2107.06469 Arxiv]
 
 - Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
 Yuhao Zhang, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, Domino Valdano, and Arun Kumar\n
