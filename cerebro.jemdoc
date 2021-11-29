@@ -50,15 +50,7 @@ Cerebro is open sourced under Apache License v2.0. Code and deatiled documentati
 Most recent long talk on overall system vision: [https://www.youtube.com/watch?v=ERKyvLT4Wik *Youtube video*].
 ~~~
 
-=== Downloads (Paper, Code, Data, etc.)
-
-- Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets\n
-Supun Nakandala and Arun Kumar\n
-Under submission | [papers/TR_2021_Nautilus.pdf TechReport]
-
-- Hydra: A Data System for Large Multi-Model Deep Learning\n
-Kabir Nagrecha and Arun Kumar\n
-Under submission | [https://arxiv.org/abs/2110.08633 TechReport]
+== Overview Papers and Talks
 
 - Some Damaging Delusions of Deep Learning Practice (and How to Avoid Them)\n
 Arun Kumar, Supun Nakandala, and Yuhao Zhang\n
@@ -66,33 +58,29 @@ KDD 2021 Deep Learning Day | [papers/2021_DLDelusions_KDD.pdf Extended Abstract 
 | [papers/2021_DLDelusions_KDD_Slides.pdf Talk slides]       
 | [https://www.youtube.com/watch?v=UP9__WsfSuc Talk video]
 
-- Towards an Optimized GROUP BY Abstraction for Large-Scale Machine Learning\n
-Side Li and Arun Kumar\n
-VLDB 2021 | [papers/2021_Kingpin_VLDB.pdf Paper PDF] | [papers/TR_2021_Kingpin.pdf TechReport] | [https://www.youtube.com/watch?v=OlTknBfBmvM Talk video] | [https://github.com/liside/Kingpin Code Release]
+- Cerebro: A Layered Data Platform for Scalable Deep Learning\n
+Arun Kumar, Supun Nakandala, Yuhao Zhang, Side Li, Advitya Gemawat, and Kabir Nagrecha\n
+CIDR 2021 (Vision paper) | [papers/2021_Cerebro_CIDR.pdf Paper PDF] and [papers/2021_Cerebro_CIDR.txt BibTeX] | [https://www.youtube.com/watch?v=8QfMvdlmdic Talk video]
+
+- Cerebro: Efficient and Reproducible Model Selection on Deep Learning Systems\n
+Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
+ACM SIGMOD 2019 DEEM Workshop | [papers/2019_Cerebro_DEEM.pdf Paper PDF] and [papers/2019_Cerebro_DEEM.txt BibTeX] | [https://adalabucsd.github.io/research-blog/cerebro.html Blog post]
+
+== Model Scalability
+
+- Hydra: A Data System for Large Multi-Model Deep Learning\n
+Kabir Nagrecha and Arun Kumar\n
+Under submission | [https://arxiv.org/abs/2110.08633 TechReport]
 
 - Model Parallel Model Selection for Deep Learning Systems\n
 Kabir Nagrecha\n
 SIGMOD 2021 (Student Research Competition Winner) | [https://arxiv.org/abs/2107.06469 Arxiv]
 
+== Data Scalability
+
 - Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches\n
 Yuhao Zhang, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, Domino Valdano, and Arun Kumar\n
 VLDB 2021 | [papers/2021_Cerebro-DS.pdf Paper PDF] | [papers/TR_2021_Cerebro-DS.pdf TechReport] | [https://youtu.be/SK9wTzO4K7M Talk video] | [https://github.com/makemebitter/cerebro-ds/ Code release]
-
-- Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration\n
-Liangde Li, Supun Nakandala, and Arun Kumar\n
-VLDB 2021 Demo | [papers/2021_Cerebro_VLDB_Demo.pdf Paper PDF] | [papers/TR_2021_Intermittent_HIL_MS.pdf TechReport] | [https://youtu.be/K3THQy5McXc Video]
-
-- The CNN Hip Accelerometer Posture (CHAP) Method for Classifying Sitting Patterns from Hip Accelerometers: A Validation Study\n
-Mikael Anne Greenwood-Hickman, Supun Nakandala, Marta M. Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Paul R. Hibbing, Jingjing Zou, Andrea Z. LaCroix, Arun Kumar, and Loki Natarajan\n
-Medicine and Science in Sports and Exercise Journal, 2021 | Paper PDF coming soon | [https://github.com/ADALabUCSD/DeepPostures Code]
-
-- Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification\n
-Supun Nakandala, Marta Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Andrea LaCroix, Sheri Hartman, Dori Rosenberg, Jingjing Zou, Arun Kumar, and Loki Natarajan\n
-Journal for the Measurement of Physical Behaviour, 2021 | [papers/2021_JMPB_CNN.pdf Paper PDF] and [papers/2021_JMPB_CNN.txt BibTeX] | [https://github.com/ADALabUCSD/DeepPostures Code]
-
-- Cerebro: A Layered Data Platform for Scalable Deep Learning\n
-Arun Kumar, Supun Nakandala, Yuhao Zhang, Side Li, Advitya Gemawat, and Kabir Nagrecha\n
-CIDR 2021 (Vision paper) | [papers/2021_Cerebro_CIDR.pdf Paper PDF] and [papers/2021_Cerebro_CIDR.txt BibTeX] | [https://www.youtube.com/watch?v=8QfMvdlmdic Talk video]
 
 - Cerebro: A Data System for Optimized Deep Learning Model Selection\n
 Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
@@ -101,9 +89,31 @@ VLDB 2020 | [papers/2020_Cerebro_VLDB.pdf Paper PDF] and [papers/2020_Cerebro_VL
  | [https://adalabucsd.github.io/research-blog/cerebro.html Blog post] | [https://databricks.com/session_na20/resource-efficient-deep-learning-model-selection-on-apache-spark SAIS Talk video]
 | [https://adalabucsd.github.io/cerebro-system/ Source code and documentation]
 
-- Cerebro: Efficient and Reproducible Model Selection on Deep Learning Systems\n
-Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
-ACM SIGMOD 2019 DEEM Workshop | [papers/2019_Cerebro_DEEM.pdf Paper PDF] and [papers/2019_Cerebro_DEEM.txt BibTeX] | [https://adalabucsd.github.io/research-blog/cerebro.html Blog post]
+== Transfer Learning
+
+- Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets\n
+Supun Nakandala and Arun Kumar\n
+Under submission | [papers/TR_2021_Nautilus.pdf TechReport]
+
+== New Abstractions and Interfaces
+
+- Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration\n
+Liangde Li, Supun Nakandala, and Arun Kumar\n
+VLDB 2021 Demo | [papers/2021_Cerebro_VLDB_Demo.pdf Paper PDF] | [papers/TR_2021_Intermittent_HIL_MS.pdf TechReport] | [https://youtu.be/K3THQy5McXc Video]
+
+- Towards an Optimized GROUP BY Abstraction for Large-Scale Machine Learning\n
+Side Li and Arun Kumar\n
+VLDB 2021 | [papers/2021_Kingpin_VLDB.pdf Paper PDF] | [papers/TR_2021_Kingpin.pdf TechReport] | [https://www.youtube.com/watch?v=OlTknBfBmvM Talk video] | [https://github.com/liside/Kingpin Code Release]
+
+== Applications
+
+- The CNN Hip Accelerometer Posture (CHAP) Method for Classifying Sitting Patterns from Hip Accelerometers: A Validation Study\n
+Mikael Anne Greenwood-Hickman, Supun Nakandala, Marta M. Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Paul R. Hibbing, Jingjing Zou, Andrea Z. LaCroix, Arun Kumar, and Loki Natarajan\n
+Medicine and Science in Sports and Exercise Journal, 2021 | Paper PDF coming soon | [https://github.com/ADALabUCSD/DeepPostures Code]
+
+- Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification\n
+Supun Nakandala, Marta Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Andrea LaCroix, Sheri Hartman, Dori Rosenberg, Jingjing Zou, Arun Kumar, and Loki Natarajan\n
+Journal for the Measurement of Physical Behaviour, 2021 | [papers/2021_JMPB_CNN.pdf Paper PDF] and [papers/2021_JMPB_CNN.txt BibTeX] | [https://github.com/ADALabUCSD/DeepPostures Code]
 
 === Student Contact
 
