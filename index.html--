@@ -21,21 +21,19 @@
 <td id="layout-menu">
 <div class="menu-item"><a href="index.html" class="current">Home</a></div>
 <div class="menu-item"><a href="index.html#members">Members</a></div>
-<div class="menu-item"><a href="projects.html">Projects</a></div>
 <div class="menu-item"><a href="publications.html">Publications</a></div>
 <div class="menu-item"><a href="news.html">News</a></div>
 <div class="menu-item"><a href="impact.html">Impact</a></div>
 <div class="menu-item"><a href="blog.html">Blog/Misc.</a></div>
-<div class="menu-item"><a href="triptych.html"><br /> Project&nbsp;Triptych</a></div>
+<div class="menu-item"><a href="projects.html"><br /> Projects</a></div>
 <div class="menu-item"><a href="cerebro.html">Cerebro</a></div>
-<div class="menu-item"><a href="morpheus.html">Morpheus</a></div>
 <div class="menu-item"><a href="sortinghat.html">SortingHat</a></div>
-<div class="menu-item"><a href="genisys.html"><br /> Project&nbsp;Genisys</a></div>
-<div class="menu-item"><a href="krypton.html">Krypton</a></div>
-<div class="menu-item"><a href="panorama.html">Panorama</a></div>
 <div class="menu-item"><a href="speakql.html">SpeakQL</a></div>
-<div class="menu-item"><a href="vista.html">Vista</a></div>
 <div class="menu-category"><br /> Past Projects</div>
+<div class="menu-item"><a href="morpheus.html">Morpheus</a></div>
+<div class="menu-item"><a href="krypton.html">Krypton</a></div>
+<div class="menu-item"><a href="vista.html">Vista</a></div>
+<div class="menu-item"><a href="panorama.html">Panorama</a></div>
 <div class="menu-item"><a href="hamlet.html">Hamlet</a></div>
 <div class="menu-item"><a href="nimbus.html">Nimbus</a></div>
 <div class="menu-item"><a href="slab.html">SLAB</a></div>
@@ -109,13 +107,16 @@ help them adopt our systems and ideas.</p>
 <p>The list of ADALab publications is here: <a href="publications.html" target=_blank><b>Publications</b></a>.</p>
 <h2>Recent ADALab News</h2>
 <ul>
-<li><p><tt>New!</tt> 1/21: Congrats to each of Advitya, Kabir, and Side for being selected for the second round of the SIGMOD 2021 Student Research Competition! It is pretty rare for three submissions from a single group to all get selected.</p>
+<li><p>9/21: Arun is tenured and promoted to Associate Professor at UC San Diego.</p>
 </li>
-<li><p>12/20: Congrats to Supun and Vraj for passing their thesis proposal exams with strong praise from both committees!</p>
+<li><p>8/21: A new <a href="https://adalabucsd.github.io/research-blog/research/2021/08/13/vldb2021.html" target=_blank><b>blog post</b></a> summarizing the papers, talks, demo, and panel discussions at VLDB and KDD by ADALab members.</p>
 </li>
-<li><p>12/20: Congrats to Kabir on receiving an Honorable Mention for the <a href="https://cra.org/2021-outstanding-undergraduate-researcher-award-recipients/" target=_blank>CRA Outstanding Undergraduate Researcher Award</a>!</p>
+<li><p>7/21: The Kingpin paper on optimized execution of mass ML model building over data sub-groups, 
+part of the <a href="https://adalabucsd.github.io/cerebro.html" target=_blank><b>Cerebro</b></a> project, is accepted to VLDB 2021.</p>
 </li>
-<li><p>11/20: Arun joined a <a href="https://www.youtube.com/watch?v=5QMoNBsR5mM&amp;feature=emb_title" target=_blank>panel discussion on AI ethics</a> organized by UCSD Office of Innovation and Commercialization.</p>
+<li><p>6/21: Huge congrats to Kabir on winning 1st place at the undergraduate level and to 
+Side on winning 2nd place at the graduate level of the SIGMOD 2021 Student Research Competition!
+This is the strongest showing ever at the SIGMOD SRC by Database Lab students.</p>
 </li>
 </ul>
 <p>Full list of lab news items here: <a href="news.html" target=_blank><b>News</b></a>.<br /></p>
@@ -124,23 +125,22 @@ help them adopt our systems and ideas.</p>
 <table class="imgtable"><tr><td>
 <img src="images/arun.jpg" alt="" width="100px" />&nbsp;</td>
 <td align="left"><p><a href="http://cseweb.ucsd.edu/~arunkk" target=_blank><b>Arun Kumar</b></a><br />
-Assistant Professor, CSE and HDSI<br />
+Associate Professor, CSE and HDSI<br />
 Email: arunkk [at] eng [dot] ucsd [dot] edu<br />
 Office: CSE 3218</p>
 </td></tr></table>
 <h3>Graduate Students</h3>
 <table class="imgtable"><tr><td>
-<img src="https://liside.github.io/assets/side.jpeg" alt="" width="100px" />&nbsp;</td>
-<td align="left"><p><a href="https://liside.github.io/" target=_blank><b>Side Li</b></a><br />
+<img src="images/kabir.png" alt="" width="100px" />&nbsp;</td>
+<td align="left"><p><a href="https://www.linkedin.com/in/kabir-nagrecha-952591152/" target=_blank><b>Kabir Nagrecha</b></a><br />
 PhD, CSE, UCSD<br />
-Email: s7li [at] eng [dot] ucsd [dot] edu<br />
-Office: CSE 3232</p>
+Email: knagrech [at] ucsd [dot] edu</p>
 </td></tr></table>
 <table class="imgtable"><tr><td>
-<img src="images/tara.png" alt="" width="100px" />&nbsp;</td>
-<td align="left"><p><a href="https://www.linkedin.com/in/tara-mirmira/" target=_blank><b>Tara Mirmira</b></a><br />
+<img src="https://kyleluoma.github.io/assets/img/profile.jpg" alt="" width="100px" />&nbsp;</td>
+<td align="left"><p><a href="https://kyleluoma.github.io/" target=_blank><b>Kyle Luoma</b></a><br />
 PhD, CSE, UCSD<br />
-Email: tmirmira [at] eng [dot] ucsd [dot] edu<br />
+Email: kluoma [at] ucsd [dot] edu<br />
 Office: CSE 3232</p>
 </td></tr></table>
 <table class="imgtable"><tr><td>
@@ -151,11 +151,25 @@ Email: snakanda [at] eng [dot] ucsd [dot] edu<br />
 Office: CSE 3232</p>
 </td></tr></table>
 <table class="imgtable"><tr><td>
+<img src="images/tara.png" alt="" width="100px" />&nbsp;</td>
+<td align="left"><p><a href="https://www.linkedin.com/in/tara-mirmira/" target=_blank><b>Tara Mirmira</b></a><br />
+PhD, CSE, UCSD<br />
+Email: tmirmira [at] eng [dot] ucsd [dot] edu<br />
+Office: CSE 3232</p>
+</td></tr></table>
+<table class="imgtable"><tr><td>
 <img src="https://pvn25.github.io/images/vraj.jpeg" alt="" width="100px" />&nbsp;</td>
 <td align="left"><p><a href="https://pvn25.github.io/" target=_blank><b>Vraj Shah</b></a><br />
 PhD, CSE, UCSD<br />
 Email: vps002 [at] eng [dot] ucsd [dot] edu<br />
 Office: CSE 3230</p>
+</td></tr></table>
+<table class="imgtable"><tr><td>
+<img src="images/xiuwen.jpeg" alt="" width="100px" />&nbsp;</td>
+<td align="left"><p><a href="https://xiz675.github.io/" target=_blank><b>Xiuwen Zheng</b></a><br />
+PhD, CSE, UCSD<br />
+Email: xiz675 [at] eng [dot] ucsd [dot] edu<br />
+Office: CSE 3232</p>
 </td></tr></table>
 <table class="imgtable"><tr><td>
 <img src="https://yhzhang.info/images/bio-photo.jpg" alt="" width="100px" />&nbsp;</td>
@@ -164,27 +178,23 @@ PhD, CSE, UCSD<br />
 Email: yuz870 [at] eng [dot] ucsd [dot] edu<br />
 Office: CSE 3230</p>
 </td></tr></table>
-<h3>Undergraduate Students</h3>
 <table class="imgtable"><tr><td>
-<img src="images/advitya.jpg" alt="" width="100px" />&nbsp;</td>
-<td align="left"><p><a href="https://www.linkedin.com/in/agemawat/" target=_blank><b>Advitya Gemawat</b></a><br />
-BS, HDSI, UCSD<br />
-Email: agemawat [at] ucsd [dot] edu</p>
-</td></tr></table>
-<table class="imgtable"><tr><td>
-<img src="images/kabir.png" alt="" width="100px" />&nbsp;</td>
-<td align="left"><p><a href="https://www.linkedin.com/in/kabir-nagrecha-952591152/" target=_blank><b>Kabir Nagrecha</b></a><br />
-BS, CSE, UCSD<br />
-Email: knagrech [at] ucsd [dot] edu</p>
-</td></tr></table>
-<table class="imgtable"><tr><td>
-<img src="images/shaoqing.jpg" alt="" width="100px" />&nbsp;</td>
-<td align="left"><p><a href="https://www.linkedin.com/in/shaoqing-yi/" target=_blank><b>Shaoqing Yi</b></a><br />
-BS, HDSI and Math, UCSD<br />
-Email: shy218 [at] ucsd [dot] edu</p>
+<img src="images/liangde.jpeg" alt="" width="100px" />&nbsp;</td>
+<td align="left"><p><b>Liangde Li</b><br />
+MS, CSE, UCSD<br />
+Email: lil009 [at] ucsd [dot] edu<br />
+Office: CSE 3232</p>
 </td></tr></table>
 <h3>Alumni</h3>
 <ul>
+<li><p>Advitya Gemawat, BS, HDSI, UCSD, 2021. First employment: Microsoft NERD AI.</p>
+</li>
+<li><p>Side Li, MS, CSE, UCSD, 2021. First employment: Google.</p>
+</li>
+<li><p>Kabir Nagrecha, BS, CSE, UCSD, 2021. First employment: PhD at UCSD.</p>
+</li>
+<li><p>Shaoqing Yi, BS, HDSI and Math, UCSD, 2021. First employment: PhD at UC Berkeley.</p>
+</li>
 <li><p>Kevin Yang, BS, CSE, UCSD, 2020. First employment: MS at UPenn.</p>
 </li>
 <li><p>David Justo, MS, CSE, UCSD, 2019 (Co-advisor: Nadia Polikarpova). First employment: Microsoft.</p>
@@ -205,7 +215,7 @@ Email: shy218 [at] ucsd [dot] edu</p>
 <td align="left"></td></tr></table>
 <p>Past sponsors: Hellman Fellows Fund, NVIDIA, and Opera Solutions.</p>
 <h2>About our Lab's Name</h2>
-<p>Apart from being a convenient acronym, it is also a tribute to <a href="https://en.wikipedia.org/wiki/Ada_Lovelace" target=_blank>Ada Lovelace</a>, widely regarded as the first computer programmer. This tribute is part of our lab's commitment to help foster a diverse and inclusive community in computing, as enshrined in the <a href="https://ucsd.edu/about/principles.html" target=_blank>UCSD Principles of Community</a>, for people from all backgrounds, including women, under-represented minorities, and LGBTQ+ people.</p>
+<p>Apart from being a convenient acronym, it is also a tribute to <a href="https://en.wikipedia.org/wiki/Ada_Lovelace" target=_blank>Ada Lovelace</a>, widely regarded as the first computer programmer. This tribute is part of our lab's commitment to help foster a diverse and inclusive community in computing, as enshrined in the <a href="https://ucsd.edu/about/principles.html" target=_blank>UCSD Principles of Community</a>, for people from all backgrounds, including women, LGBTQ+ people, people of color, and people with disabilities.</p>
 <div id="footer">
 <div id="footer-text">
 HTML generated  by <a href="http://jemdoc.jaboc.net/" target=_blank>jemdoc</a>.

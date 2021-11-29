@@ -1,15 +1,15 @@
 
     Home                [index.html]
     Members             [index.html#members]
-    Projects            [projects.html]
     Publications        [publications.html]
     News                [news.html]
     Impact              [impact.html]
     Blog/Misc.          [blog.html]
 
-    Cerebro		[cerebro.html]
-    SortingHat  	[sortinghat.html]
-    SpeakQL         	[speakql.html]
+    \n Projects         [projects.html]
+    	Cerebro		[cerebro.html]
+    	SortingHat  	[sortinghat.html]
+    	SpeakQL        	[speakql.html]
 
     \n Past Projects
         Morpheus        [morpheus.html]
