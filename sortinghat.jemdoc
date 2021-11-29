@@ -43,7 +43,7 @@ All of our labeled datasets, pre-trained models, code, and documentation are ava
 Recent long talk on vision and first task: [https://www.youtube.com/watch?v=NVrYZQ3YCuw *Youtube video*].
 ~~~
 
-== Overview Paper
+=== Overview Paper
 
 - The ML Data Prep Zoo: Towards Semi-Automatic Data Preparation for ML\n
 Vraj Shah and Arun Kumar\n
@@ -51,13 +51,13 @@ ACM SIGMOD 2019 DEEM Workshop | [papers/2019_DataPrepZoo_DEEM.pdf Paper PDF] and
  | [https://adalabucsd.github.io/research-blog/research/2019/06/21/mldataprepzoo.html Blog post]
  | [https://github.com/pvn25/ML-Data-Prep-Zoo Data Prep Zoo Repository on GitHub]
 
-== Category Deduplication
+=== Category Deduplication
 
 - An Empirical Study on the (Non-)Importance of Cleaning Categorical Duplicates before ML\n
 Vraj Shah, Thomas Parashos, and Arun Kumar\n 
 Under submission | [papers/TR_2021_CategDedup.pdf TechReport]
 
-== Feature Type Inference
+=== Feature Type Inference
 
 - Towards Benchmarking Feature Type Inference for AutoML Platforms\n
 Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar\n
