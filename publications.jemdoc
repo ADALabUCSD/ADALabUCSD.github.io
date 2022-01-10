@@ -3,6 +3,10 @@
 
 == Peer-reviewed Publications
 
+- Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets\n
+Supun Nakandala and Arun Kumar\n
+SIGMOD 2022 | PDF coming soon | [papers/TR_2021_Nautilus.pdf TechReport] | Code release coming soon
+
 - Some Damaging Delusions of Deep Learning Practice (and How to Avoid Them)\n
 Arun Kumar, Supun Nakandala, and Yuhao Zhang\n
 KDD 2021 Deep Learning Day | [papers/2021_DLDelusions_KDD.pdf Extended Abstract PDF] 
@@ -277,10 +281,6 @@ VLDB 2012 |
 - An Empirical Study on the (Non-)Importance of Cleaning Categorical Duplicates before ML\n
 Vraj Shah, Thomas Parashos, and Arun Kumar\n 
 Under submission | [papers/TR_2021_CategDedup.pdf TechReport]
-
-- Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets\n
-Supun Nakandala and Arun Kumar\n
-Under submission | [papers/TR_2021_Nautilus.pdf TechReport]
 
 - Hydra: A Scalable and Optimized Data System for Large Multi-Model Deep Learning\n
 Kabir Nagrecha and Arun Kumar\n

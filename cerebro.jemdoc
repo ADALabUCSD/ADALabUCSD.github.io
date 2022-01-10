@@ -66,6 +66,14 @@ CIDR 2021 (Vision paper) | [papers/2021_Cerebro_CIDR.pdf Paper PDF] and [papers/
 Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
 ACM SIGMOD 2019 DEEM Workshop | [papers/2019_Cerebro_DEEM.pdf Paper PDF] and [papers/2019_Cerebro_DEEM.txt BibTeX] | [https://adalabucsd.github.io/research-blog/cerebro.html Blog post]
 
+=== Transfer Learning
+
+- Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets\n
+Supun Nakandala and Arun Kumar\n
+SIGMOD 2022 | PDF coming soon | [papers/TR_2021_Nautilus.pdf TechReport] | Code release coming soon
+
+- Also see [https://adalabucsd.github.io/vista.html Project Vista].
+
 === Model Scalability
 
 - Hydra: A Data System for Large Multi-Model Deep Learning\n
@@ -88,14 +96,6 @@ VLDB 2020 | [papers/2020_Cerebro_VLDB.pdf Paper PDF] and [papers/2020_Cerebro_VL
  | Talk videos: [https://www.youtube.com/watch?v=8PJic5FStGs Youtube] [https://www.bilibili.com/video/av329339128?p=198 Bilibili]
  | [https://adalabucsd.github.io/research-blog/cerebro.html Blog post] | [https://databricks.com/session_na20/resource-efficient-deep-learning-model-selection-on-apache-spark SAIS Talk video]
 | [https://adalabucsd.github.io/cerebro-system/ Source code and documentation]
-
-=== Transfer Learning
-
-- Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets\n
-Supun Nakandala and Arun Kumar\n
-Under submission | [papers/TR_2021_Nautilus.pdf TechReport]
-
-- Also see [https://adalabucsd.github.io/vista.html Project Vista].
 
 === New Abstractions and Interfaces
 
