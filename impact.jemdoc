@@ -7,7 +7,7 @@
 *Note*: If our research software and\/or ideas have been helpful for your data analytics applications, we would love to hear from you on your use cases and feedback. We are also happy to mention your company\/organization in the list below.
 ~~~
 
-- 2021-22: Amazon Web Services and OpenML are exploring integration of models and ideas from [sortinghat.html SortingHat] with their platforms.
+- 2021-22: OpenML, AutoGluon, and AWS are exploring integration of models and ideas from [sortinghat.html SortingHat] with their platforms.
 - 2019-21: [cerebro.html Cerebro] is being used to advance behavioral science research by our collaborators at the UCSD medical school.
 - 2019-21: [morpheus.html Morpheus] is being integrated into GraalVM by Oracle.
 - 2020-21: Google exploring integration of a model from [sortinghat.html SortingHat] with TensorFlow Data Validation.
