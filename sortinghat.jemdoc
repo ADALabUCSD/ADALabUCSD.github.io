@@ -53,7 +53,7 @@ ACM SIGMOD 2019 DEEM Workshop | [papers/2019_DataPrepZoo_DEEM.pdf Paper PDF] and
 
 === Category Deduplication
 
-- An Empirical Study on the (Non-)Importance of Cleaning Categorical Duplicates before ML\n
+- How do Categorical Duplicates Affect ML? A New Benchmark and Empirical Analyses\n
 Vraj Shah, Thomas Parashos, and Arun Kumar\n 
 Under submission | [papers/TR_2022_CategDedup.pdf TechReport]
 
