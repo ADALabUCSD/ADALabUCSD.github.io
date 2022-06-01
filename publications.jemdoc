@@ -276,7 +276,7 @@ VLDB 2012 |
 [http://i.stanford.edu/hazy/staccato/download/ Code and Data]
 
 
-== Manuscripts, Articles, and Dissertations
+== Manuscripts and Articles
 
 - An Empirical Study on the (Non-)Importance of Cleaning Categorical Duplicates before ML\n
 Vraj Shah, Thomas Parashos, and Arun Kumar\n 
@@ -304,13 +304,24 @@ Arun Kumar\n
 ACM SIGMOD 2018 New Researcher Symposium Talk |
 [https://sigmod2018.org/nrs_slides/kumar.pdf Slides]
 
-- Learning Over Joins\n
-Arun Kumar. PhD Dissertation. UW-Madison 2016 |
-[papers/Dissertation_ArunKumar.pdf PDF] |
-[http://cseweb.ucsd.edu/csevideo/Arun.Kumar.mp4 Video of job talk at UCSD]\n
-+Wisconsin CS 2016 Graduate Student Research Award for best dissertation research+
-
 - A Survey of the Existing Landscape of ML Systems\n
 Arun Kumar, Robert McCann, Jeffrey Naughton, and Jignesh M. Patel\n
 UW-Madison Technical Report TR1827 |
 [papers/TR_2015_MSMSSurvey.pdf PDF]
+
+
+== Theses, and Dissertations
+
+- Query Optimizations for Deep Learning Systems\n
+Supun Nakandala. PhD Dissertation. UC San Diego. 2022 | 
+[papers/Dissertation_SupunNakandala.pdf PDF]
+
+- Write once, rewrite everywhere: A Unified Framework for Factorized Machine Learning\n
+David Justo. MS Thesis. UC San Diego. 2022 |
+[papers/Thesis_DavidJusto.pdf PDF]
+
+- Learning Over Joins\n
+Arun Kumar. PhD Dissertation. UW-Madison. 2016 |
+[papers/Dissertation_ArunKumar.pdf PDF] |
+[http://cseweb.ucsd.edu/csevideo/Arun.Kumar.mp4 Video of job talk at UCSD]\n
++Wisconsin CS 2016 Graduate Student Research Award for best dissertation research+
