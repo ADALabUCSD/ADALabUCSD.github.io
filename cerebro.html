@@ -2,14 +2,6 @@
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108628208-1"></script>
-<script>
- window.dataLayer = window.dataLayer || [];
- function gtag(){dataLayer.push(arguments);}
- gtag('js', new Date());
- gtag('config', 'UA-108628208-1');
-</script>
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
@@ -61,7 +53,8 @@ hyper-parameter settings. The common practice to choose these settings is to
 a central process in ML called <i>model selection</i>. This process is <i>inevitable</i> 
 because it is how one controls underfitting vs overfitting. 
 Model selection is a major bottleneck for adoption of DL among enterprises and 
-domain scientists due to both the <i>time spent</i> and <i>resource costs</i>.</p>
+domain scientists due to both the <i>time spent</i> and <i>resource costs</i>.
+</p>
 <p>In this project, we are building a first-of-its-kind model selection-first platform 
 for scalable DL that <i>raises model selection throughput without raising resource costs</i>. 
 Our target setting is <i>small clusters</i> (say, 10s of nodes), which covers a vast 
@@ -72,7 +65,8 @@ To satisfy all these desiderata, we have been building a suite of novel parallel
 execution approaches to enable resource-efficient scalabilty at <i>all levels of 
 the memory hierarchy</i>-clusters, cloud, local disks, DRAM, and GPU memory-and for 
 <i>all axes of scalability</i> in DL workloads: data sizes, model sizes, number of models
-and tasks, number of data subgroups, and more.</p>
+and tasks, number of data subgroups, and more.
+</p>
 <p>Check out the CIDR 2021 paper below for an overview of our vision for Cerebro. 
 Our techniques are inspired by classical lessons in RDBMS design and implementation
 and operations research, including <i>multi-query optimization</i>, <i>materialized views</i>,
@@ -81,120 +75,142 @@ execution approaches, including <i>model hopper</i> parallelism (MOP),
 <i>gradient accumulation</i> parallelism (GAP), <i>shard alternation</i> parallelism (SHARP), 
 model fusion, and DL feature materialization.
 All of our techniques are amenable to <i>non-disruptive integration</i> with existing
-DL frameworks such as TensorFlow and PyTorch, which makes practical adoption easier.</p>
+DL frameworks such as TensorFlow and PyTorch, which makes practical adoption easier.
+</p>
 <div class="infoblock">
 <div class="blockcontent">
-<p>Cerebro is open sourced under Apache License v2.0. Code and deatiled documentation are available here: <a href="https://adalabucsd.github.io/cerebro-system" target=_blank><b>Cerebro System</b></a></p>
+<p>Cerebro is open sourced under Apache License v2.0. Code and deatiled documentation are available here: <a href="https://adalabucsd.github.io/cerebro-system" target=&ldquo;blank&rdquo;><b>Cerebro System</b></a>
+</p>
 </div></div>
 <div class="infoblock">
 <div class="blockcontent">
-<p>Most recent long talk on overall system vision: <a href="https://www.youtube.com/watch?v=ERKyvLT4Wik" target=_blank><b>Youtube video</b></a>.</p>
+<p>Most recent long talk on overall system vision: <a href="https://www.youtube.com/watch?v=ERKyvLT4Wik" target=&ldquo;blank&rdquo;><b>Youtube video</b></a>.
+</p>
 </div></div>
 <h3>Overview Papers and Talks</h3>
 <ul>
 <li><p>Some Damaging Delusions of Deep Learning Practice (and How to Avoid Them)<br />
 Arun Kumar, Supun Nakandala, and Yuhao Zhang<br />
-KDD 2021 Deep Learning Day | <a href="papers/2021_DLDelusions_KDD.pdf" target=_blank>Extended Abstract PDF</a> 
-| <a href="papers/2021_DLDelusions_KDD_Slides.pdf" target=_blank>Talk slides</a>       
-| <a href="https://www.youtube.com/watch?v=UP9__WsfSuc" target=_blank>Talk video</a></p>
+KDD 2021 Deep Learning Day | <a href="papers/2021_DLDelusions_KDD.pdf" target=&ldquo;blank&rdquo;>Extended Abstract PDF</a> 
+| <a href="papers/2021_DLDelusions_KDD_Slides.pdf" target=&ldquo;blank&rdquo;>Talk slides</a>       
+| <a href="https://www.youtube.com/watch?v=UP9__WsfSuc" target=&ldquo;blank&rdquo;>Talk video</a>
+</p>
 </li>
 </ul>
 <ul>
 <li><p>Cerebro: A Layered Data Platform for Scalable Deep Learning<br />
 Arun Kumar, Supun Nakandala, Yuhao Zhang, Side Li, Advitya Gemawat, and Kabir Nagrecha<br />
-CIDR 2021 (Vision paper) | <a href="papers/2021_Cerebro_CIDR.pdf" target=_blank>Paper PDF</a> and <a href="papers/2021_Cerebro_CIDR.txt" target=_blank>BibTeX</a> | <a href="https://www.youtube.com/watch?v=8QfMvdlmdic" target=_blank>Talk video</a></p>
+CIDR 2021 (Vision paper) | <a href="papers/2021_Cerebro_CIDR.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> and <a href="papers/2021_Cerebro_CIDR.txt" target=&ldquo;blank&rdquo;>BibTeX</a> | <a href="https://www.youtube.com/watch?v=8QfMvdlmdic" target=&ldquo;blank&rdquo;>Talk video</a>
+</p>
 </li>
 </ul>
 <ul>
 <li><p>Cerebro: Efficient and Reproducible Model Selection on Deep Learning Systems<br />
 Supun Nakandala, Yuhao Zhang, and Arun Kumar<br />
-ACM SIGMOD 2019 DEEM Workshop | <a href="papers/2019_Cerebro_DEEM.pdf" target=_blank>Paper PDF</a> and <a href="papers/2019_Cerebro_DEEM.txt" target=_blank>BibTeX</a> | <a href="https://adalabucsd.github.io/research-blog/cerebro.html" target=_blank>Blog post</a></p>
+ACM SIGMOD 2019 DEEM Workshop | <a href="papers/2019_Cerebro_DEEM.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> and <a href="papers/2019_Cerebro_DEEM.txt" target=&ldquo;blank&rdquo;>BibTeX</a> | <a href="https://adalabucsd.github.io/research-blog/cerebro.html" target=&ldquo;blank&rdquo;>Blog post</a>
+</p>
 </li>
 </ul>
 <h3>Transfer Learning</h3>
 <ul>
 <li><p>Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets<br />
 Supun Nakandala and Arun Kumar<br />
-SIGMOD 2022 | PDF coming soon | <a href="papers/TR_2021_Nautilus.pdf" target=_blank>TechReport</a> | Code release coming soon</p>
+SIGMOD 2022 | <a href="papers/2022_Nautilus_SIGMOD.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> | <a href="papers/TR_2021_Nautilus.pdf" target=&ldquo;blank&rdquo;>TechReport</a> | Code release coming soon
+</p>
 </li>
 </ul>
 <ul>
-<li><p>Also see <a href="https://adalabucsd.github.io/vista.html" target=_blank>Project Vista</a>.</p>
+<li><p>Also see <a href="https://adalabucsd.github.io/vista.html" target=&ldquo;blank&rdquo;>Project Vista</a>.
+</p>
 </li>
 </ul>
 <h3>Model Scalability</h3>
 <ul>
 <li><p>Hydra: A Data System for Large Multi-Model Deep Learning<br />
 Kabir Nagrecha and Arun Kumar<br />
-Under submission | <a href="https://arxiv.org/abs/2110.08633" target=_blank>TechReport</a></p>
+Under submission | <a href="https://arxiv.org/abs/2110.08633" target=&ldquo;blank&rdquo;>TechReport</a>
+</p>
 </li>
 </ul>
 <ul>
 <li><p>Model Parallel Model Selection for Deep Learning Systems<br />
 Kabir Nagrecha<br />
-SIGMOD 2021 (Student Research Competition Winner) | <a href="https://arxiv.org/abs/2107.06469" target=_blank>Arxiv</a></p>
+SIGMOD 2021 (Student Research Competition Winner) | <a href="https://arxiv.org/abs/2107.06469" target=&ldquo;blank&rdquo;>Arxiv</a>
+</p>
 </li>
 </ul>
 <h3>Data Scalability</h3>
 <ul>
 <li><p>Distributed Deep Learning on Data Systems: A Comparative Analysis of Approaches<br />
 Yuhao Zhang, Frank McQuillan, Nandish Jayaram, Nikhil Kak, Ekta Khanna, Orhan Kislal, Domino Valdano, and Arun Kumar<br />
-VLDB 2021 | <a href="papers/2021_Cerebro-DS.pdf" target=_blank>Paper PDF</a> | <a href="papers/TR_2021_Cerebro-DS.pdf" target=_blank>TechReport</a> | <a href="https://youtu.be/SK9wTzO4K7M" target=_blank>Talk video</a> | <a href="https://github.com/makemebitter/cerebro-ds/" target=_blank>Code release</a></p>
+VLDB 2021 | <a href="papers/2021_Cerebro-DS.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> | <a href="papers/TR_2021_Cerebro-DS.pdf" target=&ldquo;blank&rdquo;>TechReport</a> | <a href="https://youtu.be/SK9wTzO4K7M" target=&ldquo;blank&rdquo;>Talk video</a> | <a href="https://github.com/makemebitter/cerebro-ds/" target=&ldquo;blank&rdquo;>Code release</a>
+</p>
 </li>
 </ul>
 <ul>
 <li><p>Cerebro: A Data System for Optimized Deep Learning Model Selection<br />
 Supun Nakandala, Yuhao Zhang, and Arun Kumar<br />
-VLDB 2020 | <a href="papers/2020_Cerebro_VLDB.pdf" target=_blank>Paper PDF</a> and <a href="papers/2020_Cerebro_VLDB.txt" target=_blank>BibTeX</a> | <a href="papers/2020_Cerebro_VLDB_Errata.pdf" target=_blank>Errata</a> | <a href="papers/TR_2020_Cerebro.pdf" target=_blank>TechReport</a>
-| Talk videos: <a href="https://www.youtube.com/watch?v=8PJic5FStGs" target=_blank>Youtube</a> <a href="https://www.bilibili.com/video/av329339128?p=198" target=_blank>Bilibili</a>
-| <a href="https://adalabucsd.github.io/research-blog/cerebro.html" target=_blank>Blog post</a> | <a href="https://databricks.com/session_na20/resource-efficient-deep-learning-model-selection-on-apache-spark" target=_blank>SAIS Talk video</a>
-| <a href="https://adalabucsd.github.io/cerebro-system/" target=_blank>Source code and documentation</a></p>
+VLDB 2020 | <a href="papers/2020_Cerebro_VLDB.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> and <a href="papers/2020_Cerebro_VLDB.txt" target=&ldquo;blank&rdquo;>BibTeX</a> | <a href="papers/2020_Cerebro_VLDB_Errata.pdf" target=&ldquo;blank&rdquo;>Errata</a> | <a href="papers/TR_2020_Cerebro.pdf" target=&ldquo;blank&rdquo;>TechReport</a>
+| Talk videos: <a href="https://www.youtube.com/watch?v=8PJic5FStGs" target=&ldquo;blank&rdquo;>Youtube</a> <a href="https://www.bilibili.com/video/av329339128?p=198" target=&ldquo;blank&rdquo;>Bilibili</a>
+| <a href="https://adalabucsd.github.io/research-blog/cerebro.html" target=&ldquo;blank&rdquo;>Blog post</a> | <a href="https://databricks.com/session_na20/resource-efficient-deep-learning-model-selection-on-apache-spark" target=&ldquo;blank&rdquo;>SAIS Talk video</a>
+| <a href="https://adalabucsd.github.io/cerebro-system/" target=&ldquo;blank&rdquo;>Source code and documentation</a>
+</p>
 </li>
 </ul>
 <h3>New Abstractions and Interfaces</h3>
 <ul>
 <li><p>Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration<br />
 Liangde Li, Supun Nakandala, and Arun Kumar<br />
-VLDB 2021 Demo | <a href="papers/2021_Cerebro_VLDB_Demo.pdf" target=_blank>Paper PDF</a> | <a href="papers/TR_2021_Intermittent_HIL_MS.pdf" target=_blank>TechReport</a> | <a href="https://youtu.be/K3THQy5McXc" target=_blank>Video</a></p>
+VLDB 2021 Demo | <a href="papers/2021_Cerebro_VLDB_Demo.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> | <a href="papers/TR_2021_Intermittent_HIL_MS.pdf" target=&ldquo;blank&rdquo;>TechReport</a> | <a href="https://youtu.be/K3THQy5McXc" target=&ldquo;blank&rdquo;>Video</a>
+</p>
 </li>
 </ul>
 <ul>
 <li><p>Towards an Optimized GROUP BY Abstraction for Large-Scale Machine Learning<br />
 Side Li and Arun Kumar<br />
-VLDB 2021 | <a href="papers/2021_Kingpin_VLDB.pdf" target=_blank>Paper PDF</a> | <a href="papers/TR_2021_Kingpin.pdf" target=_blank>TechReport</a> | <a href="https://www.youtube.com/watch?v=OlTknBfBmvM" target=_blank>Talk video</a> | <a href="https://github.com/liside/Kingpin" target=_blank>Code Release</a></p>
+VLDB 2021 | <a href="papers/2021_Kingpin_VLDB.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> | <a href="papers/TR_2021_Kingpin.pdf" target=&ldquo;blank&rdquo;>TechReport</a> | <a href="https://www.youtube.com/watch?v=OlTknBfBmvM" target=&ldquo;blank&rdquo;>Talk video</a> | <a href="https://github.com/liside/Kingpin" target=&ldquo;blank&rdquo;>Code Release</a>
+</p>
 </li>
 </ul>
 <h3>Applications</h3>
 <ul>
 <li><p>The CNN Hip Accelerometer Posture (CHAP) Method for Classifying Sitting Patterns from Hip Accelerometers: A Validation Study<br />
 Mikael Anne Greenwood-Hickman, Supun Nakandala, Marta M. Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Paul R. Hibbing, Jingjing Zou, Andrea Z. LaCroix, Arun Kumar, and Loki Natarajan<br />
-Medicine and Science in Sports and Exercise Journal, 2021 | <a href="papers/2021_MSSE_CHAP.pdf" target=_blank>Paper PDF</a> | <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8516667/" target=_blank>On PubMed</a> | <a href="https://github.com/ADALabUCSD/DeepPostures" target=_blank>Code</a></p>
+Medicine and Science in Sports and Exercise Journal, 2021 | <a href="papers/2021_MSSE_CHAP.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> | <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8516667/" target=&ldquo;blank&rdquo;>On PubMed</a> | <a href="https://github.com/ADALabUCSD/DeepPostures" target=&ldquo;blank&rdquo;>Code</a>
+</p>
 </li>
 </ul>
 <ul>
 <li><p>Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification<br />
 Supun Nakandala, Marta Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Andrea LaCroix, Sheri Hartman, Dori Rosenberg, Jingjing Zou, Arun Kumar, and Loki Natarajan<br />
-Journal for the Measurement of Physical Behaviour, 2021 | <a href="papers/2021_JMPB_CNN.pdf" target=_blank>Paper PDF</a> and <a href="papers/2021_JMPB_CNN.txt" target=_blank>BibTeX</a> | <a href="https://github.com/ADALabUCSD/DeepPostures" target=_blank>Code</a></p>
+Journal for the Measurement of Physical Behaviour, 2021 | <a href="papers/2021_JMPB_CNN.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> and <a href="papers/2021_JMPB_CNN.txt" target=&ldquo;blank&rdquo;>BibTeX</a> | <a href="https://github.com/ADALabUCSD/DeepPostures" target=&ldquo;blank&rdquo;>Code</a>
+</p>
 </li>
 </ul>
 <h3>Student Contact</h3>
 <ul>
-<li><p>Supun Nakandala: snakanda [at] eng [dot] ucsd [dot] edu</p>
+<li><p>Supun Nakandala: snakanda [at] eng [dot] ucsd [dot] edu
+</p>
 </li>
-<li><p>Yuhao Zhang: yuz870 [at] eng [dot] ucsd [dot] edu</p>
+<li><p>Yuhao Zhang: yuz870 [at] eng [dot] ucsd [dot] edu
+</p>
 </li>
-<li><p>Kabir Nagrecha: knagrech [at] ucsd [dot] edu</p>
+<li><p>Kabir Nagrecha: knagrech [at] ucsd [dot] edu
+</p>
 </li>
-<li><p>Pradyumna Sridhara: prsridha [at] ucsd [dot] edu</p>
+<li><p>Pradyumna Sridhara: prsridha [at] ucsd [dot] edu
+</p>
 </li>
-<li><p>Vignesh Nanda Kumar: vnandakumar [at] ucsd [dot] edu</p>
+<li><p>Vignesh Nanda Kumar: vnandakumar [at] ucsd [dot] edu
+</p>
 </li>
 </ul>
 <h3>Acknowledgments</h3>
-<p>This project was/is supported in part by a Hellman Fellowship, the NIDDK of the NIH under award number R01DK114945, an NSF CAREER Award under award number 1942724, and gifts from VMware.</p>
+<p>This project was/is supported in part by a Hellman Fellowship, the NIDDK of the NIH under award number R01DK114945, an NSF CAREER Award under award number 1942724, and gifts from VMware.
+</p>
 <div id="footer">
 <div id="footer-text">
-HTML generated  by <a href="http://jemdoc.jaboc.net/" target=_blank>jemdoc</a>.
+Page generated 2022-07-12 15:51:10 PDT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
