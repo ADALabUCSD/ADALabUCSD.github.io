@@ -97,6 +97,18 @@ VLDB 2020 | [papers/2020_Cerebro_VLDB.pdf Paper PDF] and [papers/2020_Cerebro_VL
  | [https://adalabucsd.github.io/research-blog/cerebro.html Blog post] | [https://databricks.com/session_na20/resource-efficient-deep-learning-model-selection-on-apache-spark SAIS Talk video]
 | [https://adalabucsd.github.io/cerebro-system/ Source code and documentation]
 
+=== New Backend Extensions ([https://cseweb.ucsd.edu/classes/fa21/cse234-a/index.html CSE 234 Fall 2021] Projects)
+
+- Integrating Cerebro with Ray\n
+Abhishek Gupta and Rishikesh Ingale\n
+[papers/TR_2022_CSE234_CerebroRay.pdf TechReport] |
+[https://github.com/Abhishek2304/Cerebro-System-Ray Code Release]
+
+- Integrating Cerebro with Dask\n
+Vignesh Nanda Kumar and Pratik Ratadiya\n
+[papers/TR_2022_CSE234_CerebroDask.pdf TechReport] | 
+[https://github.com/VigneshN1997/cerebro-system Code Release]
+
 === New Abstractions and Interfaces
 
 - Intermittent Human-in-the-Loop Model Selection using Cerebro: A Demonstration\n
