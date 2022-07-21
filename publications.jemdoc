@@ -292,13 +292,24 @@ Under submission | [papers/TR_2021_Hydra.pdf TechReport]
 
 - Integrating Cerebro with Ray\n
 Abhishek Gupta and Rishikesh Ingale\n
-[papers/TR_2022_CSE234_CerebroRay.pdf TechReport] |
+[papers/TR_2022_CSE234_CerebroRay.pdf CSE 234 Project TechReport] |
 [https://github.com/Abhishek2304/Cerebro-System-Ray Code Release]
 
 - Integrating Cerebro with Dask\n
 Vignesh Nanda Kumar and Pratik Ratadiya\n
-[papers/TR_2022_CSE234_CerebroDask.pdf TechReport] |
+[papers/TR_2022_CSE234_CerebroDask.pdf CSE 234 Project TechReport] |
 [https://github.com/VigneshN1997/cerebro-system Code Release]
+
+- Categorical Data Deduplication\n
+Soham Pachpande and Gehan Chopade\n
+[papers/TR_2022_CSE234_CategDedup.pdf CSE 234 Project TechReport] |
+[https://github.com/sohampachpande/data-deduplication Code, Data, and Pre-trained Models on GitHub]
+
+- Bringing ML-based Feature Type Inference to OpenML\n
+Ryan Tran and Victor Zhu\n
+[papers/TR_2022_CSE234_OpenML.pdf CSE 234 Project TechReport] |
+[https://github.com/bobotran/SortingHatLib Code Release on GitHub] |
+[https://pypi.org/project/sortinghatinf/ Package on PyPi]
 
 - Letter from the Rising Star Award Winner\n
 Arun Kumar\n

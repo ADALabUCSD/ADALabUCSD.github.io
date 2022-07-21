@@ -49,14 +49,16 @@ The grunt work of data prep involves diverse tasks such as identifying features
 types for ML, standardizing and cleaning feature values, and feature transformations. 
 This reduces data scientists&rsquo; productivity and raises costs. It is also a major
 impediment to the effectiveness of emerging industrial end-to-end AutoML platforms 
-that build ML models on millions of datasets for enterprises, Web companies, and more.</p>
+that build ML models on millions of datasets for enterprises, Web companies, and more.
+</p>
 <p>To tackle the above challenge, we envision a new line of research to dramatically 
 reduce the human effort needed in data prep for ML, as well as to accurately benchmark
 the automation of data prep in AutoML platforms: <i>create benchmarks and labeled datasets</i> 
 and <i>use ML to automate ML data prep</i>. We abstract a series of specific and ubiquitous 
 ML data prep tasks and formalize them as prediction tasks. 
 We present the <i>ML Data Prep Zoo</i>, a community-led repository of our benchmark 
-labeled datasets and pre-trained ML models for such ML data prep tasks.</p>
+labeled datasets and pre-trained ML models for such ML data prep tasks.
+</p>
 <p>So far, we have applied the above philosophy to a gateway step in ML data prep for 
 tabular data: <i>ML Schema Extraction</i>. Datasets are typically exported from DBMSs into 
 tools such as Python as CSV files. This creates a semantic gap between attribute types 
@@ -66,14 +68,17 @@ manually extract the ML schema, which is tedious, slow, and error-prone.
 We cast this task as a multi-class ML classification problem for the first time and 
 allow users to quickly dispose of easy features, repriortize their effort towards 
 features that need more human attention, and enable AutoML platforms to more accurately
-and robustly identify feature types, which in turn boosts their downstream model building.</p>
+and robustly identify feature types, which in turn boosts their downstream model building.
+</p>
 <div class="infoblock">
 <div class="blockcontent">
-<p>All of our labeled datasets, pre-trained models, code, and documentation are available here: <a href="https://github.com/pvn25/ML-Data-Prep-Zoo" target=&ldquo;blank&rdquo;><b>ML Data Prep Zoo</b></a></p>
+<p>All of our labeled datasets, pre-trained models, code, and documentation are available here: <a href="https://github.com/pvn25/ML-Data-Prep-Zoo" target=&ldquo;blank&rdquo;><b>ML Data Prep Zoo</b></a>
+</p>
 </div></div>
 <div class="infoblock">
 <div class="blockcontent">
-<p>Recent long talk on vision and first task: <a href="https://www.youtube.com/watch?v=NVrYZQ3YCuw" target=&ldquo;blank&rdquo;><b>Youtube video</b></a>.</p>
+<p>Recent long talk on vision and first task: <a href="https://www.youtube.com/watch?v=NVrYZQ3YCuw" target=&ldquo;blank&rdquo;><b>Youtube video</b></a>.
+</p>
 </div></div>
 <h3>Overview Paper</h3>
 <ul>
@@ -81,42 +86,66 @@ and robustly identify feature types, which in turn boosts their downstream model
 Vraj Shah and Arun Kumar<br />
 ACM SIGMOD 2019 DEEM Workshop | <a href="papers/2019_DataPrepZoo_DEEM.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> and <a href="papers/2019_SortingHat_SIGMOD.txt" target=&ldquo;blank&rdquo;>BibTeX</a> | <a href="papers/TR_2019_DataPrepZoo.pdf" target=&ldquo;blank&rdquo;>TechReport</a>
 | <a href="https://adalabucsd.github.io/research-blog/research/2019/06/21/mldataprepzoo.html" target=&ldquo;blank&rdquo;>Blog post</a>
-| <a href="https://github.com/pvn25/ML-Data-Prep-Zoo" target=&ldquo;blank&rdquo;>Data Prep Zoo Repository on GitHub</a></p>
+| <a href="https://github.com/pvn25/ML-Data-Prep-Zoo" target=&ldquo;blank&rdquo;>Data Prep Zoo Repository on GitHub</a>
+</p>
 </li>
 </ul>
 <h3>Category Deduplication</h3>
 <ul>
 <li><p>How do Categorical Duplicates Affect ML? A New Benchmark and Empirical Analyses<br />
 Vraj Shah, Thomas Parashos, and Arun Kumar<br /> 
-Under submission | <a href="papers/TR_2022_CategDedup.pdf" target=&ldquo;blank&rdquo;>TechReport</a></p>
+Under submission | <a href="papers/TR_2022_CategDedup.pdf" target=&ldquo;blank&rdquo;>TechReport</a>
+</p>
+</li>
+</ul>
+<ul>
+<li><p>Categorical Data Deduplication<br />
+Soham Pachpande and Gehan Chopade<br />
+<a href="papers/TR_2022_CSE234_CategDedup.pdf" target=&ldquo;blank&rdquo;>CSE 234 Project TechReport</a> |
+<a href="https://github.com/sohampachpande/data-deduplication" target=&ldquo;blank&rdquo;>Code, Data, and Pre-trained Models on GitHub</a>
+</p>
 </li>
 </ul>
 <h3>Feature Type Inference</h3>
 <ul>
 <li><p>Towards Benchmarking Feature Type Inference for AutoML Platforms<br />
 Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar<br />
-ACM SIGMOD 2021 | <a href="papers/2021_SortingHat_SIGMOD.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> | <a href="papers/TR_2021_SortingHat.pdf" target=&ldquo;blank&rdquo;>TechReport</a> | Talk Videos: <a href="https://youtu.be/KAs-uU59AEM" target=&ldquo;blank&rdquo;>Short Talk</a> <a href="https://youtu.be/dpx74zQyU3k" target=&ldquo;blank&rdquo;>Long Talk</a> | <a href="https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference" target=&ldquo;blank&rdquo;>Data, Code, and Pre-trained Models on GitHub</a> | <a href="https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference/Library" target=&ldquo;blank&rdquo;>Python library</a></p>
+ACM SIGMOD 2021 | <a href="papers/2021_SortingHat_SIGMOD.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> | <a href="papers/TR_2021_SortingHat.pdf" target=&ldquo;blank&rdquo;>TechReport</a> | Talk Videos: <a href="https://youtu.be/KAs-uU59AEM" target=&ldquo;blank&rdquo;>Short Talk</a> <a href="https://youtu.be/dpx74zQyU3k" target=&ldquo;blank&rdquo;>Long Talk</a> | <a href="https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference" target=&ldquo;blank&rdquo;>Data, Code, and Pre-trained Models on GitHub</a> | <a href="https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference/Library" target=&ldquo;blank&rdquo;>Python library</a>
+</p>
+</li>
+</ul>
+<ul>
+<li><p>Bringing ML-based Feature Type Inference to OpenML<br />
+Ryan Tran and Victor Zhu<br />
+<a href="papers/TR_2022_CSE234_OpenML.pdf" target=&ldquo;blank&rdquo;>CSE 234 Project TechReport</a> | 
+<a href="https://github.com/bobotran/SortingHatLib" target=&ldquo;blank&rdquo;>Code Release on GitHub</a> |
+<a href="https://pypi.org/project/sortinghatinf/" target=&ldquo;blank&rdquo;>Package on PyPi</a>
+</p>
 </li>
 </ul>
 <ul>
 <li><p>Improving Feature Type Inference Accuracy of TFDV with SortingHat<br />
 Vraj Shah, Kevin Yang, and Arun Kumar<br />
-<a href="papers/TR_2020_TFDV.pdf" target=&ldquo;blank&rdquo;>TechReport</a></p>
+<a href="papers/TR_2020_TFDV.pdf" target=&ldquo;blank&rdquo;>TechReport</a>
+</p>
 </li>
 </ul>
 <ul>
 <li><p>Towards Semi-Automatic Embedded Data Type Inference<br />
 Jonathan Lacanlale, Vraj Shah, and Arun Kumar<br />
-<a href="papers/TR_2019_Jonathan.pdf" target=&ldquo;blank&rdquo;>TechReport</a></p>
+<a href="papers/TR_2019_Jonathan.pdf" target=&ldquo;blank&rdquo;>TechReport</a>
+</p>
 </li>
 </ul>
 <h3>Student Contact</h3>
-<p>Vraj Shah: vps002 [at] eng [dot] ucsd [dot] edu</p>
+<p>Vraj Shah: vps002 [at] eng [dot] ucsd [dot] edu
+</p>
 <h3>Acknowledgments</h3>
-<p>This project is supported in part by a Faculty Research Award from Google Research, an Amazon Research Award, and the NSF Convergence Accelerator under award OIA-2040727.</p>
+<p>This project is supported in part by a Faculty Research Award from Google Research, an Amazon Research Award, and the NSF Convergence Accelerator under award OIA-2040727.
+</p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2022-06-01 09:00:15 PDT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2022-07-20 18:24:21 PDT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>

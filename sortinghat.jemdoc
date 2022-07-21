@@ -57,11 +57,22 @@ ACM SIGMOD 2019 DEEM Workshop | [papers/2019_DataPrepZoo_DEEM.pdf Paper PDF] and
 Vraj Shah, Thomas Parashos, and Arun Kumar\n 
 Under submission | [papers/TR_2022_CategDedup.pdf TechReport]
 
+- Categorical Data Deduplication\n
+Soham Pachpande and Gehan Chopade\n
+[papers/TR_2022_CSE234_CategDedup.pdf CSE 234 Project TechReport] |
+[https://github.com/sohampachpande/data-deduplication Code, Data, and Pre-trained Models on GitHub]
+
 === Feature Type Inference
 
 - Towards Benchmarking Feature Type Inference for AutoML Platforms\n
 Vraj Shah, Jonathan Lacanlale, Premanand Kumar, Kevin Yang, and Arun Kumar\n
 ACM SIGMOD 2021 | [papers/2021_SortingHat_SIGMOD.pdf Paper PDF] | [papers/TR_2021_SortingHat.pdf TechReport] | Talk Videos: [https://youtu.be/KAs-uU59AEM Short Talk] [https://youtu.be/dpx74zQyU3k Long Talk] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference Data, Code, and Pre-trained Models on GitHub] | [https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/MLFeatureTypeInference/Library Python library]
+
+- Bringing ML-based Feature Type Inference to OpenML\n
+Ryan Tran and Victor Zhu\n
+[papers/TR_2022_CSE234_OpenML.pdf CSE 234 Project TechReport] | 
+[https://github.com/bobotran/SortingHatLib Code Release on GitHub] |
+[https://pypi.org/project/sortinghatinf/ Package on PyPi]
 
 - Improving Feature Type Inference Accuracy of TFDV with SortingHat\n
 Vraj Shah, Kevin Yang, and Arun Kumar\n
