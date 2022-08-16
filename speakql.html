@@ -2,14 +2,6 @@
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108628208-1"></script>
-<script>
- window.dataLayer = window.dataLayer || [];
- function gtag(){dataLayer.push(arguments);}
- gtag('js', new Date());
- gtag('config', 'UA-108628208-1');
-</script>
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
@@ -51,44 +43,60 @@
 <td align="left"><h2>Project SpeakQL</h2>
 </td></tr></table>
 <h3>Overview</h3>
-<p>Natural language and touch-based interfaces are making data querying significantly easier. But typed SQL remains the gold standard for query sophistication although it is painful in querying environments that are touch-oriented (e.g., iPad or iPhone) and essentially impossible in speech-driven environments (e.g., Amazon Echo). Recent advancements in automatic speech recognition (ASR) raise the tantalizing possibility of bridging this gap by enabling <i>spoken queries</i> over structured data.</p>
-<p>In this project, we envision and prototype a series of new spoken data querying systems. Going beyond the current capability of personal digital assistants such as Alexa in answering simple natural language queries over well-curated in-house knowledge base schemas, we aim to enable more sophisticated spoken queries over arbitrary application database schemas.</p>
-<p>Our first and current focus is on designing and implementing a new speech-driven query interface and system for a useful subset of regular SQL. Our goal is near-perfect accuracy and near-real-time latency for transcribing spoken SQL queries. Our plan to achieve this goal is by synthesizing and innovating upon ideas from ASR, natural language processing (NLP), information retrieval, database systems, and HCI to devise a modular end-to-end system architecture that combines new automated algorithms with user interactions.</p>
+<p>Natural language and touch-based interfaces are making data querying significantly easier. But typed SQL remains the gold standard for query sophistication although it is painful in querying environments that are touch-oriented (e.g., iPad or iPhone) and essentially impossible in speech-driven environments (e.g., Amazon Echo). Recent advancements in automatic speech recognition (ASR) raise the tantalizing possibility of bridging this gap by enabling <i>spoken queries</i> over structured data.
+</p>
+<p>In this project, we envision and prototype a series of new spoken data querying systems. Going beyond the current capability of personal digital assistants such as Alexa in answering simple natural language queries over well-curated in-house knowledge base schemas, we aim to enable more sophisticated spoken queries over arbitrary application database schemas.
+</p>
+<p>Our first and current focus is on designing and implementing a new speech-driven query interface and system for a useful subset of regular SQL. Our goal is near-perfect accuracy and near-real-time latency for transcribing spoken SQL queries. Our plan to achieve this goal is by synthesizing and innovating upon ideas from ASR, natural language processing (NLP), information retrieval, database systems, and HCI to devise a modular end-to-end system architecture that combines new automated algorithms with user interactions.
+</p>
 <div class="infoblock">
 <div class="blockcontent">
-<p><b>Note</b>: We are looking for volunteers and/or collaborators, especially enterprise users of SQL, say, in consulting or banking or insurance, to try the alpha version of SpeakQL by participating in a simple one-time user study and survey. Please contact us if you are interested in participating or even if you are just interested in trying out SpeakQL.</p>
+<p><b>Note</b>: We are looking for volunteers and/or collaborators, especially enterprise users of SQL, say, in consulting or banking or insurance, to try the alpha version of SpeakQL by participating in a simple one-time user study and survey. Please contact us if you are interested in participating or even if you are just interested in trying out SpeakQL.
+</p>
 </div></div>
 <h3>Downloads (Paper, Code, Data, etc.)</h3>
 <ul>
+<li><p>Structured Data Representation in Natural Language Interfaces<br />
+Yutong Shao, Arun Kumar, and Ndapandula Nakashole<br />
+IEEE Data Engineering Bulletin 2022 (Invited) | PDF coming soon
+</p>
+</li>
+</ul>
+<ul>
 <li><p>SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data<br />
 Vraj Shah, Side Li, Arun Kumar, and Lawrence Saul<br />
-ACM SIGMOD 2020 | <a href="papers/2020_SpeakQL_SIGMOD.pdf" target=_blank>Paper PDF</a> and <a href="papers/2020_SpeakQL_SIGMOD.txt" target=_blank>BibTeX</a> |
-<a href="papers/TR_2020_SpeakQL.pdf" target=_blank>TechReport</a> | 
-<a href="https://adalabucsd.github.io/research-blog/research/2020/06/14/speakql.html" target=_blank>Blog post</a> | 
-<a href="https://drive.google.com/drive/folders/1tSxUTu2A7qy8fPtB81RnwkyakgykZ3iw?usp=sharing" target=_blank>Dataset on Drive</a></p>
+ACM SIGMOD 2020 | <a href="papers/2020_SpeakQL_SIGMOD.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> and <a href="papers/2020_SpeakQL_SIGMOD.txt" target=&ldquo;blank&rdquo;>BibTeX</a> |
+<a href="papers/TR_2020_SpeakQL.pdf" target=&ldquo;blank&rdquo;>TechReport</a> | 
+<a href="https://adalabucsd.github.io/research-blog/research/2020/06/14/speakql.html" target=&ldquo;blank&rdquo;>Blog post</a> | 
+<a href="https://drive.google.com/drive/folders/1tSxUTu2A7qy8fPtB81RnwkyakgykZ3iw?usp=sharing" target=&ldquo;blank&rdquo;>Dataset on Drive</a>
+</p>
 </li>
 </ul>
 <ul>
 <li><p>Demonstration of SpeakQL: Speech-driven Multimodal Querying of Structured Data<br />
 Vraj Shah, Side Li, Kevin Yang, Arun Kumar, and Lawrence Saul<br />
-ACM SIGMOD 2019 Demo | <a href="papers/2019_SpeakQL_SIGMOD.pdf" target=_blank>Paper PDF</a> and <a href="papers/2019_SpeakQL_SIGMOD.txt" target=_blank>BibTeX</a> | <a href="https://vimeo.com/295693078" target=_blank>Video</a></p>
+ACM SIGMOD 2019 Demo | <a href="papers/2019_SpeakQL_SIGMOD.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> and <a href="papers/2019_SpeakQL_SIGMOD.txt" target=&ldquo;blank&rdquo;>BibTeX</a> | <a href="https://vimeo.com/295693078" target=&ldquo;blank&rdquo;>Video</a>
+</p>
 </li>
 </ul>
 <ul>
 <li><p>SpeakQL: Towards Speech-driven Multi-modal Querying<br />
 Dharmil Chandarana, Vraj Shah, Arun Kumar, and Lawrence Saul<br />
 ACM SIGMOD 2017 HILDA Workshop |
-<a href="papers/2017_SpeakQL_HILDA.pdf" target=_blank>Paper PDF</a> and <a href="papers/2017_SpeakQL_SIGMOD.txt" target=_blank>BibTeX</a></p>
+<a href="papers/2017_SpeakQL_HILDA.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> and <a href="papers/2017_SpeakQL_SIGMOD.txt" target=&ldquo;blank&rdquo;>BibTeX</a>
+</p>
 </li>
 </ul>
 <h3>Student Contact</h3>
 <p>Kyle Luoma: kluoma [at] ucsd [dot] edu<br />
-Vraj Shah: vps002 [at] eng [dot] ucsd [dot] edu</p>
+Vraj Shah: vps002 [at] eng [dot] ucsd [dot] edu
+</p>
 <h3>Acknowledgments</h3>
-<p>This project is funded in part by the NSF under award IIS-1816701.</p>
+<p>This project is funded in part by the NSF under award IIS-1816701.
+</p>
 <div id="footer">
 <div id="footer-text">
-HTML generated  by <a href="http://jemdoc.jaboc.net/" target=_blank>jemdoc</a>.
+Page generated 2022-08-16 07:37:58 PDT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>

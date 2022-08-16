@@ -20,6 +20,10 @@ Our first and current focus is on designing and implementing a new speech-driven
 
 === Downloads (Paper, Code, Data, etc.)
 
+- Structured Data Representation in Natural Language Interfaces\n
+Yutong Shao, Arun Kumar, and Ndapandula Nakashole\n
+IEEE Data Engineering Bulletin 2022 (Invited) | PDF coming soon
+
 - SpeakQL: Towards Speech-driven Multimodal Querying of Structured Data\n
 Vraj Shah, Side Li, Arun Kumar, and Lawrence Saul\n
 ACM SIGMOD 2020 | [papers/2020_SpeakQL_SIGMOD.pdf Paper PDF] and [papers/2020_SpeakQL_SIGMOD.txt BibTeX] |
