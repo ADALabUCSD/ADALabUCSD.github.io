@@ -3,6 +3,14 @@
 
 == Peer-reviewed Publications
 
+- CHAP-child: An open source method for estimating sit-to-stand transitions and seden- tary bout patterns from hip accelerometers among children\n
+Jordan A. Carlson et al. (15 authors)\n
+International Journal of Behavioral Nutrition and Physical Activity 2022 | PDF coming soon | [https://adalabucsd.github.io/DeepPostures Code, Models, and Documentation]
+
+- CHAP-Adult: A Reliable and Valid Algorithm to Classify Sitting and Measure Sitting Patterns Using Data from Hip- Worn Accelerometers in Adults Aged 35\+\n
+John Bellettiere et al. (14 authors)\n
+Journal for the Measurement of Physical Behaviour 2022 | PDF coming soon | [https://adalabucsd.github.io/DeepPostures Code, Models, and Documentation]
+
 - VLDB Scalable Data Science Category: The Inaugural Year\n
 Arun Kumar, Alon Halevy, and Nesime Tatbul\n
 ACM SIGMOD Record 2022 | [papers/2022_SDS_SIGMODRecord.pdf Paper PDF]
@@ -47,11 +55,11 @@ ACM SIGMOD 2021 Panel | [papers/2021_Panel_SIGMOD.pdf Paper PDF]
 
 - The CNN Hip Accelerometer Posture (CHAP) Method for Classifying Sitting Patterns from Hip Accelerometers: A Validation Study\n
 Mikael Anne Greenwood-Hickman, Supun Nakandala, Marta M. Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Paul R. Hibbing, Jingjing Zou, Andrea Z. LaCroix, Arun Kumar, and Loki Natarajan\n
-Medicine and Science in Sports and Exercise Journal, 2021 | [papers/2021_MSSE_CHAP.pdf Paper PDF] | [https://github.com/ADALabUCSD/DeepPostures Code]
+Medicine and Science in Sports and Exercise Journal, 2021 | [papers/2021_MSSE_CHAP.pdf Paper PDF] | [https://adalabucsd.github.io/DeepPostures Code, Models, and Documentation]
 
 - Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification\n
  Supun Nakandala, Marta Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Andrea LaCroix, Sheri Hartman, Dori Rosenberg, Jingjing Zou, Arun Kumar, and Loki Natarajan\n
- Journal for the Measurement of Physical Behaviour, 2021 | [papers/2021_JMPB_CNN.pdf Paper PDF] and [papers/2021_JMPB_CNN.txt BibTeX] | [https://github.com/ADALabUCSD/DeepPostures Code]
+ Journal for the Measurement of Physical Behaviour, 2021 | [papers/2021_JMPB_CNN.pdf Paper PDF] and [papers/2021_JMPB_CNN.txt BibTeX] | [https://adalabucsd.github.io/DeepPostures Code, Models, and Documentation]
 
 - Cerebro: A Layered Data Platform for Scalable Deep Learning\n
 Arun Kumar, Supun Nakandala, Yuhao Zhang, Side Li, Advitya Gemawat, and Kabir Nagrecha\n

@@ -66,7 +66,7 @@ CIDR 2021 (Vision paper) | [papers/2021_Cerebro_CIDR.pdf Paper PDF] and [papers/
 Supun Nakandala, Yuhao Zhang, and Arun Kumar\n
 ACM SIGMOD 2019 DEEM Workshop | [papers/2019_Cerebro_DEEM.pdf Paper PDF] and [papers/2019_Cerebro_DEEM.txt BibTeX] | [https://adalabucsd.github.io/research-blog/cerebro.html Blog post]
 
-=== Transfer Learning
+=== Scalable Transfer Learning
 
 - Nautilus: An Optimized System for Deep Transfer Learning over Evolving Training Datasets\n
 Supun Nakandala and Arun Kumar\n
@@ -121,13 +121,21 @@ VLDB 2021 | [papers/2021_Kingpin_VLDB.pdf Paper PDF] | [papers/TR_2021_Kingpin.p
 
 === Applications
 
+- CHAP-child: An open source method for estimating sit-to-stand transitions and seden- tary bout patterns from hip accelerometers among children\n
+Jordan A. Carlson et al. (15 authors)\n
+International Journal of Behavioral Nutrition and Physical Activity 2022 | PDF coming soon | | [https://adalabucsd.github.io/DeepPostures Code, Models, and Documentation]
+
+- CHAP-Adult: A Reliable and Valid Algorithm to Classify Sitting and Measure Sitting Patterns Using Data from Hip- Worn Accelerometers in Adults Aged 35\+\n
+John Bellettiere et al. (14 authors)\n
+Journal for the Measurement of Physical Behaviour 2022 | PDF coming soon | | [https://adalabucsd.github.io/DeepPostures Code, Models, and Documentation]
+
 - The CNN Hip Accelerometer Posture (CHAP) Method for Classifying Sitting Patterns from Hip Accelerometers: A Validation Study\n
 Mikael Anne Greenwood-Hickman, Supun Nakandala, Marta M. Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Paul R. Hibbing, Jingjing Zou, Andrea Z. LaCroix, Arun Kumar, and Loki Natarajan\n
-Medicine and Science in Sports and Exercise Journal, 2021 | [papers/2021_MSSE_CHAP.pdf Paper PDF] | [https://github.com/ADALabUCSD/DeepPostures Code]
+Medicine and Science in Sports and Exercise Journal, 2021 | [papers/2021_MSSE_CHAP.pdf Paper PDF] | [https://adalabucsd.github.io/DeepPostures Code, Models, and Documentation]
 
 - Application of Convolutional Neural Network Algorithms for Advancing Sedentary and Activity Bout Classification\n
 Supun Nakandala, Marta Jankowska, Fatima Tuz-Zahra, John Bellettiere, Jordan Carlson, Andrea LaCroix, Sheri Hartman, Dori Rosenberg, Jingjing Zou, Arun Kumar, and Loki Natarajan\n
-Journal for the Measurement of Physical Behaviour, 2021 | [papers/2021_JMPB_CNN.pdf Paper PDF] and [papers/2021_JMPB_CNN.txt BibTeX] | [https://github.com/ADALabUCSD/DeepPostures Code]
+Journal for the Measurement of Physical Behaviour, 2021 | [papers/2021_JMPB_CNN.pdf Paper PDF] and [papers/2021_JMPB_CNN.txt BibTeX] | [https://adalabucsd.github.io/DeepPostures Code, Models, and Documentation]
 
 === Student Contact
 
