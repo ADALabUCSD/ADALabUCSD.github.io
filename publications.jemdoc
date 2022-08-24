@@ -232,6 +232,10 @@ ACM SIGMOD 2016 |
 [papers/TR_2016_Hamlet.pdf TechReport] |
 [hamlet.html Code and Data]
 
+- Materialization Optimizations for Feature Selection Workloads\n
+Ce Zhang, Arun Kumar, and Christopher Re\n
+ACM TODS 2016 (Invited) | [papers/2016_Columbus_TODS.pdf Paper PDF]
+
 - Model Selection Management Systems: The Next Frontier of Advanced Analytics\n
 Arun Kumar, Robert McCann, Jeffrey Naughton, and Jignesh M. Patel\n
 ACM SIGMOD Record Dec 2015 Vision Track |
