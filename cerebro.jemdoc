@@ -78,7 +78,7 @@ SIGMOD 2022 | [papers/2022_Nautilus_SIGMOD.pdf Paper PDF] | [papers/TR_2021_Naut
 
 - Hydra: A Data System for Large Multi-Model Deep Learning\n
 Kabir Nagrecha and Arun Kumar\n
-Under submission | [https://arxiv.org/abs/2110.08633 TechReport]
+Under submission | [https://arxiv.org/abs/2110.08633 TechReport] | [https://github.com/knagrecha/hydra Code Release]
 
 - Model Parallel Model Selection for Deep Learning Systems\n
 Kabir Nagrecha\n
