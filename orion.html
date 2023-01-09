@@ -2,14 +2,6 @@
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108628208-1"></script>
-<script>
- window.dataLayer = window.dataLayer || [];
- function gtag(){dataLayer.push(arguments);}
- gtag('js', new Date());
- gtag('config', 'UA-108628208-1');
-</script>
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
@@ -51,40 +43,52 @@
 <td align="left"><h2>Project Orion</h2>
 </td></tr></table>
 <h3>Overview</h3>
-<p>While almost all ML toolkits assume that the input data for ML is a single table, many relational datasets in real-world advanced analytics applications are multi-table, typically connected by key-foreign key dependencies (KFKDs). This forces data scientists to join the base tables and <i>materialize</i> a single table. This strategy of learning <i>after</i> joins introduces redundancy in the data, which could lead to poorer end-to-end performance and maintenance overheads due to data duplication.</p>
-<p>In this project, we introduce the paradigm of learning <i>over</i> joins to avoid the need to materialize joins before ML. In particular, we introduce a novel technique we call “factorized learning” that decomposes ML computations and pushes them down through joins to the base tables, inspired by how RDBMSs push relational operations through joins. Focusing on a large class of ML models known as generalized linear models (GLMs) solved using gradient descent methods, we show factorized learning works, including at scale. We also analyze the performance of different alternative plans and devise RDBMS-style cost models. Extensive empirical analysis with different scale factors of data validate the performance and storage benefits of factorized learning and the accuracy of our cost models.</p>
-<p>We have protoyped Orion using user-defined functions in the PostgreSQL and Hive/Hadoop environments. Orion has been generalized and superseded by <a href="morpheus.html" target=_blank>Project Morpheus</a>.</p>
-<p>The ideas from this work have been protoyped and/or adopted for applications at LogicBlox and Microsoft.</p>
-<p><b>Santoku (Factorized learning and scoring in R)</b></p>
-<p>This toolkit is an extension of Orion that extends the idea of factorized learning to other ML models with categorical features such as Naive Bayes and TAN as well, and implement them in the popular R environment. We also extend the idea to ML inference by creating the “factorized scoring” technique and introduce capabilities to enable exploratory feature selection across different tables.</p>
+<p>While almost all ML toolkits assume that the input data for ML is a single table, many relational datasets in real-world advanced analytics applications are multi-table, typically connected by key-foreign key dependencies (KFKDs). This forces data scientists to join the base tables and <i>materialize</i> a single table. This strategy of learning <i>after</i> joins introduces redundancy in the data, which could lead to poorer end-to-end performance and maintenance overheads due to data duplication.
+</p>
+<p>In this project, we introduce the paradigm of learning <i>over</i> joins to avoid the need to materialize joins before ML. In particular, we introduce a novel technique we call “factorized learning” that decomposes ML computations and pushes them down through joins to the base tables, inspired by how RDBMSs push relational operations through joins. Focusing on a large class of ML models known as generalized linear models (GLMs) solved using gradient descent methods, we show factorized learning works, including at scale. We also analyze the performance of different alternative plans and devise RDBMS-style cost models. Extensive empirical analysis with different scale factors of data validate the performance and storage benefits of factorized learning and the accuracy of our cost models.
+</p>
+<p>We have protoyped Orion using user-defined functions in the PostgreSQL and Hive/Hadoop environments. Orion has been generalized and superseded by <a href="morpheus.html" target=&ldquo;blank&rdquo;>Project Morpheus</a>.
+</p>
+<p>The ideas from this work have been protoyped and/or adopted for applications at LogicBlox and Microsoft.
+</p>
+<p><b>Santoku (Factorized learning and scoring in R)</b>
+</p>
+<p>This toolkit is an extension of Orion that extends the idea of factorized learning to other ML models with categorical features such as Naive Bayes and TAN as well, and implement them in the popular R environment. We also extend the idea to ML inference by creating the “factorized scoring” technique and introduce capabilities to enable exploratory feature selection across different tables.
+</p>
 <h3>Downloads (Paper, Code, Data, etc.)</h3>
-<p><b>Orion</b></p>
+<p><b>Orion</b>
+</p>
 <ul>
 <li><p>Learning Generalized Linear Models Over Normalized Data<br />
 Arun Kumar, Jeffrey Naughton, and Jignesh M. Patel<br />
 ACM SIGMOD 2015 |
-<a href="papers/2015_Orion_SIGMOD.pdf" target=_blank>Paper PDF</a></p>
+<a href="papers/2015_Orion_SIGMOD.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a>
+</p>
 </li>
 </ul>
 <ul>
-<li><p><a href="https://github.com/arunkk09/orion" target=_blank>Orion on GitHub</a> (source code for data synthesizer, Orion on PostgreSQL, and Orion on Hive)</p>
+<li><p><a href="https://github.com/arunkk09/orion" target=&ldquo;blank&rdquo;>Orion on GitHub</a> (source code for data synthesizer, Orion on PostgreSQL, and Orion on Hive)
+</p>
 </li>
 </ul>
-<p><b>Santoku</b></p>
+<p><b>Santoku</b>
+</p>
 <ul>
 <li><p>Demonstration of Santoku: Optimizing Machine Learning over Normalized Data<br />
 Arun Kumar, Mona Jalal, Boqun Yan, Jeffrey Naughton, and Jignesh M. Patel<br />
 VLDB 2015 (Demo) |
-<a href="papers/2015_Santoku_VLDB.pdf" target=_blank>Paper PDF</a></p>
+<a href="papers/2015_Santoku_VLDB.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a>
+</p>
 </li>
 </ul>
 <ul>
-<li><p><a href="https://github.com/arunkk09/santoku" target=_blank>Santoku on GitHub</a> (source code, including R Shiny-based GUI, and real datasets)</p>
+<li><p><a href="https://github.com/arunkk09/santoku" target=&ldquo;blank&rdquo;>Santoku on GitHub</a> (source code, including R Shiny-based GUI, and real datasets)
+</p>
 </li>
 </ul>
 <div id="footer">
 <div id="footer-text">
-HTML generated  by <a href="http://jemdoc.jaboc.net/" target=_blank>jemdoc</a>.
+Page generated 2023-01-09 09:45:51 PST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
