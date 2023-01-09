@@ -2,6 +2,11 @@
 = ADA Lab @ UCSD
 
 == Peer-reviewed Publications
+- Saturn: Resource-Aware Multi-Query Optimization for Multi-Large-Model Deep Learning Workloads\n
+Kabir Nagrecha and Arun Kumar\n
+Under Submission | [papers/Saturn_TR.pdf TechReport]
+
+
 - Lotan: Bridging the Gap between GNNs and Scalable Graph Analytics Engines\n
 Yuhao Zhang and Arun Kumar\n
 Under Submission | [papers/TR_2022_Lotan.pdf TechReport]
