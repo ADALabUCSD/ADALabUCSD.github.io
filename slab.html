@@ -2,14 +2,6 @@
   "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108628208-1"></script>
-<script>
- window.dataLayer = window.dataLayer || [];
- function gtag(){dataLayer.push(arguments);}
- gtag('js', new Date());
- gtag('config', 'UA-108628208-1');
-</script>
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
@@ -51,21 +43,24 @@
 <td align="left"><h2>Scalable Linear Algebra Benchmarking (SLAB)</h2>
 </td></tr></table>
 <h3>Overview</h3>
-<p>The growing use of statistical and machine learning algorithms to analyze large datasets has given rise to new systems to scale such algorithms. But implementing new scalable algorithms in low-level languages is a painful process, especially for enterprise and scientific users. To mitigate this issue, a new breed of systems expose high-level bulk linear algebra (LA) primitives that are scalable. By composing such LA primitives, users can write analysis algorithms in a higher-level language, while the system handles scalability issues. But there is little work on a unified comparative evaluation of the scalability, efficiency, and effectiveness of such &lsquo;&lsquo;scalable LA systems.&rsquo;&rsquo; We take a major step towards filling this gap. We introduce a suite of LA-specific tests based on our analysis of the data access and communication patterns of LA workloads and their use cases. Using our tests, we perform a comprehensive empirical comparison of a few popular scalable LA systems: MADlib, MLlib, SystemML, ScaLAPACK, SciDB, and TensorFlow using both synthetic data and a large real-world dataset. Our study has revealed several scalability bottlenecks, unusual performance trends, and even bugs in some systems. Our findings have already led to improvements in SystemML, with other systems&rsquo; developers also expressing interest.</p>
+<p>The growing use of statistical and machine learning algorithms to analyze large datasets has given rise to new systems to scale such algorithms. But implementing new scalable algorithms in low-level languages is a painful process, especially for enterprise and scientific users. To mitigate this issue, a new breed of systems expose high-level bulk linear algebra (LA) primitives that are scalable. By composing such LA primitives, users can write analysis algorithms in a higher-level language, while the system handles scalability issues. But there is little work on a unified comparative evaluation of the scalability, efficiency, and effectiveness of such &lsquo;&lsquo;scalable LA systems.&rsquo;&rsquo; We take a major step towards filling this gap. We introduce a suite of LA-specific tests based on our analysis of the data access and communication patterns of LA workloads and their use cases. Using our tests, we perform a comprehensive empirical comparison of a few popular scalable LA systems: MADlib, MLlib, SystemML, ScaLAPACK, SciDB, and TensorFlow using both synthetic data and a large real-world dataset. Our study has revealed several scalability bottlenecks, unusual performance trends, and even bugs in some systems. Our findings have already led to improvements in SystemML, with other systems&rsquo; developers also expressing interest.
+</p>
 <h3>Downloads (Paper, Code, Data, etc.)</h3>
 <ul>
 <li><p>A Comparative Evaluation of Systems for Scalable Linear Algebra-based Analytics<br />
 Anthony Thomas and Arun Kumar<br />
 VLDB 2018/2019 (To appear) |
-<a href="http://www.vldb.org/pvldb/vol11/p2168-thomas.pdf" target=_blank>Paper PDF</a> |
-<a href="papers/TR_2018_SLAB.pdf" target=_blank>TechReport</a> | <a href="https://github.com/ADALabUCSD/SLAB" target=_blank>Code and Data Scripts on GitHub</a></p>
+<a href="http://www.vldb.org/pvldb/vol11/p2168-thomas.pdf" target=&ldquo;blank&rdquo;>Paper PDF</a> |
+<a href="papers/TR_2018_SLAB.pdf" target=&ldquo;blank&rdquo;>TechReport</a> | <a href="https://github.com/ADALabUCSD/SLAB" target=&ldquo;blank&rdquo;>Code and Data Scripts on GitHub</a>
+</p>
 </li>
 </ul>
 <h3>Student Contact</h3>
-<p>Anthony Thomas: ahthomas [at] eng [dot] ucsd [dot] edu</p>
+<p>Anthony Thomas: ahthomas [at] eng [dot] ucsd [dot] edu
+</p>
 <div id="footer">
 <div id="footer-text">
-HTML generated  by <a href="http://jemdoc.jaboc.net/" target=_blank>jemdoc</a>.
+Page generated 2023-01-09 09:45:51 PST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
