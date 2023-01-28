@@ -3,10 +3,6 @@
 
 == Peer-reviewed Publications
 
-- Lotan: Bridging the Gap between GNNs and Scalable Graph Analytics Engines\n
-Yuhao Zhang and Arun Kumar\n
-Under Submission | [papers/TR_2022_Lotan.pdf TechReport]
-
 - CHAP-child: An open source method for estimating sit-to-stand transitions and seden- tary bout patterns from hip accelerometers among children\n
 Jordan A. Carlson et al. (15 authors)\n
 International Journal of Behavioral Nutrition and Physical Activity 2022 | [papers/2022_JBNPA_CHAP.pdf Paper PDF] | [https://adalabucsd.github.io/DeepPostures Code, Models, and Documentation]
@@ -305,6 +301,14 @@ VLDB 2012 |
 
 
 == Manuscripts and Articles
+
+- Arun Kumar's contribution to "Reminiscences on Influential Papers"\n
+Pinar Tozun\n
+ACM SIGMOD Record 2023 | [https://sigmodrecord.org/publications/sigmodRecord/2212/pdfs/06_Reminiscences_Rabl.pdf Article PDF]
+
+- Lotan: Bridging the Gap between GNNs and Scalable Graph Analytics Engines\n
+Yuhao Zhang and Arun Kumar\n
+Under Submission | [papers/TR_2022_Lotan.pdf TechReport]
 
 - How do Categorical Duplicates Affect ML? A New Benchmark and Empirical Analyses\n
 Vraj Shah, Thomas Parashos, and Arun Kumar\n 
