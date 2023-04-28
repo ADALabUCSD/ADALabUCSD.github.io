@@ -72,11 +72,10 @@ or watch [https://www.youtube.com/watch?v=I8OUnzgfkWY *this talk video*].
 
 == Recent ADALab News
 
-- 2\/22: Huge congrats to Kabir on receiving a highly competitive [https://research.facebook.com/blog/2022/2/announcing-the-recipients-of-the-2022-meta-phd-research-fellowship/
-*Meta PhD Fellowship*], the first UCSD student to receive one in the program's 10-year history!
-- 12\/21: The Nautilus paper on optimizing deep transfer learning at scale, part of the [https://adalabucsd.github.io/cerebro.html *Cerebro*] project, is accepted to SIGMOD 2022.
-- 9\/21: Arun is tenured and promoted to Associate Professor at UC San Diego.
-- 8\/21: A new [https://adalabucsd.github.io/research-blog/research/2021/08/13/vldb2021.html *blog post*] summarizing the papers, talks, demo, and panel discussions at VLDB and KDD by ADALab members.
+- +New!+ 4\/23: Huge congrats to Dr. Supun Nakandala, the first PhD alumnus of the ADALab, 
+on being accorded the 2023 ACM SIGMOD Jim Gray Doctoral Dissertation Award! Supun is the 
+first UCSD student to receive this award and this is the first time this award goes to work 
+in the area of DB for ML / ML systems.
 
 Full list of lab news items here: [news.html *News*].\n
 
@@ -132,16 +131,10 @@ MS, CSE, UCSD\n
 Email: prsridha \[at\] ucsd \[dot\] edu\n
 ~~~
 
-~~~
-{}{img_left}{images/vignesh.jpeg}{}{100px}{}{}
-[https://vigneshn1997.github.io/ *Vignesh Nanda Kumar*]\n
-MS, CSE, UCSD\n
-Email: vnandakumar \[at\] ucsd \[dot\] edu\n
-~~~
-
 === Alumni
 
-- [https://scnakandala.github.io Supun Nakandala], PhD, CSE, UCSD, 2022. First employment; Databricks.
+- [https://vigneshn1997.github.io Vignesh Nanda Kumar], MS, CSE, UCSD, 2023. First employment: Service Now.
+- [https://scnakandala.github.io Supun Nakandala], PhD, CSE, UCSD, 2022. First employment: Databricks.
 - [https://pvn25.github.io Vraj Shah], PhD, CSE, UCSD, 2022. First employment: IBM Research Almaden.
 - Liangde Li, MS, CSE, UCSD, 2022. First employment: TigerGraph.
 - Tara Mirmira, MS, CSE, UCSD, 2022. First employment: PhD at UCSD.
