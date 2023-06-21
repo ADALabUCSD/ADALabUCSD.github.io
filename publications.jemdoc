@@ -3,6 +3,10 @@
 
 == Peer-reviewed Publications
 
+- Lotan: Bridging the Gap between GNNs and Scalable Graph Analytics Engines\n
+Yuhao Zhang and Arun Kumar\n
+VLDB 2023 (To appea) | Paper PDF coming soon | [papers/TR_2022_Lotan.pdf TechReport] | Code release coming soon
+
 - Database-Aware ASR Error Correction for Speech-to-SQL Parsing\n
 Yutong Shao, Arun Kumar, and Ndapandula Nakashole\n
 IEEE ICASSP 2023 | PDF coming soon
@@ -317,10 +321,6 @@ ACM SIGMOD Record 2023 | [https://sigmodrecord.org/publications/sigmodRecord/221
 - Design and Evaluation of an SQL-Based Dialect for Spoken Querying\n
 Kyle Luoma and Arun Kumar\n
 Under Submission | [papers/TR_2023_SpeakQL_Dialect.pdf TechReport]
-
-- Lotan: Bridging the Gap between GNNs and Scalable Graph Analytics Engines\n
-Yuhao Zhang and Arun Kumar\n
-Under Submission | [papers/TR_2022_Lotan.pdf TechReport]
 
 - How do Categorical Duplicates Affect ML? A New Benchmark and Empirical Analyses\n
 Vraj Shah, Thomas Parashos, and Arun Kumar\n 
