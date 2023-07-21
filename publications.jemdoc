@@ -5,7 +5,7 @@
 
 - Lotan: Bridging the Gap between GNNs and Scalable Graph Analytics Engines\n
 Yuhao Zhang and Arun Kumar\n
-VLDB 2023 | Paper PDF coming soon | [papers/TR_2023_Lotan.pdf TechReport] | [https://github.com/makemebitter/lotan Code Release] | [https://adalabucsd.github.io/research-blog/lotan.html Blog post]
+VLDB 2023 | [papers/2023_Lotan_VLDB.pdf Paper PDF] | [papers/TR_2023_Lotan.pdf TechReport] | [https://github.com/makemebitter/lotan Code Release] | [https://adalabucsd.github.io/research-blog/lotan.html Blog post]
 
 - Database-Aware ASR Error Correction for Speech-to-SQL Parsing\n
 Yutong Shao, Arun Kumar, and Ndapandula Nakashole\n
