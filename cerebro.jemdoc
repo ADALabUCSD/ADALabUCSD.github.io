@@ -68,13 +68,13 @@ ACM SIGMOD 2019 DEEM Workshop | [papers/2019_Cerebro_DEEM.pdf Paper PDF] and [pa
 
 === Model Scalability: Saturn and Hydra
 
-- Saturn: An Optimized Data System for Multi-Large-Model Deep LearningWorkloads\n
+- Saturn: An Optimized Data System for Multi-Large-Model Deep Learning Workloads\n
 Kabir Nagrecha and Arun Kumar\n
-Under Submission | [papers/TR_2023_Saturn.pdf TechReport]
+VLDB 2024 | PDF coming soon | [papers/TR_2023_Saturn.pdf TechReport] | [https://saturn.readthedocs.io/en/latest/index.html Code and Docs Release]
 
 - Hydra: A Data System for Large Multi-Model Deep Learning\n
 Kabir Nagrecha and Arun Kumar\n
-Under submission | [https://arxiv.org/abs/2110.08633 TechReport] | [https://github.com/knagrecha/hydra Code release]
+[https://arxiv.org/abs/2110.08633 TechReport] | [https://github.com/knagrecha/hydra Code release]
 
 - Model Parallel Model Selection for Deep Learning Systems\n
 Kabir Nagrecha\n
