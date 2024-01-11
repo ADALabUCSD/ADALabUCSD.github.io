@@ -3,6 +3,10 @@
 
 == Peer-reviewed Publications
 
+- Saturn: An Optimized Data System for Multi-Large-Model Deep Learning Workloads\n
+Kabir Nagrecha and Arun Kumar\n
+VLDB 2024 | PDF coming soon | [papers/TR_2023_Saturn.pdf TechReport] | [https://saturn.readthedocs.io/en/latest/index.html Code and Docs Release]
+
 - Lotan: Bridging the Gap between GNNs and Scalable Graph Analytics Engines\n
 Yuhao Zhang and Arun Kumar\n
 VLDB 2023 | [papers/2023_Lotan_VLDB.pdf Paper PDF] | [papers/TR_2023_Lotan.pdf TechReport] | [https://github.com/makemebitter/lotan Code Release] | [https://adalabucsd.github.io/research-blog/lotan.html Blog post]
@@ -314,25 +318,21 @@ VLDB 2012 |
 
 == Manuscripts and Articles
 
-- Saturn: An Optimized Data System for Multi-Large-Model Deep LearningWorkloads\n
-Kabir Nagrecha and Arun Kumar\n
-Under Submission | [papers/TR_2023_Saturn.pdf TechReport]
-
 - Arun Kumar's contribution to "Reminiscences on Influential Papers"\n
 Pinar Tozun\n
 ACM SIGMOD Record 2023 | [https://sigmodrecord.org/publications/sigmodRecord/2212/pdfs/06_Reminiscences_Rabl.pdf Article PDF]
-
-- Design and Evaluation of an SQL-Based Dialect for Spoken Querying\n
-Kyle Luoma and Arun Kumar\n
-Under Submission | [papers/TR_2023_SpeakQL_Dialect.pdf TechReport]
 
 - How do Categorical Duplicates Affect ML? A New Benchmark and Empirical Analyses\n
 Vraj Shah, Thomas Parashos, and Arun Kumar\n 
 Under submission | [papers/TR_2023_CategDedup.pdf TechReport]
 
-- Hydra: A Scalable and Optimized Data System for Large Multi-Model Deep Learning\n
+- Design and Evaluation of an SQL-Based Dialect for Spoken Querying\n
+Kyle Luoma and Arun Kumar\n
+[papers/TR_2023_SpeakQL_Dialect.pdf TechReport]
+
+- Hydra: A Data System for Large Multi-Model Deep Learning\n
 Kabir Nagrecha and Arun Kumar\n
-Under submission | [papers/TR_2021_Hydra.pdf TechReport]
+[https://arxiv.org/abs/2110.08633 TechReport] | [https://github.com/knagrecha/hydra Code release]
 
 - Integrating Cerebro with Ray\n
 Abhishek Gupta and Rishikesh Ingale\n
