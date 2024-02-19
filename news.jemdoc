@@ -3,9 +3,13 @@
 
 == News
 
-- +New!+ 6\/23: The Lotan paper on scaling graph neural networks by unifying DL tools and graph analytics engines, 
+- +New!+ 1\/24: Our paper on studying and benchmarking the impact of categorical duplicates on ML,
+part of the [https://adalabucsd.github.io/sortinghat.html *SortingHat*] project, is accepted to VLDB 2024!
+- +New!+ 11\/23: Our paper on [https://saturn.readthedocs.io/en/latest/ *Saturn*], on an optimized system to run finetuning \/ transfer 
+learning of multiple large DL models \/ LLMs is accepted to VLDB 2024!
+- 6\/23: The Lotan paper on scaling graph neural networks by unifying DL tools and graph analytics engines, 
 part of the [https://adalabucsd.github.io/cerebro.html *Cerebro*] project, is accepted to VLDB 2023.
-- +New!+ 4\/23: Huge congrats to Dr. Supun Nakandala, the first PhD alumnus of the ADALab, 
+- 4\/23: Huge congrats to Dr. Supun Nakandala, the first PhD alumnus of the ADALab, 
 on being accorded the 2023 ACM SIGMOD Jim Gray Doctoral Dissertation Award! Supun is the 
 first UCSD student to receive this award and this is the first time this award goes to work 
 in the area of DB for ML / ML systems.
