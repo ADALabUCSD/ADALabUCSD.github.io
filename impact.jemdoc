@@ -7,10 +7,14 @@
 *Note*: If our research software and\/or ideas have been helpful for your data analytics applications, we would love to hear from you on your use cases and feedback. We are also happy to mention your company\/organization in the list below.
 ~~~
 
-- 2021-22: OpenML, AutoGluon, and AWS are exploring integration of models and ideas from [sortinghat.html SortingHat] with their platforms.
-- 2019-21: [cerebro.html Cerebro] is being used to advance behavioral science research by our collaborators at the UCSD medical school.
-- 2019-21: [morpheus.html Morpheus] is being integrated into GraalVM by Oracle.
+#- 2023-now: Ideas from multiple projects built upon by RapidFire AI, Inc., a VC syndicate backed startup co-founded by Arun and Pradyumna.
+- 2022-23: Ideas from Saturn being explored for internal use by Netflix.
+- 2022-23: Ideas from Saturn's predecessor Hydra being used by UCSD computational physics researchers.
+- 2022-24: Ideas from Cerebro and Saturn being explored for internal use by Meta.
+- 2021-22: Models\/ideas from SortingHat being explored for adoption by OpenML, AutoGluon, and AWS.
 - 2020-21: Google exploring integration of a model from [sortinghat.html SortingHat] with TensorFlow Data Validation.
+- 2019-now: [cerebro.html Cerebro] being used to advance behavioral science research by our collaborators at  UCSD public health school.
+- 2019-21: [morpheus.html Morpheus] is being integrated into GraalVM by Oracle.
 - 2019-20: [cerebro.html Cerebro] ideas being integrated into Greenplum and MADlib by Pivotal.
 - 2019: [https://adalabucsd.github.io/papers/2017_BismarckBoltOnDP_SIGMOD.pdf Bolt-on DP-SGD] is being integrated with TensorFlow Privacy by Georgian Partners and Google.
 - 2018: [morpheus.html Morpheus] in Python explored for internal use by Avito of Russia (recommendation and other Web analytics).
