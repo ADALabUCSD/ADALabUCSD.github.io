@@ -3,7 +3,7 @@
 
 == Active Projects
 
-We have three active research projects across different parts of the ML application lifecycle:
+We have one active research project across different parts of the ML application lifecycle:
 
 ~~~
 {}{img_left}{images/cerebro.jpg}{}{80px}{65px}{}
@@ -12,19 +12,19 @@ A layered data platform for deep learning at scale on all axes--data, model, tas
 all kinds of execution backends.
 ~~~
 
-~~~
-{}{img_left}{images/sortinghat.jpg}{}{80px}{}{}
-[sortinghat.html *Project SortingHat*]\n
-Benchmark tasks, labeled datasets, models, and empirical evaluation of tools for automated 
-data preparation on ML platforms. 
-~~~
+#~~~
+#{}{img_left}{images/sortinghat.jpg}{}{80px}{}{}
+#[sortinghat.html *Project SortingHat*]\n
+#Benchmark tasks, labeled datasets, models, and empirical evaluation of tools for automated 
+#data preparation on ML platforms. 
+#~~~
 
-~~~
-{}{img_left}{images/speakql.jpg}{}{80px}{}{}
-[speakql.html *Project SpeakQL*]\n
-Speech-first querying interfaces, languages, and tools for relational databases powered 
-by deep learning-based automatic speech recognition.
-~~~
+#~~~
+#{}{img_left}{images/speakql.jpg}{}{80px}{}{}
+#[speakql.html *Project SpeakQL*]\n
+#Speech-first querying interfaces, languages, and tools for relational databases powered 
+#by deep learning-based automatic speech recognition.
+#~~~
 
 == Other Collaborative Work
 
