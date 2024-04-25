@@ -78,11 +78,6 @@ part of the [https://adalabucsd.github.io/sortinghat.html *SortingHat*] project,
 - +New!+ 11\/23: Our paper on [https://saturn.readthedocs.io/en/latest/ *Saturn*], on an optimized system to run finetuning \/ transfer
 learning of multiple large DL models \/ LLMs is accepted to VLDB 2024!
 
-- 4\/23: Huge congrats to Dr. Supun Nakandala, the first PhD alumnus of the ADALab, 
-on being accorded the 2023 ACM SIGMOD Jim Gray Doctoral Dissertation Award! Supun is the 
-first UCSD student to receive this award and this is the first time this award goes to work 
-in the area of DB for ML / ML systems.
-
 Full list of lab news items here: [news.html *News*].\n
 
 == Members
@@ -98,13 +93,6 @@ Office: CSE 3218
 ~~~
 
 === Graduate Students
-
-~~~
-{}{img_left}{images/kabir.png}{}{100px}{}{}
-[https://www.linkedin.com/in/kabir-nagrecha-952591152/ *Kabir Nagrecha*]\n
-PhD, CSE, UCSD\n
-Email: knagrech \[at\] ucsd \[dot\] edu
-~~~
 
 ~~~
 {}{img_left}{https://kyleluoma.github.io/assets/img/profile.jpg}{}{100px}{}{}
@@ -124,8 +112,9 @@ Office: CSE 3232
 
 === Alumni
 
+- [https://kabirnagrecha.com/ Kabir Nagrecha], PhD, CSE, UCSD, 2024. First employment: Netflix.
 - [https://yhzhang.info/ Yuhao Zhang], PhD, CSE, UCSD, 2023. First employment: Databricks.
-- [https://pradyumnasridhara.com/ Pradyumna Sridhara, MS, CSE, UCSD, 2023. First employment: UCSD.
+- [https://pradyumnasridhara.com/ Pradyumna Sridhara], MS, CSE, UCSD, 2023. First employment: UCSD.
 - [https://vigneshn1997.github.io Vignesh Nanda Kumar], MS, CSE, UCSD, 2023. First employment: Service Now.
 - [https://scnakandala.github.io Supun Nakandala], PhD, CSE, UCSD, 2022. First employment: Databricks.
 - [https://pvn25.github.io Vraj Shah], PhD, CSE, UCSD, 2022. First employment: IBM Research Almaden.
