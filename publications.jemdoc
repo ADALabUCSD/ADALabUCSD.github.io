@@ -5,7 +5,7 @@
 
 - How do Categorical Duplicates Affect ML? A New Benchmark and Empirical Analyses\n
 Vraj Shah, Thomas Parashos, and Arun Kumar\n 
-VLDB 2024 | PDF coming soon | [papers/TR_2023_CategDedup.pdf TechReport] | Code and Data coming soon
+VLDB 2024 | [papers/2024_CategDedup_VLDB.pdf Paper PDF] | [papers/TR_2023_CategDedup.pdf TechReport] | Code and Data coming soon
 
 - Saturn: An Optimized Data System for Multi-Large-Model Deep Learning Workloads\n
 Kabir Nagrecha and Arun Kumar\n
