@@ -72,10 +72,13 @@ or watch [https://www.youtube.com/watch?v=I8OUnzgfkWY *this talk video*].
 
 == Recent ADALab News
 
-- +New!+ 1\/24: Our paper on studying and benchmarking the impact of categorical duplicates on ML,
+- +New!+ 6\/24: Congrats to Yuhao on his ACM SIGMOD Distinguished PC Member award! 
+Arun also received an ACM SIGMOD Distinguished Associate Editor award. 
+
+- 1\/24: Our paper on studying and benchmarking the impact of categorical duplicates on ML,
 part of the [https://adalabucsd.github.io/sortinghat.html *SortingHat*] project, is accepted to VLDB 2024!
 
-- +New!+ 11\/23: Our paper on [https://saturn.readthedocs.io/en/latest/ *Saturn*], on an optimized system to run finetuning \/ transfer
+- 11\/23: Our paper on [https://saturn.readthedocs.io/en/latest/ *Saturn*], on an optimized system to run finetuning \/ transfer
 learning of multiple large DL models \/ LLMs is accepted to VLDB 2024!
 
 Full list of lab news items here: [news.html *News*].\n
