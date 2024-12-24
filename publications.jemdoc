@@ -4,8 +4,8 @@
 == Peer-reviewed Publications
 
 - SNAILS: Schema Naming Assessments for Improved LLM-based SQL Inference\n
-Kyle Luoma, and Arun Kumar,
-ACM SIGMOD 2025 | Paper coming soon | [https://www.github.com/KyleLuoma/SNAILS Code and Data] | [https://adalabucsd.github.io/research-blog/snails.html Blog Post]
+Kyle Luoma, and Arun Kumar\n
+ACM SIGMOD 2025 | Paper coming soon | [https://github.com/ADALabUCSD/ADALabUCSD.github.io/blob/master/papers/TR_2025_SNAILS.pdf Tech Report] | [https://www.github.com/KyleLuoma/SNAILS Code and Data] | [https://adalabucsd.github.io/research-blog/snails.html Blog Post] | [https://snails.jp8.dev Project Website]
 
 - How do Categorical Duplicates Affect ML? A New Benchmark and Empirical Analyses\n
 Vraj Shah, Thomas Parashos, and Arun Kumar\n 
