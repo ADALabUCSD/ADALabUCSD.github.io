@@ -72,14 +72,18 @@ or watch [https://www.youtube.com/watch?v=I8OUnzgfkWY *this talk video*].
 
 == Recent ADALab News
 
-- +New!+ 6\/24: Congrats to Yuhao on his ACM SIGMOD Distinguished PC Member award! 
+
+- +New!+ 12\/24: Our [https://snails.jp8.dev/ *SNAILS* paper] on defining, measuring, and benchmarking the impact of database schema naturalness 
+on LLM-based NL to SQL is accepted to ACM SIGMOD 2025!
+
+- +New!+ 8\/24: Arun receives a VLDB Early Career Research Contributions Award! 
+This is the first time this award goes to work in the area of deep learning systems. 
+
+- 7\/24: [papers/2024_AWESOME_CIKM.pdf Our paper] on using LLMs to augment query benchmark sets for 
+multi-model analytics, part of the AWESOME project, is accepted to ACM CIKM 2024!
+
+- 6\/24: Congrats to Yuhao on his ACM SIGMOD Distinguished PC Member award! 
 Arun also received an ACM SIGMOD Distinguished Associate Editor award. 
-
-- 1\/24: Our paper on studying and benchmarking the impact of categorical duplicates on ML,
-part of the [https://adalabucsd.github.io/sortinghat.html *SortingHat*] project, is accepted to VLDB 2024!
-
-- 11\/23: Our paper on [https://saturn.readthedocs.io/en/latest/ *Saturn*], on an optimized system to run finetuning \/ transfer
-learning of multiple large DL models \/ LLMs is accepted to VLDB 2024!
 
 Full list of lab news items here: [news.html *News*].\n
 
