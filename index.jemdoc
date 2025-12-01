@@ -72,18 +72,13 @@ or watch [https://www.youtube.com/watch?v=I8OUnzgfkWY *this talk video*].
 
 == Recent ADALab News
 
+- +New!+ 11\/25: Our [papers/2026_MICRO_ICDE.pdf *MICRO* paper] on formally defining and optimizing the first ever cross-store relational-graph join operator, a part of Project AWESOME, is accepted to IEEE ICDE 2026!
 
-- +New!+ 12\/24: Our [https://snails.jp8.dev/ *SNAILS* paper] on defining, measuring, and benchmarking the impact of database schema naturalness 
+- 12\/24: Our [https://snails.jp8.dev/ *SNAILS* paper] on defining, measuring, and benchmarking the impact of database schema naturalness 
 on LLM-based NL to SQL is accepted to ACM SIGMOD 2025!
 
-- +New!+ 8\/24: Arun receives a VLDB Early Career Research Contributions Award! 
+- 8\/24: Arun receives a VLDB Early Career Research Contributions Award! 
 This is the first time this award goes to work in the area of deep learning systems. 
-
-- 7\/24: [papers/2024_AWESOME_CIKM.pdf Our paper] on using LLMs to augment query benchmark sets for 
-multi-model analytics, part of the AWESOME project, is accepted to ACM CIKM 2024!
-
-- 6\/24: Congrats to Yuhao on his ACM SIGMOD Distinguished PC Member award! 
-Arun also received an ACM SIGMOD Distinguished Associate Editor award. 
 
 Full list of lab news items here: [news.html *News*].\n
 
@@ -109,38 +104,23 @@ Email: kluoma \[at\] ucsd \[dot\] edu\n
 Office: CSE 3232
 ~~~
 
-~~~
-{}{img_left}{images/xiuwen.jpeg}{}{100px}{}{}
-[https://xiz675.github.io/ *Xiuwen Zheng*]\n
-PhD, CSE, UCSD\n
-Email: xiz675 \[at\] ucsd \[dot\] edu\n
-Office: CSE 3232
-~~~
-
-~~~
-{}{img_left}{images/animesh.jpeg}{}{100px}{}{}
-[https://animeshk08.github.io/ *Animesh Kumar*]\n
-MS, CSE, UCSD\n
-Email: ank028 \[at\] ucsd \[dot\] edu\n
-Office: CSE 3232
-~~~
-
-
 
 
 === Alumni
 
+- [https://xiz675.github.io Xiuwen Zheng], MS, CSE, UCSD, 2025. First employment: IBM San Jose.
+- [https://animeshk08.github.io Animesh Kumar], MS, CSE, UCSD, 2025. First employment: Qualcomm.
 - [https://kabirnagrecha.com/ Kabir Nagrecha], PhD, CSE, UCSD, 2024. First employment: Netflix.
 - [https://yhzhang.info/ Yuhao Zhang], PhD, CSE, UCSD, 2023. First employment: Databricks.
 - [https://pradyumnasridhara.com/ Pradyumna Sridhara], MS, CSE, UCSD, 2023. First employment: UCSD.
 - [https://vigneshn1997.github.io Vignesh Nanda Kumar], MS, CSE, UCSD, 2023. First employment: Service Now.
-- [https://scnakandala.github.io Supun Nakandala], PhD, CSE, UCSD, 2022. First employment: Databricks.
 - [https://pvn25.github.io Vraj Shah], PhD, CSE, UCSD, 2022. First employment: IBM Research Almaden.
 - Liangde Li, MS, CSE, UCSD, 2022. First employment: TigerGraph.
+- [https://scnakandala.github.io Supun Nakandala], PhD, CSE, UCSD, 2022. First employment: Databricks.
 - Tara Mirmira, MS, CSE, UCSD, 2022. First employment: PhD at UCSD.
 - Advitya Gemawat, BS, HDSI, UCSD, 2021. First employment: Microsoft NERD AI.
 - [https://liside.github.io/ Side Li], MS, CSE, UCSD, 2021. First employment: Google.
-- Kabir Nagrecha, BS, CSE, UCSD, 2021. First employment: PhD at UCSD.
+- [https://kabirnagrecha.com/ Kabir Nagrecha], BS, CSE, UCSD, 2021. First employment: PhD at UCSD.
 - Shaoqing Yi, BS, HDSI and Math, UCSD, 2021. First employment: PhD at UC Berkeley.
 - Kevin Yang, BS, CSE, UCSD, 2020. First employment: MS at UPenn.
 - [https://davidmrdavid.github.io/about.html David Justo], MS, CSE, UCSD, 2019 (Co-advisor: Nadia Polikarpova). First employment: Microsoft.

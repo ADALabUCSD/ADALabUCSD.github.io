@@ -55,7 +55,7 @@ ACM SIGMOD 2019 DEEM Workshop | [papers/2019_DataPrepZoo_DEEM.pdf Paper PDF] and
 
 - How do Categorical Duplicates Affect ML? A New Benchmark and Empirical Analyses\n
 Vraj Shah, Thomas Parashos, and Arun Kumar\n 
-VLDB 2024 | [papers/2024_CategDedup_VLDB.pdf Paper PDF] | [papers/TR_2023_CategDedup.pdf TechReport] | Code and Data coming soon
+VLDB 2024 | [papers/2024_CategDedup_VLDB.pdf Paper PDF] | [papers/TR_2023_CategDedup.pdf TechReport] | [https://github.com/pvn25/CategDupsRepo Code and Data on GitHub]
 
 - Categorical Data Deduplication\n
 Soham Pachpande and Gehan Chopade\n

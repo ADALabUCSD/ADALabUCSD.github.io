@@ -3,9 +3,13 @@
 
 == Peer-reviewed Publications
 
+- MICRO: A Lightweight Middleware for Optimizing Cross-store Cross-model Graph-Relation Joins\n
+Xiuwen Zheng, Arun Kumar, and Amarnath Gupta\n
+IEEE ICDE 2026 | [papers/2026_MICRO_ICDE.pdf Paper PDF] | [https://github.com/xiz675/MICRO Code and Documentation] 
+
 - SNAILS: Schema Naming Assessments for Improved LLM-based SQL Inference\n
-Kyle Luoma, and Arun Kumar\n
-ACM SIGMOD 2025 | Paper coming soon | [papers/TR_2025_SNAILS.pdf TechReport] | [https://www.github.com/KyleLuoma/SNAILS Code and Data] | [https://adalabucsd.github.io/research-blog/snails.html Blog Post] | [https://snails.jp8.dev Project Website]
+Kyle Luoma and Arun Kumar\n
+ACM SIGMOD 2025 | [papers/2025_SNAILS_SIGMOD.pdf Paper PDF] | [papers/TR_2025_SNAILS.pdf TechReport] | [https://www.github.com/KyleLuoma/SNAILS Code and Data] | [https://adalabucsd.github.io/research-blog/snails.html Blog Post] | [https://snails.jp8.dev Project Website]
 
 - Generating Cross-model Analytics Workloads Using LLMs\n
 Xiuwen Zheng, Arun Kumar, and Amarnath Gupta\n
@@ -21,7 +25,7 @@ Journal of Sport and Health Science 2024 | [papers/2024_VO2max_JSHS.pdf Paper PD
 
 - How do Categorical Duplicates Affect ML? A New Benchmark and Empirical Analyses\n
 Vraj Shah, Thomas Parashos, and Arun Kumar\n 
-VLDB 2024 | [papers/2024_CategDedup_VLDB.pdf Paper PDF] | [papers/TR_2023_CategDedup.pdf TechReport] | Code and Data coming soon
+VLDB 2024 | [papers/2024_CategDedup_VLDB.pdf Paper PDF] | [papers/TR_2023_CategDedup.pdf TechReport] | [https://github.com/pvn25/CategDupsRepo Code and Data on GitHub]
 
 - Saturn: An Optimized Data System for Multi-Large-Model Deep Learning Workloads\n
 Kabir Nagrecha and Arun Kumar\n
