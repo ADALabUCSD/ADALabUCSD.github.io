@@ -30,16 +30,16 @@ members of the [http://ai.ucsd.edu/ Artificial Intelligence Group] and
 
 == Overview of Our Research
 
-The ADA lifecycle typically revolves around data scientists or ML engineers.
-Based on conversations with dozens of such data-related professionals, we
+The ADA lifecycle typically revolves around data scientists, ML\/AI engineers, and AI application developers.
+Based on conversations with dozens of such data\/AI professionals, we
 abstract the ADA lifecyle as follows.
-After identifying the tasks where ML/AI might benefit their application in
-terms of business impact or scientific insights, the data scientist steers
+After identifying the tasks where ML\/AI might benefit their application in
+terms of business impact or scientific insights, they steer
 three main processes, as illustrated below:
 
-- *Data Sourcing*: Identify, collect, clean, and organize data in to a form that can be used to train ML models.
-- *Model Building*: Perform /model selection/ with the data to obtain desired prediction functions.
-- *Model Deployment*: Integrate trained prediction functions with the application and oversee lifecycle.
+- *Data Sourcing*: Identify, collect, clean, and organize data in to a form that can be used to configure ML\/AI models.
+- *Building*: Configure ML\/AI models with the data via training and\/or prompting to craft desired prediction functions\/pipelines.
+- *Deployment*: Integrate said prediction functions\/pipelines with the application and oversee lifecycle.
 
 ~~~
 {}{img_left}{images/adalab2.png}{}{600px}{}{}
@@ -59,8 +59,8 @@ gamut of building new data systems, algorithms, empirical analysis, and theoreti
 analysis. All of our systems are released as open source software.
 
 We also enjoy interacting with, and learning from, practitioners---data
-scientists, ML/software engineers, and domain scientists---and working with them to
-help them adopt our systems and ideas.
+scientists, ML\/AI\/data\/software engineers, AI application developers, and 
+domain scientists---and working with them to help them adopt our systems and ideas.
 
 The list of current ADALab projects is here: [projects.html *Projects*].
 
