@@ -3,7 +3,10 @@
 
 == News
 
-- +New!+ 11\/25: Our [papers/2026_MICRO_ICDE.pdf *MICRO* paper] on formally defining and optimizing the first ever cross-store relational-graph join operator, a part of Project AWESOME, is accepted to IEEE ICDE 2026!
+- +New!+ 06/26: Arun has been promoted to Full Professor by UC San Diego.
+- +New!+ 04/26: Our [papers/2026_MICRO_ICDE.pdf *MICRO* paper] was accorded the Best Paper Award at IEEE ICDE 2026! Kudos to Xiuwen for soldiering on with this line of work despite multiple prior rejections, demonstrating the importance of perseverence in research.
+- +New!+ 04/26: Our SKALPEL paper on isolating, measuring, and benchmarking the impact of schema subsetting methods on LLM-based NL to SQL is accepted to VLDB 2026!
+- 11\/25: Our [papers/2026_MICRO_ICDE.pdf *MICRO* paper] on formally defining and optimizing the first ever cross-store relational-graph join operator, a part of Project AWESOME, is accepted to IEEE ICDE 2026!
 - 12\/24: Our [https://snails.jp8.dev/ *SNAILS* paper] on defining, measuring, and benchmarking the impact of database schema naturalness 
 on LLM-based NL to SQL is accepted to ACM SIGMOD 2025!
 - 8\/24: Arun receives a VLDB Early Career Research Contributions Award! 
